@@ -103,7 +103,7 @@
 4. Ask how they can experience it, not how you can clarify it.
 5. Ask how you can equip them to teach it to others.
 **Common mistakes:** Telling the feeling outright instead of showing the cue.
-**Example:** To persuade a team that meetings run long, a manager does not say so. She shows a calendar where Tuesday's agenda has seven items and a clock reading 6 p.m. beside an empty office.
+**Example:** A clinic director wants nurses to see that shift handoff notes drop key facts. Instead of saying so, she reads one handoff note aloud and asks what they would do for the patient. Then she reads the full chart from the night before. The team spots the gap and names the fix before she does.
 **Sources:** Guptara; James
 
 ## F242 · Depth levels of influence

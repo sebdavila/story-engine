@@ -89,6 +89,8 @@ Lives in `../destilado/` next to the repo. Books and cards never enter the repo.
 
 **Knowledge entry format:** ID, canonical name, also known as, sources, use when, avoid when, steps, common mistakes, short original example.
 
+From the 55-card run on, IDs are append-only: never renumber or reuse an ID, even after its entry is removed.
+
 **Budget:** about 5K tokens per knowledge file. Split every shared file by family (questions by group); a writer that cannot fit its clusters stops and the controller splits the file further.
 
 **Copyright:** own words only, attribution as "(Hall; Davis)", no copied examples, no quotes in the repo. `SOURCES.md` lists all 55 books.
