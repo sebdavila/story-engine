@@ -5,7 +5,7 @@
 **Use when:** Someone says they have no stories, you are building a first story bank, or you need fresh material for a talk, pitch or leadership message.
 **Avoid when:** You already hold a well-tagged bank and only need to choose; go straight to selection (F19, F20, F21).
 **Steps:**
-1. Separate collecting from choosing. Set a timer and list fragments without judging whether they are good or shareable.
+1. Separate collecting from choosing. List fragments without judging whether they are good or shareable.
 2. Prompt with concrete nouns: people, places, objects, events. Add firsts, every job since your first casual one, mistakes, turning points, frustrations, customer objections, moments you saw your message working, and a favorite film, book or folktale you could retell from your angle.
 3. Run the lenses: recurring patterns, efforts with notable consequences, painful lessons, stories that changed you, moments of vulnerability, imagined futures fleshed out as scenes with real people.
 4. Work two tables: one row per job and one row per life experience, with columns for triumph, tragedy, tension and transition (F20). Tick at most two columns per fragment.
@@ -13,9 +13,8 @@
 6. Widen the sources: your own experiences, other people's stories (ask permission and credit them), and published stories.
 7. Pair two fragments that show a before and after in your relationship to a person or issue.
 8. For technical teams, show photos of people with no products in them and ask which image brings back a memory.
-9. Log everyday incidents the day they happen and pair each with a business lesson; store them with a title and tags (T019).
-10. Only now choose: define the audience and what they should think, feel, know or do (T022), then pick the fragment that serves it.
-11. Protect new fragments: say what works in them before critiquing.
+9. Only now choose: define the audience and what they should think, feel, know or do (T022), then pick the fragment that serves it.
+10. Protect new fragments: say what works in them before critiquing.
 **Common mistakes:** Judging fragments while collecting; choosing the most moving story rather than the one that drives the needed action; borrowing a colleague's story without credit; mining only work triumphs, which sounds boastful.
 **Example:** An operations lead claims she has nothing to tell. Listing objects, she writes down the brass key to her first shop's back door; listing jobs, a night shift at a bakery. The key reminds her of the day she locked herself out before a delivery and the driver helped her climb through a window. Paired with her current rollout of shared access codes, it becomes a story about designing processes that survive a bad morning.
 **Sources:** Hall; Dolan; Simmons; Callahan; Guptara; Forman

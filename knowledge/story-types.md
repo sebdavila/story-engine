@@ -87,7 +87,7 @@
 ## S15 · Bad-news presentation
 **Purpose:** Present red findings to senior people without blame and turn the room to solutions. **Audience:** Senior stakeholders, steering and audit committees. **Teller:** Project leads, auditors.
 **Choose when:** Status is red or an audit found failures.
-**Shape:** F04 with the findings stated plainly as the complication and most of the time spent on the resolution. Facilitate neutrally: describe causes as process gaps, not people, and redirect blame toward next steps (T083, T065). Keep blame and victim framing out (S23).
+**Shape:** Facilitate neutrally, without pointing fingers, and pivot the room to solutions (T083, T065). Keep blame and victim framing out (S23).
 **Sources:** Parikh
 
 ## S16 · Founder and origin story

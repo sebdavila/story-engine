@@ -1,6 +1,6 @@
 # Rubric — scoring a business story draft
 
-Score each criterion 0, 1 or 2. Total out of 20. A draft below 12, or with a 0 on R01, R05 or R08, goes back for a rewrite before polish. Score the draft as it would be heard or read by the named audience, not as the author intends it. Cite the R ID and the fix IDs in feedback.
+Score each criterion 0, 1 or 2. The scale, the total out of 20, the rewrite threshold and the five-fix cap are story-engine conventions, not claims from the books. Total out of 20. A draft below 12, or with a 0 on R01, R05 or R08, goes back for a rewrite before polish. Score the draft as it would be heard or read by the named audience, not as the author intends it. Cite the R ID and the fix IDs in feedback.
 
 ## R01 · Character
 **Check:** Who the story follows. Look for one identifiable person with a name or a clear role, who wants something and acts. Check whose eyes the audience sees through and whether that person resembles the audience in values or stakes.
@@ -63,6 +63,9 @@ Score each criterion 0, 1 or 2. Total out of 20. A draft below 12, or with a 0 o
 **Fix:** Run T107 before telling; let the person who lived it speak with T023; collect and keep customer stories unpolished with F18; pair a story with a fact sheet for analytical audiences with F24; replace blame or spin with true stories per S23.
 
 ## Using the rubric
+
+Story-engine convention, not a book claim.
+
 - Score R01 to R05 first: they decide whether the draft is a story at all (F02). If two or more score 0, restructure with F01 before line edits.
 - Score R08 and R09 against the brief, not the draft's own claims.
 - Report the two lowest criteria first, each with one concrete change and its IDs. Do not list more than five fixes per round.

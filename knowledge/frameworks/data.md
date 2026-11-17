@@ -32,12 +32,12 @@
 **Use when:** You must show quantitative data on a slide or in a report and want the viewer to get the point within about ten seconds and carry it into the decision.
 **Avoid when:** Readers need to look up exact individual values; give them a table instead (T037).
 **Steps:**
-1. Catch the eye at once: give one element a pre-attentive cue, such as a contrast colour, a thicker line, a larger size or a big-number callout, on exactly the data that proves the point (T036). Mute everything else to grey.
+1. Catch the eye at once: give one element a pre-attentive cue, such as a contrast colour, a thicker line, a larger size or a big-number callout, on exactly the data that proves the point (T036).
 2. Respect working memory: keep the chart to about four visual chunks. Replace raw grids of numbers with the chart type that matches the data shape (T034). Remove gridlines, decimals, redundant labels and legends; label lines directly where they end (T035).
 3. Reach long-term memory: write a full-sentence title that states the message, not the topic (T029). The title and the highlighted element must say the same thing.
-4. Test: show the slide to someone for ten seconds, hide it, and ask what it said. If they cannot repeat the title's claim, simplify again or replace the chart with the number (T033).
+4. Test: can a viewer decode the intended message within 7 to 10 seconds? Read only the title: does it state the takeaway on its own? If not, simplify again or replace the chart with the number (T033).
 **Common mistakes:** Topic titles such as a metric name and a date range. Several highlights competing on one chart. Legends that force eye travel. Dense tables pasted from a spreadsheet when one comparison would do.
-**Example:** A logistics team shows a grid of on-time rates for six warehouses over twelve months. They redraw it as a line chart with five grey lines and one red line for the warehouse that switched to night loading, labelled at its end. The title reads: Night loading lifted one warehouse from worst to best on-time rate in six months. Viewers name the warehouse and the change without being told.
+**Example:** A logistics team shows a grid of on-time rates for six warehouses over twelve months. They redraw it as a line chart with one red line for the warehouse that switched to night loading, labelled at its end. The title reads: Night loading lifted one warehouse from worst to best on-time rate in six months. Viewers name the warehouse and the change without being told.
 **Sources:** Parikh
 
 ## F26 · Bright spots: contrast top and bottom performers

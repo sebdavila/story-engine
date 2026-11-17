@@ -102,7 +102,7 @@
 **Sources:** McKinsey; Callahan
 
 ## F08 · Strategy story: past, pivot, present, future
-**Also known as:** X Story / Four Ps; Four Steps of Strategy (Guptara); Clarity Story; Strategy Stories; Costanza Manoeuvre (Callahan); change story (Edwards)
+**Also known as:** X Story / Four Ps (Guptara); Clarity Story; Strategy Stories; Costanza Manoeuvre (Callahan); change story (Edwards)
 **Use when:** Explaining a new strategy, a reorganization or a hard decision such as layoffs, so people stop filling the gap with rumours.
 **Avoid when:** The audience needs a multi-year roadmap of phases (F09) or a data case for approval (F04).
 **Steps:**
