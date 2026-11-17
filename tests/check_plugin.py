@@ -49,6 +49,9 @@ SKILL_NEEDLES = {
                                    "story-review", "When to use", "Goal map"],
     "story-mining": ["../../knowledge/questions/", "founder-and-origin", "customer-and-buyer",
                      "personal-memory", "story-structure", "index.md"],
+    "story-structure": TRACE_LABELS + ["story-engine:knowledge-auditor", "## QA pending",
+                                       "no QA", "Goal map", "index.md", "at most 2 candidates",
+                                       "## Formats", "story-draft"],
 }
 KNOWLEDGE_REF = re.compile(r"\.\./\.\./knowledge/([\w./*<>-]*)")
 
