@@ -9,7 +9,7 @@
 2. Opportunity: prove a specific avenue is viable and lucrative. Lay out the options without overlap or gaps, prioritize the best subset and state what it takes (resources, time, business-model change).
 3. Resolution: prescribe the actions the audience must take to capture it, embedding a short F064 for the client if you shift from industry benchmarks to their case.
 **Common mistakes:** Using it on an audience that does not yet see the problem.
-**Example:** A regional ferry operator knows its ticket sales are flat. The pitch reviews falling commuter numbers, then shows a cargo-and-tourism route that rivals have not entered, with the crew and dock changes it needs. It closes with four actions for the next two quarters.
+**Example:** A children's hospital already ranks first in its region and wants to rise further. The board presentation reviews the hospital's growth and its current strain, with families driving hours for routine follow-ups. It then compares remote follow-up visits, satellite clinics and a research partnership, and ranks remote visits first, with the nurses and software they need. It closes by asking the board to approve the hiring and a spring rollout.
 **Sources:** McKinsey
 
 ## F269 · Pilot-results-scale update
@@ -21,7 +21,7 @@
 2. Results: report plainly which hypotheses held, which failed and what surprised you.
 3. Scale: request specific time, money and headcount with a business case stating scope, timeframe, resources, expected return and KPIs.
 **Common mistakes:** Sugar-coating failures; ending a status update with no request.
-**Example:** A grocery chain tested curbside pickup in two stores. The team recaps the goal, a 15 percent basket lift. It reports that evening slots filled and morning slots stayed empty, and asks for six staff and a budget to extend evening pickup to twenty stores.
+**Example:** A regional airline tested self-service bag drop at one airport. The team recaps the goal of cutting queue time by a third and the two hypotheses tested. Queues did shrink, but staff could not be cut, because older travellers still needed help, and the surprise was that freed-up agents sold more seat upgrades. The team asks for kiosks at three more airports with current staffing, with queue time and upgrade revenue as the KPIs.
 **Sources:** McKinsey
 
 ## F270 · Vulnerability loop
@@ -33,8 +33,6 @@
 2. Person B picks up on that signal and answers with a disclosure of their own or an empathetic reply.
 3. Person A acknowledges that reciprocation.
 4. Both feel deeper trust and closeness.
-5. As a leader or speaker, go first.
-**Common mistakes:** Disclosing something trivial or staged.
 **Example:** A new engineering manager opens her first meeting by admitting she misjudged a launch date last quarter and lost a weekend to fixing it. A developer says he skipped tests on a patch for the same reason. She thanks him and asks the team how to prevent it.
 **Sources:** Lazer
 
@@ -65,8 +63,8 @@
 4. Act 2, mentor or helper: the unexpected ally or break that unlocked progress.
 5. Act 3, tests, allies and enemies: grit against rivals and early execution trials.
 6. Act 3, transformation: the breakthrough and how hero and customers changed.
-**Common mistakes:** Skipping the obstacles and mentor beats.
-**Example:** A founder of a bike-repair app starts with fixing neighbours' tires in a garage in Quito. A single stranded courier sparks the idea, three banks refuse a loan, a retired mechanic offers his workshop, and the first 200 couriers become the proof.
+**Common mistakes:** Listing product features in place of the hero's struggle.
+**Example:** A candidate for director of a city recycling program tells the hiring panel her story. She grew up sorting cans for deposit money and admits she once quit a job in a rage. The call came when a landfill fire shut her school for a week. Two grant bids failed and a council vote went against her until a retired engineer taught her to read waste contracts, and her first pilot street cut its landfill tonnage in half.
 **Sources:** Lazer
 
 ## F273 · Six-move head-heart-will talk
@@ -96,7 +94,7 @@
 5. Work backwards to the key messages each segment must receive and believe.
 6. Choose guided, linear delivery for a directed action, or exploratory, interactive delivery for an open-ended one.
 **Common mistakes:** One message for all segments. Trust in the publisher and strong prior beliefs filter engagement, especially on charged topics.
-**Example:** A city air-quality report targets parents, school boards and bus operators. Parents currently think the air is fine, feel unconcerned and do nothing; the target is to think it is a risk, feel motivated and request alerts. Each group gets its own message and format.
+**Example:** A university library uses its usage data to argue for longer opening hours. It segments students, faculty and the budget committee. Students currently think the library closes too early, feel frustrated and study in cafes; the target is to think late hours are coming, feel heard and fill the evening seats. The budget committee currently thinks hours are a cost, and the target is to see them as a retention tool, so each group gets its own message and format.
 **Sources:** Feigenbaum
 
 ## F275 · Positioning the business hero
@@ -108,7 +106,6 @@
 2. Stand their ground: show command of a territory of real expertise.
 3. Keep the capacity to surprise: present a many-sided human with minor flaws, so the final moment of awareness is prepared.
 4. Play the good guy: show a public commitment to the common good and to product quality by hearing customers out and giving them what they ask for.
-**Common mistakes:** A flawless, distant expert.
 **Example:** A family-run roofing firm picks its foreman Dalia as spokesperson. She rides along on estimates, explains flashing the way a neighbour would, admits she once misjudged a leak, and ships the exact fix homeowners told her they wanted.
 **Sources:** Maxwell
 
@@ -122,7 +119,7 @@
 3. Pair statistics with three to five personal cases: data for critical thinkers, stories for emotion.
 4. Keep reframing the antagonist over time so the story never goes static.
 **Common mistakes:** Naming a problem with no solution in sight; stats with no human cases.
-**Example:** A sleep-tracking ring maker moves from "tired people" to "fragmented deep sleep" six weeks before launch. Its site shows a clinical chart and four short stories of nurses on rotating shifts, and next year it reframes the enemy as the late-evening screen habit.
+**Example:** An IT lead wants executives to fund single sign-on. Staff accept slow logins as part of office life, so she renames the problem from slow laptops to eleven minutes lost each day to repeated sign-ins, the exact thing the product removes. Her proposal pairs a time study with three short stories: a sales rep who missed a client call, a recruiter locked out during an interview, and a manager who gave up on a report. Next quarter she reframes the enemy as the password-reset tickets clogging the help desk.
 **Sources:** Maxwell
 
 ## F277 · Improv-led co-creation to rescue a failing change
@@ -133,8 +130,7 @@
 1. Diagnostic improv: welcome participants with live music and have actors play out their frustrations as a light metaphor so they relax and speak candidly.
 2. No-negativity brainstorm: ideate on the surfaced pain points, forbidding rejection of any idea as too wild or costly, and write a success outline.
 3. Joint roadmap workshop: spend a day with frontline staff and the program's architects turning all feedback into an implementation roadmap.
-**Common mistakes:** Skipping the architects in the final workshop.
-**Example:** A hospital's new shift-swap system is ignored. Actors stage nurses as sailors with no chart; staff then pitch fixes in a no-veto session, and the next day managers and nurses build the revised rollout plan together.
+**Example:** A city library's new self-checkout rule is ignored by branch staff who were never asked. Actors stage a dinner party where the host swaps every guest's plate halfway through the meal, and the laughter opens up the real complaints. Staff then pitch fixes in a session where no idea may be called too costly, and a day later the branch heads and the rule's authors build the revised rollout plan together.
 **Sources:** Cody
 
 ## F278 · Situations where a story beats facts
@@ -153,5 +149,5 @@
 9. A coming no: tell disaster stories first so the refusal brings relief.
 10. Sour mood: drop a curious teaser and a funny self-deprecating story before the hard work.
 **Common mistakes:** Facts first, story second.
-**Example:** A lab manager must refuse an extra freezer request. Before saying no, she tells how a freezer last year tripped the building's circuit and cost three weeks of samples. Her team nods and offers to share the existing unit.
+**Example:** A rooftop-solar installer cannot easily explain what a ten-year payback feels like. Instead she narrates the story of a named customer, Mr. Okafor, whose January bill fell from 310 dollars to 90 after the panels went up in March. She gives the dates and the figures, and the prospect can picture the same change.
 **Sources:** Simmons

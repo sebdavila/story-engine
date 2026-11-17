@@ -9,7 +9,7 @@
 2. Use the central route (benefits, proof, claims) when people are actively comparing options.
 3. For new or lesser-known brands, combine emotional narrative with a clear product fit.
 4. Reserve pure-emotion spots for icons with near-universal awareness.
-**Example:** A new oat-milk brand shows a comic breakfast chaos scene, then closes on two plain proof cues: no added sugar, barista-tested. A century-old dairy can run only a nostalgic family-table scene.
+**Example:** A new local hearing clinic films a grandmother laughing as she finally catches her grandson's joke at dinner, aimed at adult children who scroll past health ads. Because few people know the clinic's name, the last seconds add its name, a free hearing test and a 30-day trial. The landing page then lists models and prices for visitors already comparing clinics.
 **Sources:** Quesenberry
 
 ## F247 · Plan book and pitch as five acts
@@ -36,7 +36,7 @@
 3. Promise: the specific value or change offered.
 4. Brand: credibility and authenticity behind the promise.
 5. Connection: a concrete shared next step that cements the relationship.
-**Example:** A language-app founder emails a school principal a voice note in a student's accent (attention), says her pupils can hold a five-minute conversation in a month (message and promise), cites a pilot in two districts (brand), and proposes a Thursday class visit (connection).
+**Example:** A fitness-tracker company welcomes new users with a one-line push alert that names their step goal (attention) and a single screen saying the watch builds a weekly plan in two minutes (message and promise). A line below cites a clinic study on adherence (brand). The flow ends by asking the user to pick the first walk time and sync it to their calendar (connection).
 **Sources:** Paulsen
 
 ## F249 · Give Before You Ask
@@ -50,7 +50,7 @@
 4. Earn likes and comments with story value, then earn shares by framing the piece so the sharer looks in-the-know without social risk.
 5. Build background knowledge with steady priming videos before a flagship piece.
 6. Make one clear ask (see F250) or retarget those who engaged, then return to giving.
-**Example:** A climbing gym posts daily route-setting clips, a grip-strength tip and a poll on music for the wall. After a month of replies, it posts one offer for a free first lesson and then goes back to clips.
+**Example:** A neighbourhood pharmacy posts a short video on reading a prescription label, a joke about pill-organizer chaos and a reply to every comment for weeks. Reading the comments, staff see that most questions are about seasonal allergies. The pharmacy then posts one clear offer, a free allergy consultation this Saturday, and goes back to the tips.
 **Sources:** Vaynerchuk; Creek
 
 ## F250 · Clean Conversion Ask
@@ -63,7 +63,7 @@
 3. Follow the platform's native visual style, voice and linking mechanics.
 4. Deep-link to the exact product, signup or promo page, not the homepage.
 5. Keep slang, humor and tone in the ask itself.
-**Example:** A bakery's post shows a tray of cardamom buns with the offer centred clear of crop edges and the line Grab a box, linking to the preorder page for that bun.
+**Example:** A community theatre's Instagram story for its spring musical asks for one thing: pick a Friday seat. The team previews it on an old phone to make sure the countdown sticker and the pun-heavy caption, in the theatre's usual voice, are not cut off. The link sticker opens the seat map for Friday's show, not the theatre's home page.
 **Sources:** Vaynerchuk
 
 ## F251 · High-arousal emotions for sharing
@@ -88,7 +88,7 @@
 1. Empathy first: centre one relatable person's struggle to earn trust.
 2. Reward attention: open information gaps, build anticipation, resolve with clear answers.
 3. Lower resistance: speak at an unhurried pace and add well-timed humor.
-**Example:** A pitch for rural clinics opens on a midwife, Asha, walking nine kilometres at night, withholds what she carries until the third beat, reveals it is a fridge key, and lightens the mood with a quip about her bicycle.
+**Example:** A security vendor pitching a bank's board opens on Dev, a payroll clerk who opened a fake invoice the week before his daughter's wedding. It holds back what the attachment did until the third slide, then shows it quietly copied every salary file. The presenter speaks slowly, and a dry line about Dev now refusing to open his own birthday cards lets the room breathe.
 **Sources:** Kamath
 
 ## F253 · Knowledge Pyramid
@@ -100,7 +100,7 @@
 2. Show field evidence of where it failed in practice.
 3. Cite an authoritative shift that sharpened the problem definition, while the problem persists.
 4. Present your solution as the modest next step.
-**Example:** A pitch for a rooftop-cooling paint: decades of reliance on air conditioning, field visits showing bills swallowing a quarter of household income, a city-health agency's move to cooling the buildings, and the paint as the next step.
+**Example:** A nurse-engineer pitching a hospital board on patient falls starts with the long-held view that more bed alarms prevent them. She then shows ward audits where units with the most alarms still had the most falls, because staff had learned to tune the noise out. She cites a national safety body that now names alarm fatigue as the core problem, while falls continue. Her proposal, a quiet sensor paired with hourly rounding on one ward, comes last as the modest next step.
 **Sources:** Kamath
 
 ## F254 · Spine Plus Pattern Break
@@ -113,7 +113,7 @@
 3. Spot the predictable transition, especially solution to path to market, and jump from A to C so listeners ask how you get back to B.
 4. Resolve with proof or a delayed reveal that supports your core value.
 5. Options: open with the team or business model if that is your edge; run a live time-bound demo, or hold the key reveal until after tasting.
-**Example:** A tea startup lets judges sip a smoky brew while it describes its roasting, and only then reveals the leaves are grown in a former coal valley, followed by its supplier contracts.
+**Example:** A founder of a flood-sensor start-up at a city-tech demo day opens on a corner-shop owner sweeping water out the door after every storm, a picture no judge would dispute. She covers the problem and the sensor, then skips the expected rollout slide and says three cities already use the service without buying a single device. The judges want to know how, and she steps back to the path to market: an insurer pays for the sensors because each early warning cuts its claims, and she shows the signed pilot. The twist sharpens her core value instead of replacing problem, solution or path to market.
 **Sources:** Kamath
 
 ## F255 · Story before argument
@@ -126,7 +126,7 @@
 3. For data, tell the opening story first, pause it for statistics and accolades, then return to the characters.
 4. Give the argument, logic and steps once defenses are down.
 5. End on the point, or for the data version, on the story's new normal so the last impression is emotional.
-**Example:** A school head opposes cash prizes for attendance. She tells of a club whose members stopped coming when prizes ended, then explains how rewards crowd out interest and closes with a recognition board plan.
+**Example:** A school superintendent faces a board that suspects the new reading program is another fad. She names that doubt, then tells of a seventh-grader who used to hide his book under the desk. She pauses the story for the numbers, a 14-point gain across the district, explains how the daily small-group sessions work, and returns to the boy now reading aloud to his little sister at night.
 **Sources:** Maestas; Callahan; Hall
 
 ## F256 · Logos, ethos, pathos in interviews
@@ -137,5 +137,5 @@
 1. Logos: supply facts, credentials and the practical steps that show how you solved the problem.
 2. Ethos: prove trustworthiness and values with specific true stories, not generic claims.
 3. Pathos: share work and non-work stories that show personality, passion and fit.
-**Example:** A candidate returning after a career break for a warehouse coordinator role tells of reorganizing her village's flood-relief supplies in three days, which shows her method, her reliability and her drive.
+**Example:** A candidate without a degree applies for a logistics analyst role. For logos she walks through how she rebuilt a depot schedule in Excel and cut late deliveries. For ethos she tells of staying overnight to fix a mislabeled pallet before a customer noticed. For pathos she mentions coaching her sister's football team, which shows how she treats people under pressure.
 **Sources:** Dolan

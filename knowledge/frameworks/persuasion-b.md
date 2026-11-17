@@ -17,8 +17,7 @@
 10. Team: photos, titles and relevant experience.
 11. Funding request: stage, past funding, exact amount, use of funds and revenue goal timeline.
 12. Close: contact details and one or two strong testimonials, ending on an invitation to join; keep backup slides and a printed packet for deep questions.
-**Common mistakes:** Matching problems and solutions out of order; leaving the testimonial out of the close.
-**Example:** A founder of a cold-chain sensor for vaccine clinics titles the deck Track, Alert, Save. Three spoilage problems each get a photo, and three sensor features answer them in the same order. She ends with a nurse's line that losing a batch used to mean a lost week.
+**Example:** A founder of a rooftop-garden irrigation controller titles her deck Water Less, Grow More. Slide three shows three problems, each with a photo: overwatering, missed rain forecasts, and wasted evenings. Slide four answers them in the same order. Slide nine puts her in the upper-right of the competitor grid, and the close carries a restaurant chef's testimonial and an invitation to tour a rooftop.
 **Sources:** Livesay
 
 ## F236 · Three kinds of client return
@@ -29,7 +28,7 @@
 2. Return on attention: show how you cut through clutter to win press buzz and the notice of customers, boards and investors.
 3. Return on wisdom: show strategic insight into the customer's journey that makes you an advisor worth a premium.
 4. Present all three in the pitch, so the buyer reaches the top rung of F227.
-**Example:** A catering firm proposes a joint anniversary dinner with a local museum. It forecasts ticket revenue, a feature in the city paper, and an insight that members attend most after evening lectures, so the museum should shift its events.
+**Example:** A software studio bids to rebuild a regional airline's booking app. It projects the extra direct bookings that would cover its fee within a year, shows how a redesign launch could earn coverage in travel media and the attention of the airline's board, and shares a finding from its user tests: most travellers abandon the app at seat selection, so the airline should rethink how it sells seats. The airline's procurement team ranks the studio as an advisor, not a vendor, and accepts the higher price.
 **Sources:** Livesay
 
 ## F237 · Story set for unspoken stakeholder questions
@@ -46,7 +45,7 @@
 7. Values in action (Simmons): show an abstract value through one real event.
 8. Pre-empt objections (Simmons): name the audience's private doubts inside a story before any ask.
 **Common mistakes:** Treating the what and how as full stories; they can be a hook or analogy that leads into a customer story (see F238).
-**Example:** A new plant manager tells workers about the night she dropped a shipment because she ignored a forklift driver's warning, then says openly her bonus depends on safety numbers, and describes the shift she wants them to run.
+**Example:** A freelance bookkeeper at a networking breakfast mentions helping her uncle keep the ledger at his tire shop (who). She says many shop owners want a clear view of cash but dread spreadsheets, and after ten years in a finance office she helps them close the month in a day (what). She admits she earns a flat monthly fee, so she wants clients to stay (why). Most bookkeepers wait for year end, she says, while she reconciles weekly (way).
 **Sources:** Guptara; Simmons
 
 ## F238 · Customer success story
@@ -116,7 +115,7 @@
 3. Aim deeper: use a story to shift feelings through experience, and a sense-making narrative to change how experiences are read.
 4. Let feelings realign belief and behavior.
 **Common mistakes:** Aiming only at the behavior tip.
-**Example:** A safety officer wants drivers to stop using phones. Statistics make drivers defensive, so she tells of a colleague's near miss at a school crossing, which changes how drivers feel before any rule is repeated.
+**Example:** A woman wants her elderly father to stop driving at night. Quoting crash rates only makes him argue that he has driven for fifty years. She stops debating and tells him about the evening she sat beside him and he missed a cyclist by a hand's width, and how her hands shook for an hour afterwards. His fear for others shifts first, and a week later he hands her the keys after dark.
 **Sources:** Guptara
 
 ## F243 · Sticky, retellable stories
@@ -130,8 +129,7 @@
 4. Add triggers: recurring cues, leaders' remarkable actions, artworks; hang cartoons of real stories with blank speech bubbles and no plaque so people ask for the story.
 5. Make it public in inductions, huddles and town halls.
 6. Show practical action tied to a universal theme, and reinforce an identity people are proud of.
-**Common mistakes:** Designing only for the first telling.
-**Example:** A bakery chain trainer tells of a manager who binned a whole tray after finding one glove fragment. Staff retell it because it shows the quality pride they want associated with themselves.
+**Example:** A senior producer at a public radio station tells each new intern how she got her first on-air slot: she pitched a story to the host in the thirty seconds of a stuck elevator. The tale is funny, gives interns an insider route to get ahead, and ties to a theme anyone recognizes, being ready when luck arrives. It is told at every intern induction, and the station hangs a cartoon of the elevator with an empty speech bubble by the coffee machine, so newcomers ask who said what.
 **Sources:** Guptara; Callahan; Sandler
 
 ## F244 · Why stories engage the brain (EASY)
@@ -155,5 +153,5 @@
 2. How: name the distinctive values, behaviors and process that live out the why.
 3. What: present the products and features as rational proof, only after the need has been accepted.
 **Common mistakes:** Overpromising distant social or environmental claims.
-**Example:** A founder of a repair-first shoe brand opens with her grandfather mending boots for neighbours, then explains the free resoling policy, and only then shows the boots.
+**Example:** A family bakery rewrites its About page. It opens with a belief: a town's bread should be made in that town, by people who live there. It then describes how it buys flour from two nearby mills and trains apprentices from the local school. Only at the end does it list its loaves, prices and opening hours.
 **Sources:** Kamath; Quesenberry

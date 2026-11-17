@@ -26,8 +26,8 @@
 5. Tell it aloud to a trusted listener or small group. Mark slow spots, confusion, missing feeling and memory gaps; cut to the time limit (Bowles).
 6. Prepare versions for different rooms by expanding, trimming or shifting which people and details lead, without inventing facts (Forman).
 7. Audit before use: is it too intimate, does it brag, are the facts right? Forman supplies a twelve-question checklist. Public leaders must verify even minor details, because critics seize on small slips.
-**Common mistakes:** Memorizing a script; keeping every detail; sharing a wound that is still raw; posting a vulnerable story online where it fixes your public identity.
-**Example:** A bakery owner pitching a lender recalls the night her oven failed before a wedding order. Her outline has four beats: the order, the dead oven, her aunt arriving with a borrowed one, her vow to never depend on one machine. She tells it twice to friends, who ask for the smell of burnt sugar and drop a long tangent. For the lender version she shortens the wedding and lengthens the vow.
+**Common mistakes:** Memorizing a script; keeping every detail; telling a story that is overly intimate or reads as bragging; skipping the fact check; posting a vulnerable story online where it fixes your public identity.
+**Example:** A new school principal needs a story to introduce herself at her first staff meeting. The worst-day prompt brings back her first week as a substitute, when a silent boy finally read aloud. Her outline has four beats: the chaos, the boy at the back, the book he chose, her decision to stay in teaching. Two former colleagues hear it, ask for the smell of the old radiator and catch a wrong year, and she trims a shorter version for parents' night.
 **Sources:** Bowles; Forman
 
 ## F107 · Insight-led creative brief
@@ -40,7 +40,7 @@
 3. Write a one-to-two-page creative brief answering eight core questions.
 4. Generate ideas with Young's five steps: gather specific and general raw material; combine it and ask why not; incubate by setting it aside; let the idea arrive; refine it against the brief.
 5. Rate lasting impact on the effectiveness ladder, from an influential idea up through a behavior breakthrough, a sales spike, a brand builder and a commercial triumph to an enduring icon.
-**Common mistakes:** Jumping to executions before the insight; accepting a statistic as an insight.
+**Common mistakes:** Jumping to executions before the insight; guessing instead of observing consumers; talking in internal jargon.
 **Example:** A bike-repair chain watches commuters at rush hour and hears the same complaint: a flat tire ruins the one hour of the day that is theirs. The insight is that riders treat the commute as private time, not transport. The brief targets that feeling, and the team gathers images of dawn rides, sets them aside overnight, and returns with a campaign about protecting your hour.
 **Sources:** Quesenberry
 
@@ -53,8 +53,8 @@
 2. Anchor the narrow tip of the cone in the present state.
 3. Project four widening bands: probable (trends continue), plausible (logical extensions), possible (broader realistic range) and preferable (the outcome you want).
 4. Throw in wild cards, rare shocks with large consequences, to pressure-test assumptions and spark ideas.
-5. Name each future briefly and ask what present decision it should change.
-**Common mistakes:** Treating one band as a prediction; skipping the past and starting from imagination.
+5. Use the futures to inform present decisions.
+**Common mistakes:** Treating a scenario as a prediction of what will happen.
 **Example:** A regional library board traces thirty years of shrinking book loans. The probable future is a quiet building with few visitors; plausible is a community hub; possible is a tool-lending center; preferable is a neighborhood workshop. A wild card, a free city-wide broadband launch, makes the board postpone a costly shelving purchase.
 **Sources:** Lupton
 
@@ -67,8 +67,8 @@
 2. Pick the two most decisive and make them the vertical and horizontal axes, each with two poles.
 3. Explore what happens if each quadrant becomes dominant; usually one quadrant is business as usual.
 4. Give every quadrant a memorable name and a short story.
-**Common mistakes:** Choosing two forces that move together; leaving quadrants unnamed.
-**Example:** A farm cooperative crosses rainfall (reliable or erratic) with buyer demand (local or export). Reliable rain with local demand is named Market Day; erratic rain with export demand is named Storage Race. Telling each quadrant as a story shows the board it is currently drifting toward Storage Race without having built a cold store.
+**Common mistakes:** Trying to capture more than two variables on one grid; leaving the quadrants without memorable names and stories.
+**Example:** A hospital emergency department crosses staffing (stable or scarce) with patient volume (steady or surging). The four quadrants become Quiet Watch, Thin Ice, Full House and Overflow Season. The team writes Overflow Season as a short story of a nurse triaging patients in a hallway at 3 a.m. Hearing it, the board funds an on-call surge roster before winter.
 **Sources:** Lupton
 
 ## F110 · Design fiction with forced connections
@@ -79,7 +79,7 @@
 1. Set a speculative frame: deal cards that combine an object, a terrain, a mood and an arc, or pair a familiar product with random attributes.
 2. Attach jarring adjectives (disposable, religious, mechanical) or verbs (melt, mend, mock, magnify) to the subject.
 3. Sketch or prototype the artifact that results, from utopian to dystopian, and read it backward like an archaeologist to expose the assumptions it reveals.
-**Common mistakes:** Rejecting a silly pairing too soon; treating the sketch as a product spec.
+**Common mistakes:** Expecting a ready-to-ship product from the exercise; treating the sketch as a production design.
 **Example:** A team designing a school lunchbox draws it with the verb mend and the adjective borrowed. The sketch is a box that patches its own dents and is lent between siblings. In discussion the group notices it had assumed every lunchbox belongs to one child, and starts exploring shared meal kits.
 **Sources:** Lupton
 
@@ -92,8 +92,8 @@
 2. Collect raw material: photos, surveys, video, transcripts, notes, sketches.
 3. Turn the data into design-relevant information by synthesizing findings into insights.
 4. Let empathy incubate, then convert inspiration into concrete solutions, treating users as peer experts who co-create rather than passive testers.
-**Common mistakes:** Testing users as subjects instead of partners; collecting data without synthesizing it.
-**Example:** A designer shadows night-shift cleaners and sees them re-label unmarked spray bottles with tape. She co-designs color-coded caps with two cleaners, who sketch their preferred grip on the spot. The cleaners keep the final prototype in their own carts.
+**Common mistakes:** Skipping field observation; testing users as passive subjects instead of partners.
+**Example:** An architect redesigning a community kitchen for refugee families cooks alongside six families in their temporary flats, photographing how they squat to grind spices and noting who talks while cooking. Back at the studio she sorts the photos and notes into two insights: work surfaces must sit low, and cooking is social. After a week away from the material, she invites two grandmothers to rearrange cardboard mock counters, and their layout, a low island ringed by stools, goes into the plan.
 **Sources:** Lupton
 
 ## F112 · Research-based audience persona
@@ -122,8 +122,8 @@
 3. Audience perception: the mental filters and biases that shape how a message is read.
 4. Audience context: the spatial, temporal, social and medium constraints at the moment they meet the story.
 5. For each layer list traits in two columns, works for you and works against you, and adjust tone, codes or medium where the second column is heavy.
-**Common mistakes:** Stopping at the persona layer; forgetting that the same person behaves differently on a commute and at a desk.
-**Example:** A museum wants a short film for teachers and for teenagers. The chart shows teachers value accuracy and watch in a staff room at lunch, while teenagers distrust adult authority and watch on phones with sound off. The team makes captions and a first-second visual for teens and a longer cut for teachers.
+**Common mistakes:** Treating persona demographics as enough; ignoring friction at the moment the audience meets the story.
+**Example:** A Spanish payments startup drafts onboarding emails for small shop owners in Japan. The chart puts reliability in the works-for column at the core persona layer, but culture, perception and context weigh against it: owners expect formal address, distrust unknown foreign firms, and read email on a desktop after closing. The team switches to a formal tone, leads with its local bank partner, and sends at 8 p.m. local time.
 **Sources:** Paulsen
 
 ## F114 · Consumer Narrative Research
@@ -138,5 +138,5 @@
 5. Use ZMET, an eight-step collage method with consumer-chosen photos, to expose unconscious metaphors.
 6. Use relaxed 60 to 90 minute one-on-ones to find childhood-rooted cues across five motives: survival, orientation, expectation, adaptation, play.
 **Common mistakes:** Asking consumers to write taglines; mentioning the brand in the first question.
-**Example:** A tea company interviews friends in pairs about the best afternoon of their lives. One partner keeps correcting the other's version, always toward quiet and a shared kettle. Only after forty minutes does the interviewer ask about tea, and the quiet-kettle thread becomes the research finding.
+**Example:** A regional coffee roaster assumes at first that customers hold no story about it. Researchers ask twelve customers to bring photos that capture how their mornings feel, and in the collage sessions three of them independently choose a lighthouse. Relaxed one-on-ones trace the image to the orientation motive: the café is where they get their bearings before work. That metaphor, not any tagline a customer wrote, becomes the starting point for the narrative.
 **Sources:** Vincent

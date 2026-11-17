@@ -3,7 +3,7 @@
 ## S021 · Epic
 **Purpose:** Narrate noble characters at length rather than act them out. **Audience:** listeners or readers. **Teller:** narrator.
 **Choose when:** the story spans a long time or several events happening at once. Aristotle: the epic is narrated, not acted, is not bound to a time limit, and can show simultaneous events.
-**Shape:** follow one unified action (F002) while the narrator moves freely across time and places.
+**Shape:** narrate rather than act out; the narrator moves freely across time and simultaneous events. See F002.
 **Sources:** Aristotle
 
 ## S022 · Simple versus complex plots
@@ -19,7 +19,7 @@
 **Sources:** Aristotle
 
 ## S024 · Double plot with poetic justice
-**Purpose:** Reward the good and punish the wicked in two threads. **Audience:** audiences who want justice. **Teller:** author.
+**Purpose:** Reward the good and punish the wicked in two threads. **Audience:** any. **Teller:** author.
 **Choose when:** the piece suits comedy; Aristotle ranks it second-best for tragedy and a better fit for comedy.
 **Shape:** run two threads, one for each side, and resolve each with its deserved outcome. See F055 for joining threads.
 **Sources:** Aristotle
@@ -39,7 +39,7 @@
 ## S027 · Coming-of-Age Story
 **Purpose:** Hold loose episodes together by growth rather than a single outer quest. **Audience:** any. **Teller:** author.
 **Choose when:** the through-line is maturation, self-knowledge or independence.
-**Shape:** string episodes so each one adds to the protagonist's growth; the climax shows the new maturity. See F021 for the change arc.
+**Shape:** unify the episodes by the goal of maturation, self-knowledge or independence rather than one outer quest. See F021 for the change arc.
 **Sources:** Barker; Brown
 
 ## S028 · Parallel Timelines
@@ -56,14 +56,14 @@
 
 ## S030 · Place-Based Immersive Experience
 **Purpose:** Let the audience move through a staged place and find the story in sequence. **Audience:** visitors. **Teller:** designer or host.
-**Choose when:** you control a physical space. Guided tours: a host or audio guide turns movement into discovery. Themed entertainment: guests are wrapped in a multi-sensory world from entrance to exit.
-**Shape:** map story beats to locations in walking order; see F031 for design dimensions.
+**Choose when:** the audience moves through a physical place. Guided tours: a host or audio guide turns movement into discovery. Themed entertainment: guests are wrapped in a multi-sensory world from entrance to exit.
+**Shape:** let the movement through space be the sequence of discovery, from entrance to exit; see F031 for design dimensions.
 **Sources:** Paulsen
 
 ## S031 · Wonder Versus Cautionary Speculation
 **Purpose:** Explore a possible future with awe or with a warning. **Audience:** any. **Teller:** speculative author or designer.
 **Choose when:** Verne-style wonder explores for awe; Wells-style tales warn about a future.
-**Shape:** decide the stance first, then shape the premise and ending to match; see F108 for futures.
+**Shape:** choose wonder or warning; see F108 for futures.
 **Sources:** Paulsen
 
 ## S032 · Thesis-Based Story
@@ -99,23 +99,23 @@
 ## S037 · Screen story formats
 **Purpose:** Fit the arc to the format length. **Audience:** viewers. **Teller:** director or screenwriter.
 **Choose when:** feature: a linear journey: the protagonist steps into a strange situation with a goal, meets mounting complications, learns something and ends changed. Short: one act over a day or two, one crisis, one insight. Series: ensemble strands over tight cycles. Non-linear: fractured, reversed or embedded time, favoring a subjective experience over causal plotting.
-**Shape:** use F004 for features and shorts; for non-linear films reorder beats and keep the character's disorientation as the aim.
+**Shape:** use F004 for the feature's escalating buts; for non-linear films, prioritise the character's disoriented experience over causal plotting.
 **Sources:** Simson
 
 ## S038 · External genres by core stake
 **Purpose:** Pick an outer genre by the stake in play. **Audience:** any. **Teller:** author.
 **Choose when:** choosing a genre. Action: life/death. Adventure: near-death/accomplishment. Crime: unsolved/solved. Horror: damnation/salvation. Thriller: horrible death/safety. Romance: alienation/commitment. Buddy: break-up/love. Performance: rock bottom/achievement. Society: tyranny/benevolent structures.
-**Shape:** name the stake, then orient every scene toward it. Compare S044 to S055.
+**Shape:** pick the genre by its stake pair. Compare S044 to S055.
 **Sources:** Emunds
 
 ## S039 · Internal genres by faculty of consciousness
 **Purpose:** Pick an inner plot by what part of the self changes. **Audience:** any. **Teller:** author.
 **Choose when:** self-image: selfishness/altruism, identity, redemption, self-realization. Subconscious: education, skill, understanding, revelation, amnesia. Emotions: emotional intelligence or strength, addiction, attitude, trauma/peace. Intelligence: maturation, psychopathy/empathy. Worldview: objectivity, naivete/experience, disillusionment, sin/grace, enlightenment. Also punishment, testing, self-respect, self-doubt, affection, sentimental, degeneration.
-**Shape:** pick the faculty, then make the outer events press on it. See F091 for layered change.
+**Shape:** pick the faculty and one plot within it. See F091 for layered change.
 **Sources:** Emunds
 
 ## S040 · Narrative genres
-**Purpose:** Choose a treatment independent of stakes. **Audience:** any. **Teller:** author.
+**Purpose:** Choose among drama, literary fiction, comedy or satire, and tragedy. **Audience:** any. **Teller:** author.
 **Choose when:** drama aims at emotional or character truth; literary fiction adds artistic prose; comedy or satire adds a humorous voice or frame; tragedy is drama with an unhappy ending.
-**Shape:** combine with an S038 or S039 choice.
+**Shape:** compare S038 and S039.
 **Sources:** Emunds

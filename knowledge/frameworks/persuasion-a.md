@@ -24,7 +24,7 @@
 2. Present a contrasting second approach that fails in the opposite direction (outdated, unworkable or too costly).
 3. Present yours as the middle path that keeps the upsides and avoids both pitfalls.
 4. In product design, set ethical defaults, offer three tiers so the middle gets chosen most, and tune size, colour and description without deceiving.
-**Common mistakes:** Listing four or more options; straw-man extremes; pre-checked add-ons, disguised clickbait or hard-to-cancel flows, which erode trust.
+**Common mistakes:** Listing four or more options; pre-checked add-ons, disguised clickbait or hard-to-cancel flows, which erode trust.
 **Example:** A gym owner chooses a software vendor. The cheap spreadsheet tool saves money but loses members' booking history. The enterprise suite handles everything but takes months to set up. The mid-size app imports history in a day, and she picks it.
 **Sources:** Edwards; Lupton
 
@@ -41,7 +41,7 @@
 7. Safety: say explicitly what is reliable and protected for risk-averse listeners.
 8. Support: lay out implementation steps, dated commitments and quick wins that make them look good to their bosses.
 **Common mistakes:** Delivering a sealed, finished idea that gives the audience no role; one monotone pace; forgetting reassurance.
-**Example:** A consultant presenting a new rota to hospital managers leaves the weekend cover section blank on purpose and asks the head nurse to fill it. She also ends with a two-week pilot plan the managers can show their director.
+**Example:** A city planner presents a bike-lane plan to shopkeepers who fear losing parking. She starts from their worry about deliveries and asks a quick yes question at each new section, shows an agenda that ticks off finished parts, and names the loading bays that stay protected. She closes with dated steps and a first-month trial the shop association can take credit for with its members.
 **Sources:** Edwards
 
 ## F227 · Visibility ladder with a prospect
@@ -66,7 +66,7 @@
 2. Heart, do I like you: show real empathy and share a short human origin story.
 3. Head, will this work for me: tell a conflict-and-resolution story about a similar client so they can picture their own success (see F238).
 **Common mistakes:** Using the know-like-trust order; stopping after trust and liking, since the buyer still says no if they cannot see it working for them.
-**Example:** A tax adviser arrives at a busy dental clinic and tells the harried receptionist the schedule looks like a juggling act and she should call when ready. Later, with the owner, he mentions growing up in his father's repair shop, then tells of another clinic that stopped losing evenings to paperwork.
+**Example:** A commercial cleaning contractor meets the office manager of a law firm. He greets her calmly and keeps his promises about timing, which earns trust. He mentions starting at fourteen on his mother's night crew, which earns liking. Then he tells of a similar firm whose client files stopped going missing once the night shift was reorganized, so she can picture it working for her.
 **Sources:** Livesay
 
 ## F229 · Typing the buyer to tailor the pitch
@@ -100,7 +100,7 @@
 3. Culture: link your values and passion to theirs.
 4. Traction: show product and company momentum, and build relationship momentum up the ladder in F227 with useful ideas.
 5. Landing the plane: sit beside the buyer like a co-pilot so the move to yes feels like a planned descent.
-**Example:** A branding studio pitching a food bank states its mission to cut waste, introduces the designer who once volunteered there, shows the local campaign that doubled donors, and ends by asking which launch date the board prefers.
+**Example:** A construction contractor bids to build a primary school. Its proposal sets its aim of zero lost school days beside the district's goal of opening by September, introduces a site lead who went to that school, and ties the firm's safety record to the district's own values. It shows three schools finished early this year and ends by planning the handover week together with the head teacher.
 **Sources:** Livesay
 
 ## F232 · Calm objection handling
@@ -136,6 +136,6 @@
 3. At the first meeting skip decks, take full responsibility even if a predecessor erred, and describe the new systems.
 4. While they decide, treat them as family with congratulations, referrals and small gestures.
 5. Ask for the business, hold the silence, and once they return, agree the past is settled.
-**Common mistakes:** Arguing the facts; bringing market data to the apology meeting.
-**Example:** A print shop lost a theatre company after botching a poster run. The owner listens for an hour, owns the error, shows a new proof-approval checklist, sends opening-night flowers during the cooling period, then asks for the next season's work.
+**Common mistakes:** Insisting on being right; bringing market data to the apology meeting.
+**Example:** A translation agency loses a medical-device maker after a mistranslated label forces a product recall. The founder sets aside her view that the client's late source text was to blame, visits the quality director, lets him vent and reads his list back, and hears that the real hurt was facing the regulator. Her next meeting has no slides: she owns the error and explains the new second-linguist check. She sends congratulations when the client wins a certification, later asks for the contract and lets the silence sit.
 **Sources:** Livesay

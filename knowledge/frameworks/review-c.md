@@ -5,10 +5,10 @@
 **Use when:** Choosing which stories to retell, or polishing a thin fragment that has potential.
 **Steps:**
 1. Grade the story on three levels. Basic: it describes what happened. Good: it lets the listener see what happened through visual moments. Great: it lets the listener feel what happened by evoking emotion.
-2. For a basic fragment, ask follow-up questions of the person who lived it: what did you see, what did they do, what was said.
+2. For a basic fragment, ask follow-up questions of the person who lived it.
 3. Re-enact the key moment with the concrete detail and words the teller gave, until the listener sees and then feels it.
 **Common mistakes:** Retelling a flat report of results instead of the moment.
-**Example:** A nurse reports that a patient who had been on the ward for months finally walked out. Asked what happened, she describes him stopping at the door, putting on his own jacket and saying to the night staff, "Keep my bed warm for the next one." The retelling moves from reporting to feeling.
+**Example:** A plant manager gathering stories for safety week has three: a forklift near-miss told as a statistic, a description of the new floor markings, and a welder's account of the day a sensor shut down his line. All three grade as basic. Asked what he saw, the welder gives the arc light freezing and the hall going silent (good); asked what he did that evening, he says he walked his son across the road and held his hand longer than usual (great). The manager opens safety week with that crossing.
 **Sources:** Callahan
 
 ## F362 · Top-down multi-pass revision
@@ -25,7 +25,7 @@
 7. Pass four, proof. Run spelling and grammar and search for confused words such as their, there and they're, its and it's, lose and loose (Hauge). Butler's copyedit and proofread separate line-level from final fresh-eyes checks.
 8. Bring in fresh readers near the end: friends, mentors, a trusted writers' group or an email buddy (Apps; Hauge). Butler insists writers never edit their own work, since the brain fills in what it expects. Avoid groups dominated by competing egos, and filter contradictory suggestions (Apps).
 **Common mistakes:** Polishing sentences in scenes that will later be cut (Haven). Letting the author be the only editor (Butler).
-**Example:** A consultant, Marcus, writes a client success story in one sitting, then waits a week. First pass: he states the theme as "Small changes first beat big rollouts" and deletes two tangents on his own career. Second: he turns "the team worked through the migration" into a night-shift scene with dialogue. Third: he trims adverbs, locks past tense and cuts 15%. A colleague then proofs it.
+**Example:** A swim coach drafts her end-of-season banquet speech in one evening and leaves it for ten days. Pass one: she states the theme as "the slow lanes carried us" and cuts a paragraph on the pool renovation. Pass two: "everyone pushed hard at regionals" becomes the anchor swimmer's goggles filling with water on the last turn while she keeps counting strokes blind. Pass three: she strips adjectives, holds the whole speech in past tense and fixes a their/there slip, and an assistant coach hears it read aloud before the night.
 **Sources:** Hauge; Butler; Apps; Haven
 
 ## F363 · Ethics check before telling
@@ -37,7 +37,7 @@
 3. Run Sandler's ten considerations: usability, efficiency, safety, accessibility, transparency, avoiding excessive persuasion, beware of bad actors who could misuse it, understanding the impact on adopters' daily lives, environmental impact, and captivating hearts and minds.
 4. If the story uses sexual attraction or innuendo, have both men and women review it before launch (Butler).
 5. Rework or drop anything that fails.
-**Common mistakes:** Treating urgency cues in a checkout flow as harmless when they amount to coercion.
+**Common mistakes:** Letting persuasion override the audience's autonomy (Sandler).
 **Example:** A fitness brand drafts a story about a customer, Joan, whose before-and-after photo is used without her sign-off. The audience test fails: Joan would feel exposed. The team asks her permission and lets her choose the photo.
 **Sources:** Sandler; Callahan; Butler
 
@@ -55,7 +55,7 @@
 7. Test every element of the starter outline against the five points over successive interim outlines until you have one unified intentional outline. Keep what fits; cut or rework what does not.
 8. Optionally fix plot holes, structure and pacing, then draft or edit from the outline. Run a second round of the compass on the finished draft to catch scene, diction and dialogue deviations.
 **Common mistakes:** Polishing scenes that later get cut for breaking genre or tone. Once fixed, the compass closes off other directions; deviations inside one story harm unity (D'Costa).
-**Example:** A short-story writer fixes: protagonist Brother A, genre heist action, theme the emptiness of revenge. A scene where Brother B takes over and one where a ghost turns slapstick both fail the compass and are cut before any line editing.
+**Example:** A writer of a children's audio series fixes the points for a season: plot, a girl's drive to get her runaway kite back from across the valley; protagonist, Nia alone; genre, gentle adventure; tone, no peril worse than a scraped knee; theme, asking for help is brave. On the rough-draft track she sums up each recorded episode in two sentences. Episode 4 turns out to be a bicycle-theft mystery that never touches the kite, so it is re-outlined around the chase before any script polish.
 **Sources:** D'Costa
 
 ## F365 · Outline the rival option and compare
@@ -70,7 +70,7 @@
 5. For plots decide: reject inner-critic sabotage and finish Y; adopt Z (draft forward, then rewrite the first half); or shelve one gem. For protagonists, ask whether it is sabotage, muse protection (an easier character) or muse growth (a harder one, marked by relief and synchronicity).
 6. Handwrite the reasons for your choice and keep the note nearby to re-read in rough patches.
 **Common mistakes:** Recycling the same flawed protagonist and premise for two books without changing the flaw and theme (D'Costa).
-**Example:** Forty-five percent into a novel, a writer wants the hero's best friend to lead. She outlines the back 55% with the friend in front. It resolves three stuck subplots and creates no holes, so she adopts the switch and writes her reasons on an index card.
+**Example:** A video-game narrative designer's starter outline mixes two plots: a courier racing to deliver a vaccine, and the same courier exposing a corrupt guild. She builds outline B, all delivery, adding a rival courier as antagonist, and outline C, all guild, with a betrayal at the midpoint. Stacked against A, both B and C are strong, so she ships the delivery story in this game, files the guild outline for the sequel, and handwrites her reasons on a card taped to her monitor.
 **Sources:** D'Costa
 
 ## F366 · Protagonist signals
@@ -83,8 +83,8 @@
 3. If misaligned, outline three versions: A alone, B alone, A and B as a pair. Choose on skill, deadline and potential.
 4. Delay stakes: first set up the protagonist's launch, bonding cues and opening scenes, and only then linger on the tragic past of the supporting cast.
 5. Phenotype swap: try making the protagonist much older or the other gender, and optionally flip the antagonist's gender, to find richer stakes or remove creepiness.
-**Common mistakes:** Opening on a sympathetic side character's childhood so the audience adopts them as the hero.
-**Example:** A pilot script titled for Captain Wells opens with a deckhand's family drama. Moving the opening to Wells hauling a net in a storm aligns launch, bonding cues and title.
+**Common mistakes:** Front-loading the supporting cast's stakes before the protagonist's launch and bonding cues.
+**Example:** An audio drama about two sisters running a ferry is pitched as a dual-protagonist story, but the indicator audit shows the elder gets every rescue, the circle of friends and the only arc, while the younger mostly reacts. The writer outlines elder alone, younger alone and the pair, keeps the pair, and gives the younger her own dockworker friends and the season's key escape from trouble. A phenotype swap, making the elder sixty, adds a sharper stake: who inherits the boat.
 **Sources:** D'Costa
 
 ## F367 · Genre promise and delivery
@@ -99,8 +99,8 @@
 5. Make the climax fulfill genre conventions in an original way.
 6. Dramatize unexplored pockets to deepen the genre experience at escalating intervals; cut off-genre filler that adds breadth at the expense of depth.
 7. Check each romance subplot, alone and together, for relevance (effect on plot, stakes, climax) and weight (page share). Cut extras or swap in friend, sibling, colleague, parent-child, mentor or boss conflicts.
-**Common mistakes:** An extended slapstick opening in a science-fiction action film sets false comedy expectations (D'Costa).
-**Example:** A cozy-mystery writer finds her logline reads "a gritty chase thriller" once adjectives are inserted. She cuts a car-chase prologue, adds a tea-shop clue scene early, and rewrites the climax as a quiet reveal over a ledger.
+**Common mistakes:** An opening in a different genre or tone from the rest of the story sets false expectations (D'Costa).
+**Example:** A screenwriter pitching a family heist comedy stuffs her logline with genre words and finds it reads as a tense, brooding revenge drama. She lists conventions from six recent heist comedies (the crew assembly, the plan montage, the plan going wrong in a funny way) and sees her script has no crew-assembly scene, so she adds one. A romance between two crew members never affects the job, so she swaps it for a father-daughter rivalry over who leads the heist.
 **Sources:** D'Costa
 
 ## F368 · Tonal boundaries
@@ -117,8 +117,8 @@
 7. Write a voice-filled book-description line about sex, gore, violence and profanity to deter mismatched buyers.
 8. Keep an entertainment journal of what you consume with its tonal attributes, or abstain from same-genre media while outlining.
 Sandler's verisimilitude adds internal plausibility and honest answers to dissent.
-**Common mistakes:** A knife slashing in a romantic comedy with mild violence; screenwriters cannot control Hollywood chefs in production.
-**Example:** A cozy podcast drama has a villain smashing a window with a crowbar. The writer substitutes a garden trowel and cuts the aftermath, and the book description promises "no gore, plenty of tea."
+**Common mistakes:** Violence above the tier the genre and audience pool promise; screenwriters cannot control Hollywood chefs in production.
+**Example:** A writer of a gentle office comedy plans a shock joke in chapter 20 where the meek archivist swears at the CEO. To make it feel earned, she adds a moment in chapter 2 where he mutters something rude at the photocopier. She also adds a blurb line promising no gore, some swearing and a lot of toast.
 **Sources:** D'Costa; Sandler
 
 ## F369 · Theme extraction
@@ -131,7 +131,7 @@ Sandler's verisimilitude adds internal plausibility and honest answers to dissen
 3. Include any gems this reveals, such as a sharper antagonist; select one prevailing theme; cut or recast scenes expressing rival themes.
 4. Reinforce it by reverse-engineering the six tools: script a midpoint or climax dilemma between two ideals, or mirror the hero's flaw in the antagonist's strategy. Then check draft dialogue in a second round.
 **Common mistakes:** Letting several themes compete in the same story.
-**Example:** In a comedy about a mother planning a birthday party, arguments with her husband about delegating imply "balance," while a rival parent implies "let go of grudges." She picks time over money, cuts the delegation scenes and makes the rival a stepmom whose own party wins little.
+**Example:** A sports novel follows a boxing coach about to lose his gym. The tools give three candidates: the resolution (he loses the gym but keeps the kids) implies community over property, the trait that separates him from the rival promoter implies patience against hype, and his backstory implies forgiving his father. He picks patience, deletes the father flashbacks, and mirrors the coach's old flaw in the promoter's strategy of rushing a young fighter into a title bout.
 **Sources:** D'Costa
 
 ## F370 · Relatability, novelty, tension, ease
@@ -143,9 +143,9 @@ Sandler's verisimilitude adds internal plausibility and honest answers to dissen
 2. Novelty: once comfort is established, add an unexpected twist, fresh context or counterintuitive idea. Snow and Lazauskas warn that novelty before relatability confuses.
 3. Tension: open a gap between what is and what could be, and keep closing and reopening it until the resolution.
 4. Ease (fluency): simple words, low reading level, brisk pace. Lazer's test: a fast, jargon-free hook in the first seconds, often a curiosity gap.
-5. Mark which element is missing and fix that one; one missing weakens the rest.
+5. Check that all four are present; mastering only one captures fleeting attention (Lazer).
 **Common mistakes:** Fast pacing without clarity breaks fluency (Snow & Lazauskas).
-**Example:** A cybersecurity video opens with an IT clerk, Noor, awkwardly explaining her job to her aunt at dinner (relatable, easy). The aunt then reveals her own email was hacked last week (novelty), and the question hangs: could Noor fix it before Sunday's family wedding photos upload (tension)?
+**Example:** A meal-planning app video opens on a night-shift paramedic, Luis, staring into an empty fridge at 7 a.m. (relatable, plain words). The only thing inside is a birthday cake for his daughter with a note that the party starts at noon (novelty). Can he sleep, shop and cook before then (tension)? Short sentences and a cut every few seconds keep it easy to follow (ease).
 **Sources:** Snow & Lazauskas; Lazer
 
 ## F371 · Cultivating taste
@@ -158,6 +158,6 @@ Sandler's verisimilitude adds internal plausibility and honest answers to dissen
 3. Study the masters: take apart writers you admire and practice their sentence rhythm, structure and influences.
 4. Try and fail: ship many finished stories on fixed deadlines.
 5. Embrace the gap: use the persistent distance between what you admire and what you produce as a compass rather than a cause to give up.
-**Common mistakes:** Consuming only what the feed serves, so your taste is its taste.
+**Common mistakes:** Reading the gap between what you admire and what you make as a reason to quit.
 **Example:** A junior copywriter, Ana, picks one radio essay each morning, notes the sentence that made her tense and why, rewrites it in her own subject, and publishes one 300-word piece every Friday. After three months her notes show she favors short sentences before a reveal, and she uses that.
 **Sources:** Lazer

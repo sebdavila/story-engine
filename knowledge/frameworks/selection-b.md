@@ -22,9 +22,8 @@
    - Form a new consumption culture: teach how the world works through recurring stories.
    - Increase perceived value: attach fictional or craft provenance (the Significant Objects model).
    - Win share of attention: trigger Medina's survival, sex and emotion cues.
-3. Develop only that technique; drop the others.
 **Common mistakes:** Making a funny piece without choosing one objective.
-**Example:** A tea brand's brief asks for something fun. The team picks one function, increase perceived value, and writes a short invented provenance for a plain blend: a ferry cook who brewed it for night crews. Sales copy and packaging then follow that single provenance.
+**Example:** A regional credit union faces a data-breach scare, and the comms head is asked for a reassuring video. She picks one function, navigate a crisis, and routes it to survival framing. The first messages show members three things they can do today: freeze cards, reset PINs, call a dedicated line. Only after those land does the next update say how many accounts were exposed, so no piece drifts into brand cheer.
 **Sources:** Terenzzo
 
 ## F152 · Sales stories by purpose
@@ -35,9 +34,8 @@
 1. Benefit story: turn a dry case study into a human anecdote about a client in a similar industry or with a similar challenge, showing how the offering changed things for them.
 2. Values story: tell a genuine story of why you joined, a time the company went beyond the call of duty, or who taught you your work ethic, instead of claiming a value.
 3. Concern story: voice the prospect's unspoken fear early, then tell of a past client who held that same concern and got a good result.
-4. Keep it short and tie it to the feature or decision at hand.
 **Common mistakes:** Claiming values instead of proving them; leaving the objection unspoken; stories with no link to the sale.
-**Example:** A solar installer meets a homeowner worried about roof damage. She says people often fear that, then tells in three sentences of a retired teacher who had the same worry, watched the crew work for one day, and now forgets the panels exist. The unspoken worry is answered without a pitch.
+**Example:** A freight forwarder's account manager meets an importer who says every forwarder claims to care. Instead of repeating the claim, she tells of the night her team drove customs papers to the port at 1 a.m. so a client's refrigerated container would not be held. She links it to the importer's own perishable cargo and stops there, letting the story prove the value.
 **Sources:** Dolan
 
 ## F153 · Choosing the hero for a case study
@@ -53,8 +51,7 @@
 6. Direct attribution: success came from your product, service or teaching.
 7. Dream-matching aftermath: the new life reflects what your target buyers deeply want.
 8. Score each candidate; choose the one meeting the most criteria.
-**Common mistakes:** Picking a flashy result that your offer did not cause.
-**Example:** A language school compares five alumni. A nurse who won a job abroad with a B2 exam fits all seven: similar to prospects, anxious about patients not understanding her, aimed at one test score, struggled with night shifts, credits the course, will talk, now works where she wanted. A student who moved abroad for his spouse's job is dropped.
+**Example:** A payroll-software firm scores five customers for a case study. A café-chain owner fits all seven: she runs under fifty staff like most prospects, lost two weekends a month to manual payroll, aimed for fewer than one payday error a quarter, pushed through a messy data migration and her own distrust of software, credits the tool, agrees to be filmed, and now spends those weekends with her children. A logistics firm with equally strong numbers drops out because it will not allow its name.
 **Sources:** Hauge
 
 ## F154 · Topic testing with micro surveys
@@ -66,8 +63,7 @@
 2. Brainstorm several candidate topics that could matter to the target persona.
 3. Run low-budget topical ads asking the audience to click or vote on which matters most.
 4. Choose the highest-response topic and build a flagship asset around it.
-**Common mistakes:** Treating small-sample results as proof.
-**Example:** A cold-storage startup lists four topics for restaurant managers: waste, energy bills, staffing, audits. Small ads for each run for a week. Energy bills draws the most clicks, so the team builds a guide on cutting freezer costs, treating the result as a direction rather than a verdict.
+**Example:** A cold-storage startup lists four topics for restaurant managers: waste, energy bills, staffing, audits. Small ads for each run for a week. Energy bills draws the most clicks, so the team builds a freezer-cost calculator and a short webinar series around it, treating the result as a direction rather than a verdict.
 **Sources:** Butler
 
 ## F155 · Feature selection by satisfaction (Kano)
@@ -82,7 +78,7 @@
 5. Reverse: negative triggers that need immediate fixing.
 6. Confirm basics with a plain basic story, prove performance, and spend your narrative effort on delights.
 **Common mistakes:** Spending story time on features nobody cares about.
-**Example:** A boutique hotel lacks no basics. It compares well on Wi-Fi speed, but guests retell the night they found a hot-water bottle and a handwritten note on cold pillows. The pitch tells that story, mentions Wi-Fi briefly and leaves out the lobby's marble sourcing.
+**Example:** An e-bike maker plans a launch pitch. Working brakes and lights are basics, covered in one line. Range per charge beats two named rivals, so it gets a short comparison. Riders keep showing friends that the battery slides out and charges at a desk like a laptop, so that becomes the main story, and the twelve frame colours, which no buyer has asked about, are cut.
 **Sources:** Sandler
 
 ## F156 · Permitted edits to true stories
@@ -97,7 +93,7 @@
 5. Conflation: collapse months or years of gradual change into one decisive moment.
 6. Before each edit, ask whether it serves the audience and invents nothing.
 **Common mistakes:** Using edits to look better; adding a tidy epilogue.
-**Example:** Ana tells of getting her father to leave his home. Truth: three visits across a year, a neighbor who waited in the car. She merges the visits into one afternoon, drops the neighbor, and ends as he locks the door, leaving out the later move.
+**Example:** A retiring bus mechanic tells colleagues about the engine he could not fix in his first winter. Truth: the fault dragged across five cold mornings in two depots. He sets it in one depot on one morning, calls the forgotten model a city diesel because only that matters for the picture, and lets the foreman's single remark stand for months of learning the trade. He invents nothing and does not make himself the hero of the fix.
 **Sources:** Dicks
 
 ## F157 · Shrink big events to a small human truth
@@ -108,8 +104,7 @@
 1. Treat the dramatic event only as the vehicle that carries characters to where the real story happens.
 2. Find a small universal feeling inside it: loneliness, parental anxiety, unmet expectations, unexpected kindness.
 3. Anchor the key moment and arc in that feeling, not the spectacle.
-**Common mistakes:** Centering the telling on the catastrophe's mechanics.
-**Example:** Lena survived a night stranded on a ferry in a storm. Instead of the waves, she tells of sharing a sandwich with a stranger who kept apologizing for his seasickness, and the story becomes about how embarrassment makes people kind.
+**Example:** Raj trekked to Everest Base Camp, a trip few listeners will ever take. He skips the altitude and the views and tells of the satellite-phone call he made from the top to his estranged brother, where neither spoke for a full minute. The story becomes about the gap between the reunion he had imagined and the silence he got.
 **Sources:** Dicks
 
 ## F158 · Audience profiling in three depths
@@ -120,6 +115,5 @@
 1. Basic preparation, about one hour: collect must-know facts from sites, press releases, CRM and colleagues: industry, geography, headquarters, financials, executives, units, market share, products, segments, wins, competitors, news, relationships, known issues.
 2. Detailed preparation, half a day to a day: read annual and analyst reports for strategy, history, mergers, industry trends, innovation, sales channels, positioning, operating model and multi-year financials.
 3. Stakeholder profiling: for each decision maker or influencer who can help or hurt, record career background, likely role-driven interests and probable objections.
-**Common mistakes:** Stopping at company facts and ignoring individuals.
-**Example:** Before pitching a regional grocer, an analyst spends an hour on revenue and store count, then half a day on its price-war strategy, then profiles the finance chief (cares about margins), the operations head (fears new systems) and the marketing lead (wants faster promotions).
+**Example:** A youth-literacy nonprofit prepares a grant request to a family foundation. In one hour its development lead gathers the foundation's assets, past grants and recent press. Over half a day she reads five years of annual reports and spots a shift from scholarships toward early-grade reading. She then profiles the program officer, a former teacher who will want classroom evidence, and the board treasurer, who has questioned overhead in past grants.
 **Sources:** Parikh

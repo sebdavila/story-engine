@@ -3,7 +3,7 @@
 ## F257 · Daily message control
 **Also known as:** Line of the Day and Spinning the Story, White House Model (Salmon); Controlled-Access Refusal (Salmon); Story-First News Framing (Salmon)
 **Use when:** You need to understand or audit a campaign that pushes one pre-tested storyline per day through every channel so reporters cannot set the agenda. Salmon presents it as a political technique, not a neutral craft.
-**Avoid when:** Deliberation, honest feedback or trust matters. Constant narrative control cuts leaders off from facts and wears audiences out, so fresh stories must keep replacing old ones.
+**Avoid when:** Deliberation or contact with facts matters. Constant narrative control cuts leaders off from facts and wears audiences out, so fresh stories must keep replacing old ones.
 **Steps:**
 1. Route all messaging through one central hub that disciplines every other voice.
 2. Pre-test phrasing with polls and focus groups to find short, memorable lines.
@@ -12,7 +12,7 @@
 5. Decline off-script questions by saying that answering would pull coverage off today's message.
 6. Define the day's storyline around the target audience's worldview, then choose and fit facts to it.
 **Common mistakes:** Letting each spokesperson improvise; answering the hostile question and losing the day's line.
-**Example:** A city mayor's office picks one line each morning: "Every bus on time by June." The press aide sends it to three councillors and a friendly local blog, and a ribbon-cutting at a depot supplies the picture. When a bus breaks down on live TV, a briefing within the hour recasts it as proof the new repair crew works.
+**Example:** A university president's office plans a tuition increase and runs three phrasings past student and parent focus groups. The winner, every graduate debt-free in ten years, goes out each morning to deans, the alumni newsletter and a staged visit to a scholarship class. When the student paper asks about staff layoffs, the spokesperson declines, saying the answer would pull attention from today's announcement. Each day's facts are chosen to fit what tuition-paying parents already believe about value.
 **Sources:** Salmon
 
 ## F258 · Moral melodrama campaign
@@ -24,7 +24,7 @@
 2. Drop policy lists and build a good-versus-evil plot of sympathetic everyday heroes against threatening villains.
 3. Keep inventing or escalating moral storylines that mix personal trauma, national legend and fear, so each vote reads as a symbolic act.
 **Common mistakes:** Leaning on the plot with no fallback when events contradict it.
-**Example:** A county sheriff candidate with a poor clearance rate tells of his brother's overdose and recovery, then casts the race as neighbours versus a faceless drug ring. Each week brings a new chapter, a new victim's family, a new rally. Questions about response times never get a slot.
+**Example:** A chief executive with five years of falling margins faces a shareholder vote against an activist fund. She opens every letter with her own story of growing up in a mill town that closed, and how she rebuilt a career from the night shift. The fund becomes a crew of distant raiders, the employees and retirees the loyal heroes. Each week brings a new letter from a retiree, and questions about the margins never reach the agenda.
 **Sources:** Salmon
 
 ## F259 · Success story without bragging
@@ -54,8 +54,8 @@
 3. Show the urge being met (appetizing food rather than deprivation, for example) so you do not trigger anxiety.
 4. For product or design stories, map features up five levels: basic function, reliable safety, social belonging, esteem and empowerment, then personal growth.
 5. Treat the lower four levels as deficiency needs that hurt when neglected; only the top level is a growth need.
-**Common mistakes:** Using one urge, usually fear, for everything.
-**Example:** A smart-lock startup anchors its video in protection: a father checks his phone from a train and sees his daughter arrive home. The lock's basic function, reliability and the family circle form the rungs behind the scene.
+**Common mistakes:** Overusing fear or protection scare tactics, empty curiosity clickbait, tone-deaf sex appeal or sectarian dogma.
+**Example:** A public library plans a membership drive and chooses curiosity and significance as its urges. Its posters show a teenager discovering a map of her street from a century ago, and a retiree whose local history talk fills a room. For the new card design the team maps the levels: free access to books, a safe quiet place to sit, belonging in reading groups, the esteem of leading one, and finally learning something for its own sake.
 **Sources:** Butler; Sandler
 
 ## F261 · Emotion as decision input
@@ -97,7 +97,7 @@
 3. Treat the story or visual as the stimulus, the audience's past, fears and biases as the organism, and their inner or outward reaction as the response.
 4. Name the intended reading explicitly so a vague cue does not invite a flawed one.
 **Common mistakes:** Leaving cues vague so audiences invent their own explanation.
-**Example:** A clinic redesigns a waiting-room poster about flu shots. The staff notice that a needle image may stir childhood fear, so they add a caption saying the shot takes seconds and swap the needle for a smiling nurse.
+**Example:** A transit agency redesigns its network map. Riders used to read thick lines on old maps as faster routes, so a new thick line for frequent buses could mislead them. The designers put a short legend at the top, where eyes land first, and label the line frequent, not faster. Feedback sessions show riders anchoring on the legend instead of guessing.
 **Sources:** Sandler
 
 ## F264 · Cultural adaptation
@@ -108,7 +108,7 @@
 2. Rewrite emphasis to fit, for example group consensus and long-term partnership instead of individual disruption and quick wins.
 3. Weave in the local cultural codes rather than exporting the home-country narrative unchanged.
 **Common mistakes:** Shipping one version everywhere.
-**Example:** A Canadian payroll app tells a founder-hero story at home. For a market that values hierarchy and consensus, the Lisbon version features an accounting firm's partners deciding together, with a three-year support plan.
+**Example:** A Danish insurance app tells a playful story at home: sign up in two minutes, cancel whenever you like. For Japan, where uncertainty avoidance is high, the localized version walks through a claim step by step, names the guarantees in writing and stresses the parent company's long history. Its seasonal campaign also follows local gift-giving customs instead of the Danish summer theme.
 **Sources:** Sandler; Salmon
 
 ## F265 · Narrative transportation
@@ -138,7 +138,7 @@
 5. Break out: reach sustained top-tier performance, or adapt the last chapter if a merger follows.
 6. Tie every letter, metric and major decision to its chapter, and link the behaviors to appraisals and pay.
 **Common mistakes:** Getting ahead of the facts; telling the story without incentives.
-**Example:** A regional hospital group in financial distress frames five chapters over six years. Each monthly note starts with "We are in Chapter 2" and each report maps to a chapter. Bonuses depend on the shared-staffing behavior named in the story.
+**Example:** Two regional credit unions merge, and the integration lead tells all staff the plan as five chapters. When deposits rise for one quarter, branch managers want to announce Chapter 4, but she waits until the merged cash flow holds for a full year. Every monthly member newsletter names the current chapter, and teller bonuses reward referrals across the two former networks, the behavior the story asks for.
 **Sources:** Forman
 
 ## F267 · End-user journey solution story

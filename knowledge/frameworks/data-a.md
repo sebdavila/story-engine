@@ -37,7 +37,7 @@
 3. Curiosity: probe anomalies, outliers, missing values, gaps and sudden spikes, looking from several outside angles.
 4. Contradictions: challenge places where the data disagrees with a common assumption to expose a hidden driver (for example a price rise that lifts sales through perceived value or scarcity).
 **Common mistakes:** Treating a one-time alignment of events as a cause.
-**Example:** A bakery owner plots star ratings against review counts and returns. Loaves with low ratings but many reviews also have high return rates, a connection worth a story. Product category versus rating shows nothing and is dropped. A sudden spike in returns in March prompts a curiosity check, which finds a flour supplier change.
+**Example:** A library analyst totals weekly loans per branch, a connection that shows the two riverside branches growing while the rest stay flat. Loans spike once after a storm, a one-off she ignores, but the dip recurs every August and she checks the raw series for a cause. A gap of missing Tuesdays at one branch prompts a curiosity check, and it traces to a broken door counter. The contradiction is that a fine increase did not reduce loans, which points her to automatic renewals as the hidden driver.
 **Sources:** Lo Duca
 
 ## F162 · Hero, guide and adversary in data
@@ -61,7 +61,7 @@
 3. Cross-check with Kirk's five families (Feigenbaum): categorical (bar, pictogram), hierarchical (treemap, stacked bar), relational (network, Sankey), temporal (line, slope graph, Gantt), spatial (heat map, flow map).
 4. For multi-select survey results that total over 100%, use separate single-value charts, not one pie.
 **Common mistakes:** Picking the chart before naming the relationship; forcing a part-to-whole chart on data that does not sum to a whole.
-**Example:** A gym asks members to pick all the classes they like. Totals pass 100%, so the manager shows one donut per class, each showing its own share, instead of a single pie. For monthly sign-ups she uses a line, and for a comparison of two years a slope graph.
+**Example:** A school district wants to show three things to its board. Test scores over five years are a trend, so she draws a line chart with one line per school. The budget split among salaries, buildings and supplies is parts of a whole, so she uses a 100% stacked bar. Commute times are a distribution, so she uses a histogram, and she titles the last chart with a request for a new bus route to move the piece from communicate to inspire.
 **Sources:** Lo Duca; Feigenbaum
 
 ## F164 · Data audience literacy tiers
@@ -75,7 +75,7 @@
 5. Funders and trustees: clarity, brevity, the challenge paired with decision options, emotion, and a framing that helps them look good.
 6. Build one version per tier and link the lighter versions to the deeper ones.
 **Common mistakes:** Sending one version to everyone. Assuming educated readers will push through a dense chart when they are short on time or confidence (Feigenbaum).
-**Example:** A water utility finds leaks waste 18% of treated water. Residents get an icon-led graphic of bathtubs lost per day. Council members get a bar chart against a 10% target and one recommendation. Engineers get the dataset, the sampling method and the margin of error.
+**Example:** A school district finds absences cluster on Mondays after long weekends. Parents, as novices, get one ratio (one child in six misses that Monday) and a link to the full report. Teachers, as colleagues, get the weekly pattern by grade with the method noted. The district's foundation, as funder, gets the problem in two sentences, two options to fund, and a framing it can announce as its own win.
 **Sources:** Lo Duca; Feigenbaum
 
 ## F165 · Prompt schemas for generative AI
@@ -88,7 +88,7 @@
 3. Code prompt: write the task as a sequence of comment lines: imports and data load, then data transformations, then one mark with its encodings and conditions, then layout, then save.
 4. Read the output, edit it and test the code before use.
 **Common mistakes:** Pasting AI output into a chart without inspection.
-**Example:** For a bike-share report, the prompt reads: role is inviter to action, audience is a city transport director, topic is the insight in angle brackets that evening trips doubled, type is a title of at most 12 words. The assistant returns three titles; the analyst rewrites the best one and checks every number.
+**Example:** A leisure-centre manager is making a poster for swimmers about how busy the lanes get by hour. Her text prompt casts the assistant as an educator, names the audience as members with no data background, gives the pool's six-week entry counts with the note that lanes are emptiest from 2 to 4 p.m., and asks for one annotation of at most 18 words. For the poster image she asks for a calm, nearly empty lane under afternoon light, pale blue, as a watercolor, and for the chart she writes comment lines from loading the counts to saving a bar chart as HTML. She trims the annotation, fixes one axis label the generated code got wrong, and only then prints.
 **Sources:** Lo Duca
 
 ## F166 · Base model, fine-tuning or retrieval
@@ -100,8 +100,8 @@
 2. For recurring stories with a fixed title and annotation structure for the same audience, fine-tune: prepare at least 10 prompt and completion pairs in JSONL, train, and benchmark against the base model.
 3. For long external documents or live product knowledge, use retrieval: load the documents, split into overlapping chunks, embed them in a vector database, and query with a strict context-only prompt at temperature 0.
 4. Check licenses on any scraped training source.
-**Common mistakes:** Fine-tuning when retrieval would do; scraping unlicensed content.
-**Example:** A fisheries agency wants a two-sentence safety subtitle for each export chart. It loads a regulator's guidance page into a retrieval pipeline and prompts for a subtitle that cites the source. For its weekly price chart, with a fixed title format, it fine-tunes on 30 past title and subtitle pairs.
+**Common mistakes:** Scraping unlicensed content for training data (Lo Duca).
+**Example:** A regional bank publishes the same monthly branch-traffic chart with a fixed title and annotation format, so analysts fine-tune a model on 24 past title and annotation pairs. For notes on its lending-policy handbook, which is long and revised often, they load the handbook into a retrieval pipeline and ask for answers from that context only. A general headline helper with no bank-specific knowledge stays on the base model.
 **Sources:** Lo Duca
 
 ## F167 · Emotion and placement in data visuals
@@ -113,7 +113,7 @@
 2. Place overview text and sources at the top, never images, which distract. Put deeper background, emotional photos and secondary charts on the left. Put short callouts, baselines and icons inside the chart without covering data.
 3. Put a short action directive in the title. Put detailed recommendations, allocation charts, roadmaps or interactive boxes to the right or below the chart.
 **Common mistakes:** A cheerful palette on a loss chart; a photo placed above the overview text.
-**Example:** A charity charts a rise in school dropouts. The static version uses a muted grey-blue line and a quiet photo of an empty desk, with the source on top. The title says to fund tutoring, and a roadmap sits below the chart. A separate hopeful view of graduates is behind a toggle.
+**Example:** A wildlife park charts a rise in weekend visitors, a high-energy positive story. The line is bright orange, and a photo of children at the otter pool sits on the left. The overview text and source are at the top, a short callout about the record Saturday sits inside the chart, and the title asks readers to add shuttle buses. A roadmap of the shuttle rollout sits below the chart.
 **Sources:** Lo Duca
 
 ## F168 · Next steps, call to action and ethical check
@@ -127,7 +127,7 @@
 4. Audit every AI-generated asset against four pillars: human rights and dignity, peaceful and just societies, diversity and inclusiveness, environmental flourishing.
 5. Credit data sources, AI tools and any retrieval or fine-tuning documents under the title, under the chart, under the next steps or at the side.
 **Common mistakes:** Releasing an AI-made image or caption unchecked.
-**Example:** A news desk finds fake headlines cluster in health topics. The next step is an interactive bar: clicking a category shows a sample fake headline so editors can inspect it. A care-ethics reframing adds a help contact for readers who shared one. Credits sit under the chart.
+**Example:** A county health office charts flu hospitalizations by age group. The next step is an act mechanism: a short list of three steps for parents, with a link to clinic hours. The analyst asks the assistant to reframe the message under care ethics, edits the result by hand, and checks the AI-made illustration for diversity in the people shown. Credits for the data and the AI tool sit under the chart.
 **Sources:** Lo Duca
 
 ## F169 · Data and advocacy story patterns

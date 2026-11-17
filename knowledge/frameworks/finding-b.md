@@ -26,7 +26,7 @@
 3. Log oddities and magic moments as they happen, in real time (Maguire).
 4. Say yes to unfamiliar invitations, events and conversations with strangers, keeping an exit plan ready (Leitman).
 5. Set yourself small comfort-zone challenges as story assignments and make active choices instead of waiting for things to happen (Leitman; Maguire). Pay close sensory and emotional attention while it unfolds.
-**Common mistakes:** Manufacturing a stunt; collecting the experience but not noticing it.
+**Common mistakes:** Manufacturing a stunt; letting self-consciousness crowd out presence during the experience.
 **Example:** A quiet accountant sets a weekly assignment: eat lunch at a different market stall and ask the cook one question. In week three the cook gives him a recipe card and a scolding about salt. He writes both lines in his phone that evening and later builds a short story on them.
 **Sources:** Leitman; Maguire
 
@@ -57,7 +57,7 @@
 6. Reflect: paraphrase emotions, reframe a key phrase more sharply, or gently point out an inconsistency (Lazer).
 7. Yield space: drop the question list, stay present and hold silence when the speaker pauses (Lazer).
 **Common mistakes:** Interrogating instead of offering a story; interviewing away from the objects that hold the memories; filling every silence.
-**Example:** A manager meets a retiring dispatcher in the depot, among route maps. She opens with a short story about her own first bad shift, then asks how a night felt when the radio went dead. When he stops mid-sentence she waits, and he tells the story of the flooded bridge.
+**Example:** A recruiter wants stories from a hospital pharmacist who answers only in policy terms. She says to pretend she is a pharmacist new to the ward, tells a short story of her own about a mislabeled bottle, and asks how that night felt. He describes the shift when a dose was nearly doubled. When he stops mid-sentence she waits quietly.
 **Sources:** Callahan; Lazer
 
 ## F119 · Structured customer story collection
@@ -71,7 +71,7 @@
 4. For screening a list, ask three things: what circumstances led them to you, what the journey felt like including setbacks, and how life or business changed (Hauge).
 5. Narrow to roughly the top half-dozen answers and follow up personally for missing detail (Hauge).
 **Common mistakes:** Long forms sent as a favor; settling for star ratings; asking before the customer has used the product.
-**Example:** A bike-lock maker emails owners ten days after delivery, signed by a real named support agent. The questions ask what they used before, why they changed, and where they parked the first morning. One reply describes locking up outside a night-shift hospital, and the team follows up by phone for the missing detail.
+**Example:** A software firm's customer-success lead texts new clients ninety days after go-live, from her own phone rather than the billing system. She asks what tool they used before and why they switched, what the first week felt like, how month-end closing goes now, and where they were when the first report ran, and offers a conference pass for a short video answer. From forty replies she keeps the six richest and calls a warehouse controller to fill in the setback he skipped.
 **Sources:** Hall; Hauge
 
 ## F120 · Prompted personal story inventory
@@ -99,7 +99,7 @@
 3. Share: deliver conversationally, with a relevance statement, topic stories and structured patterns.
 4. Refresh: rest, swap or retire a story when it loses impact, bores you, repeats to the same audience or projects an unhelpful identity.
 **Common mistakes:** Telling the same story to the same room; keeping a story after it paints you wrongly.
-**Example:** A sales director always opens with a story about outsmarting a rival, but a colleague reports clients now see him as combative. He rests it and swaps in a story from his bank about a client who taught him patience, then adds two new tags to the bank.
+**Example:** A consulting partner has told the same failed-launch story at every quarterly meeting, and at the last one a colleague mouthed the ending. She rests it, picks a story about a late supplier shipment from her tagged bank, and after telling it notes the lesson the team drew in the bank entry.
 **Sources:** Callahan
 
 ## F122 · Mining a personal turning point
@@ -132,7 +132,7 @@
 6. Circulate the validated narrative inside the company.
 7. Publish externally if the aim is a reputation for management innovation.
 **Common mistakes:** Naming individuals as the cause of problems; dropping the participants' voices from the synthesis.
-**Example:** A hospital moves to electronic charts. Twelve nurses and clerks are interviewed anonymously, and the team builds one timeline from planning to the first month. Its two-column draft puts the project lead's summary beside nurses' own lines about midnight log-ins. Nurses check the chronology before it goes to the board.
+**Example:** A food-bank network switches from pre-packed boxes to a pantry where clients choose their own groceries. Fifteen volunteers, drivers and clients are interviewed anonymously, and the team lays their stories on one timeline from the first pilot to the sixth month. The two-column draft sets the coordinator's synthesis beside volunteers' own lines about the first chaotic Saturday. Contributors check the dates and quotes before the story reaches the board.
 **Sources:** Salmon
 
 ## F124 · Four-prompt employee story seeding
@@ -144,6 +144,6 @@
 3. My company: ask what makes them proud of the company and a favorite story of how it helped a person, business or community.
 4. My commitment: ask how they or their team volunteer, give back or protect the environment.
 5. Collect the replies as short unscripted pieces, and let the accumulation build the culture and brand narrative.
-**Common mistakes:** Scripting replies; asking only about work and skipping the personal opener.
-**Example:** A regional bus company asks drivers four prompts on a postcard-sized form. One driver who coaches chess after shifts starts with the chess club, then tells of waiting for a late passenger in the rain, then why the company's route to the school matters to her, then the mentoring hours she gives. A two-minute clip of her goes on the staff intranet.
+**Common mistakes:** Scripting replies.
+**Example:** After a merger, a software company's HR director sends the four prompts to 600 support engineers in three countries as an open blog template with no script. One engineer begins with translating for her grandmother at clinic visits, moves to the night she restored a hospital client's booking system, then to the company's free licences for rural clinics, and ends with her team's e-waste drive. The director posts forty such entries on the merged intranet unedited. New hires read them as the shared culture neither old firm had ever written down.
 **Sources:** Forman

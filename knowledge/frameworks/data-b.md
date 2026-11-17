@@ -10,7 +10,7 @@
 3. Predictive analytics, what will happen: estimate demand by judgment, counting (intent surveys), time series, or single-variable association (Winer and Dhar).
 4. Prescriptive analytics, what should we do: compare channels with multiple regression or marketing mix models, A/B tests, test markets, or real-time neuro-immersion tests.
 **Common mistakes:** Tracking vanity metrics that answer no decision.
-**Example:** A cycling shop sets one objective: more winter sales. One question is which channel moves winter bike-light sales. It tests two ad stories, feeds weekly search, email and discount spend into a regression, and learns email adds the most lift. It shifts budget to email.
+**Example:** A neighborhood cafe sets one objective: keep more regulars. One question is what makes a first-time customer return, with median basket size and visits per month as its metrics. A short intent survey estimates how many would join a coffee subscription. The owner then tries the subscription in one of two nearby shops as a test market and compares return visits.
 **Sources:** Quesenberry
 
 ## F171 · Amplify Only Proven Winners
@@ -37,7 +37,7 @@
 2. Act II, findings: lead with the headline finding, then break it down along the main segmentation introduced in Act I, followed by key assumptions and best and worst cases.
 3. Act III, implications: translate findings into the structural changes the organization must make, the leading indicators that show which case is unfolding, and the contingency actions for each.
 **Common mistakes:** Narrating the research as a chronological random walk with false starts and dead ends. Tell the time, do not build the clock (McKinsey).
-**Example:** An analyst forecasts demand for a regional bus network. Act I: goal is ridership in five years, method is rider surveys plus fuel-price trends. Act II: ridership falls 12%, split by commuter and student routes. Act III: merge two depots, and watch monthly pass sales as the early signal.
+**Example:** A hospital analyst presents a pilot of handwashing reminders. Act I: the goal is fewer ward infections, and the method is a six-month comparison of pilot and control wards. Act II: infections fell 18%, split by surgical and medical wards, with the assumption that staffing stayed level. Act III: extend the reminders to two more wards, and watch monthly soap refills as the early signal.
 **Sources:** McKinsey
 
 ## F173 · Researcher-designer process wheel
@@ -67,7 +67,7 @@
 5. Treat embodiment and affect as legitimate: pair 2D charts with emotional, sensory and physical forms (walks, quilts, sculptures, comics).
 6. Make labor visible: expose metadata, data diaries and the behind-the-scenes work of interns, cleaners, labelers and IT staff.
 **Common mistakes:** Treating community members as interview subjects rather than co-designers.
-**Example:** A library mapping local reading needs drops its male and female icon pair for a set of varied figures. It invites teenagers to collect the survey data and pays them as co-designers. A methods page credits the volunteers who cleaned the data, and a quilt exhibit shows the same results.
+**Example:** A school district charts attendance and replaces the present-or-absent split with a spectrum: on time, late, partial day and remote. A methods page names the office clerks who hand-entered the records, and the lobby shows the same data as a floor map that visitors walk across. The district also holds a session where families explain why mornings are hard in their neighborhood.
 **Sources:** Feigenbaum
 
 ## F175 · Symbol, colour, caption, editorial pillars
@@ -80,7 +80,7 @@
 3. Caption: write captions that steer interpretation toward what you want the audience to think, feel and do, and point at what matters.
 4. Editorial: plan layout at the very start, smallest display first (phone or A4 before desktop), in a modular grid. Choose or blend a genre: magazine, annotated chart, partitioned poster, flow chart, comic strip, slide show or film.
 **Common mistakes:** Leaving a chart uncaptioned so readers choose their own meaning; designing for a big screen and shrinking it later.
-**Example:** A florist association charts rose exports. One caption reads that growth supports farm jobs in Colombia; another version of the same chart reads that air freight waste is rising. A single orange line sits on grey bars, and the layout was drawn for a phone screen first.
+**Example:** A clinic makes a poster on neighborhood vaccination rates. The caption steers viewers to think that most neighbors are covered, feel reassured, and book a visit this week. One bold teal bar for the under-vaccinated age group sits among grey bars, with a syringe icon that readers in the area recognize. The layout was drawn for a phone screen before the printed poster.
 **Sources:** Feigenbaum
 
 ## F176 · Data-warrant-claim evidence maps
@@ -92,7 +92,7 @@
 2. Warrant: publish the collection, sampling and representation methods online so anyone can check each reading.
 3. Claim: frame the spatial or temporal visualization, with past baselines, present hotspots and future projections, so that it compels a concrete policy or safety action.
 **Common mistakes:** Showing the map without the method behind it.
-**Example:** Parents near a former factory test playground soil at 200 spots with a borrowed meter. They post the sampling grid, meter model and calibration steps. The map colors readings against a national safety threshold and projects levels over 20 years. The claim asks the council to close the playground until cleanup.
+**Example:** A wheelchair users' group logs broken elevators at every metro station for three months, with a timestamped photo at each check. It posts the logging form and the fixed check schedule online so anyone can repeat a round. The map shades each station by hours out of service, set against the transit agency's own outage reports from the year before, and projects the hours lost by next winter at the current repair pace. The claim asks the agency to publish live elevator status and fix any outage within a day.
 **Sources:** Feigenbaum
 
 ## F177 · Twelve map visual variables
@@ -105,7 +105,7 @@
 3. Use crispness, fuzzy versus clear edges, to show uncertainty so estimates do not seem falsely precise.
 4. Combine a few variables, for example hue plus size plus fuzzy edges, and explain them in the legend.
 **Common mistakes:** Defaulting to identical pins for everything; projecting false precision on contested estimates.
-**Example:** A flood mapper marks reported water depths with circles. Size shows depth, hue separates river from storm drain, and blurred edges mark readings from resident photos not gauges. The legend explains all three.
+**Example:** A conservation group maps heron nests. Shape shows the species, saturation shows the number of nests, and a hatched texture marks private land. The legend explains the three variables in one box, so volunteers do not read the darker symbols as more important by default.
 **Sources:** Feigenbaum
 
 ## F178 · Four Cs of data team collaboration
@@ -118,7 +118,7 @@
 3. Coordination: pick tools everyone can reach (shared docs and sheets, group chat), and archive manual copies in a shared repository with standard date and version filenames.
 4. Care: put collaborators' wellbeing ahead of completion, including caregiving duties and invisible disabilities, and protect the team from vicarious trauma when handling graphic testimony.
 **Common mistakes:** Letting versions live only in auto-saved cloud documents.
-**Example:** A freelance designer joins an air-quality report. In the kickoff, the team lists two edit rounds and a fee cap, and defines what the analysts mean by exceedance. Dated snapshots go into a shared folder each Friday. The lead moves a deadline when a volunteer is caring for a sick parent.
+**Example:** A drought report team has a hydrologist, a writer, a designer and a community liaison. At the kickoff they sort out that baseline means different things to the hydrologist and the writer. They pick a group chat and a shared sheet that a volunteer translator can open without a work account. Interviews with farmers who lost crops are spaced out so the writer is not hit with testimony back to back.
 **Sources:** Feigenbaum
 
 ## F179 · Data-driven content operation
@@ -132,7 +132,7 @@
 4. Activate: spend about a tenth of the production budget on paid social, targeting precise buyer personas with pieces already proven; see F171.
 5. Optimize: feed engagement and conversion results back into planning for topics, writers and channel spend.
 **Common mistakes:** Setting compliance rules only at review time; planning topics without search evidence.
-**Example:** A regional bank's board includes a lawyer who sets claim rules in week one. Search data shows first-time buyers ask how much deposit they need, and short explainer videos perform well on social for that topic. Writers draft three videos, the bank boosts the best, and results shape next quarter's calendar.
+**Example:** A state university's continuing-education office starts from search data: adult learners keep asking whether they can study while working nights, and short student-diary posts perform best for that topic on social. It forms an editorial board where the registrar sets rules on accreditation claims before anything is drafted, and all pitches and approvals run through one calendar. Automatic checks catch dead links and passive voice in the drafts. About a tenth of the budget boosts the diary post that already drew the most replies, and next term's topics follow the enrolment numbers it produced.
 **Sources:** Snow; Lazauskas
 
 ## F180 · Charts designed for three kinds of memory
@@ -144,5 +144,5 @@
 2. Working memory, capped near four chunks: swap number tables for the matching 2D chart, strip gridlines, decimals, redundant labels and full date strings (write Jan, not a full date), and label lines directly instead of using a legend.
 3. Long-term memory: title the chart with a full sentence stating the message, so the decoded insight is stored and the audience feels confident to act.
 **Common mistakes:** A topic title such as sales by region; a legend that sends the eye away from the data.
-**Example:** A 12-month, 4-region sales table becomes a line chart with region names at the line ends. The Central line is bold orange, the rest grey. The title says new discount rules lifted two regions and left two flat, and viewers spot Central's year-end lead at once.
+**Example:** A school fundraising team has a slide with a table of spring donations across eight channels, cents included. It becomes a sorted horizontal bar chart with whole-dollar labels on the bars and no gridlines. The text-message appeal bar is orange and the rest grey, with a big callout reading +48k. The title says text appeals raised more than mail and phone combined this spring.
 **Sources:** Parikh

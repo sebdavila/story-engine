@@ -3,37 +3,37 @@
 ## S172 · Timely stories
 **Purpose:** Ride current attention. **Audience:** People following the news. **Teller:** Brand.
 **Choose when:** Breaking news, a policy change or a cultural conversation connects to your subject (Snow; Lazauskas).
-**Shape:** Anchor the story in the current event, then add your own angle.
+**Shape:** Tie the story to the news, policy change or cultural conversation.
 **Sources:** Snow; Lazauskas
 
 ## S173 · Seasonal stories
 **Purpose:** Gain relevance from the calendar. **Audience:** Seasonal audiences. **Teller:** Brand.
 **Choose when:** An annual holiday, event or recurring time of year fits (Snow; Lazauskas).
-**Shape:** Tie the story to the recurring moment and plan it ahead of the date.
+**Shape:** Anchor the story to the holiday, event or recurring time of year.
 **Sources:** Snow; Lazauskas
 
 ## S174 · Evergreen stories
 **Purpose:** Stay useful and engaging whenever found. **Audience:** Anyone who discovers it later. **Teller:** Brand.
 **Choose when:** You want lasting value that does not depend on the date (Snow; Lazauskas).
-**Shape:** Avoid time-bound hooks; pick durable subjects and keep the story readable out of context.
+**Shape:** Pick a durable story that stays useful and engaging regardless of when it is found.
 **Sources:** Snow; Lazauskas
 
 ## S175 · Repeat sequels
 **Purpose:** Trade on nostalgia by repeating a past hit. **Audience:** Fans of the original. **Teller:** Brand.
-**Choose when:** Rarely; expect weaker results than the original (Snow; Lazauskas).
-**Shape:** Recycles the same plot beats and jokes. Compare with S176, which tends to do better.
+**Choose when:** You want to trade on nostalgia; such stories typically underperform the original (Snow; Lazauskas).
+**Shape:** Recycles the same plot beats and jokes. Compare S176, which matches or beats the original.
 **Sources:** Snow; Lazauskas
 
 ## S176 · Sagas
 **Purpose:** Continue a story fans already like. **Audience:** Existing followers. **Teller:** Brand.
 **Choose when:** You have characters the audience knows and something new to show (Snow; Lazauskas).
-**Shape:** Keep the familiar characters, add genuinely new adventures and real plot progress. Such follow-ups tend to match or beat the original.
+**Shape:** Pair the familiar characters with genuinely new adventures and plot progression.
 **Sources:** Snow; Lazauskas
 
 ## S177 · Redemption stories
 **Purpose:** Regain trust after a failure. **Audience:** Customers and public who saw the failure. **Teller:** The company and its employees.
 **Choose when:** A past product or company failure is known and you are fixing it (Snow; Lazauskas).
-**Shape:** Admit the failure honestly, then show the people repairing it behind the scenes, as in factory documentaries a carmaker might release.
+**Shape:** Acknowledge the failure honestly, then pair it with behind-the-scenes stories of employees fixing it.
 **Sources:** Snow; Lazauskas
 
 ## S178 · Branded entertainment
@@ -45,13 +45,13 @@
 ## S179 · Destination Branding
 **Purpose:** Position a city, region or country to draw visitors and build civic pride. **Audience:** Travelers and residents. **Teller:** Tourism bodies and locals.
 **Choose when:** The place has authentic local culture to show (Paulsen).
-**Shape:** Build the story from real local culture rather than invented slogans.
+**Shape:** Position the place through its authentic local culture to inspire travel and civic pride.
 **Sources:** Paulsen
 
 ## S180 · Experiential Marketing
 **Purpose:** Let the audience enact and share the brand message. **Audience:** Participants and their networks. **Teller:** The audience, guided by the brand.
 **Choose when:** Doing will land the message better than watching (Paulsen).
-**Shape:** Design a participatory ritual where the story is acted out, then make it easy to share.
+**Shape:** Turn the brand message into a participatory storydoing ritual that audiences enact and share themselves.
 **Sources:** Paulsen
 
 ## S181 · Retail Storytelling Formats
@@ -69,7 +69,7 @@
 ## S183 · Live-stream story
 **Purpose:** Give unfiltered, real-time access. **Audience:** Live viewers. **Teller:** Brand people on camera.
 **Choose when:** You want an inside look, a Q and A, urgency, or context for a brand shift (Rodriguez).
-**Shape:** Go live with real interaction; leave room for questions instead of scripting everything.
+**Shape:** Deliver real-time, unfiltered interaction.
 **Sources:** Rodriguez
 
 ## S184 · Short user-made digital vignettes
@@ -87,11 +87,11 @@
 ## S186 · Inversion
 **Purpose:** Surprise by flipping expectation. **Audience:** Market; also useful to jolt brainstorms. **Teller:** Brand.
 **Choose when:** A stereotype is strong enough to reverse (Cody).
-**Shape:** Make a character act opposite to type, as with a mild-mannered gecko selling insurance.
+**Shape:** Have a character act opposite to stereotype, for example a famously gruff drill sergeant who hosts a soothing bedtime-story channel.
 **Sources:** Cody
 
 ## S187 · Exaggeration
 **Purpose:** Make a thesis clear and defuse worst-case panic. **Audience:** Market or staff. **Teller:** Brand.
 **Choose when:** A real trait, fear or situation can be pushed to absurdity (Cody).
-**Shape:** Take the real trait or fear and distort it to an extreme, as in a satirical video of an overblown organizational experiment.
+**Shape:** Distort a real trait, fear or situation to an absurd extreme to clarify a thesis.
 **Sources:** Cody

@@ -9,7 +9,7 @@
 2. Drop to a sinister voice for a touch of fear, mystery or dread at moments of jeopardy.
 3. Use a quiet, gentle voice to lull listeners into a dreamlike calm and draw out wonder.
 4. Notice how your tone changes the room and shift deliberately between the three.
-**Example:** Telling a toddler a tale of a lost duckling, Hana uses the bright voice for the splashing chase, then a soft hush when the duckling finds the nest.
+**Example:** On a lantern tour of an old harbor, a guide tells adult visitors about a smuggler's escape. She uses the bright voice for the rowing chase, drops to the sinister voice as the customs boat's lamp sweeps the water, and ends in a near whisper as the fog swallows the skiff. She watches the group lean in and slows the whisper further.
 **Sources:** Miller
 
 ## F204 · Directing through playable actions
@@ -22,7 +22,7 @@
 3. To adjust a take, offer one of: a new active verb, a fact about the circumstances, an image or personal memory, an event that just shifted, or a physical task such as packing a bag.
 4. Prepare each scene with ten character questions, beats and turning point, a verb per line, the scene's place in the larger story, a floor plan and links to other scenes.
 5. Use calm take cues such as Let's start and Okay, stop in place of Action and Cut to lower self-consciousness.
-**Example:** In a two-hander, a manager line, Do you want coffee, is played as to hold back, with the subtext Please don't leave yet. Between takes the director says, You have been apologizing for an hour, and hands the actor a stack of folders to sort.
+**Example:** In a hospital drama, a nurse says, The doctor will be here soon. The director actions it as to stall, with the subtext I cannot tell you yet. When the take reads flat, she reminds the actress that the scan results arrived ten minutes ago, then hands her a clipboard to straighten while she speaks.
 **Sources:** Simson
 
 ## F205 · Status and space
@@ -34,7 +34,7 @@
 2. Choreograph distance, posture and eye contact; breaking eye contact signals high status, and servants avoid dominating space near a master.
 3. Lay out furniture along one axis: a desk set deep in the room makes a visitor cross a long stretch of floor. Gather key characters, props and furniture along a single line of depth ahead of the main camera, so the relationships register in three dimensions.
 4. Stage the turning point as a visible reversal of status or territory.
-**Example:** In a landlord scene, the tenant starts standing at the door while the landlord sits behind a desk. When the tenant produces the photographs, the landlord rises and goes to the window, and the tenant takes the chair.
+**Example:** In a sports drama, a coach stands at center court while her star player hovers at the gym door, eyes down. When the player says she is quitting, she walks onto the court, then turns away from the coach mid-sentence to look at the empty hoop. The coach backs up and sits on the lowest bleacher, now beneath her, still staring at her face.
 **Sources:** Simson
 
 ## F206 · Keep a mental movie running
@@ -46,7 +46,7 @@
 2. Place character descriptions and long backstory inside a physical scene rather than stopping for voice-over.
 3. Partway through long backstory, remind listeners where you are physically.
 4. Deliver needed facts in a brief flashback, for instance a classroom lesson, rather than pausing the story to explain.
-**Example:** Before explaining why her family had no savings, Ines puts herself in the driver's seat of a parked van outside a pharmacy, then midway reminds listeners she is still gripping that wheel.
+**Example:** An aircraft maintenance trainer has to teach new hires why a torque spec cannot be eyeballed. She sets the story in a hangar at 2 a.m., where she lies on a creeper under a wing with a flashlight in her teeth. Halfway through the history of the bolt, she reminds them she is still on her back under that wing. The rule itself comes as a quick flashback to her first instructor tapping a wrench against her helmet.
 **Sources:** Dicks
 
 ## F207 · Strategic placement of humor
@@ -58,7 +58,7 @@
 2. Setup and punchline: stack expectations step by step and put the most surprising, oddly specific word last, after a brief pause.
 3. Pair two unrelated ideas, or use a mismatched list of three, or test exaggerations until the funniest numbers stick.
 4. End the last lines on heart, vulnerability or meaning, never a joke or pun.
-**Example:** Before the night her bakery flooded, Carmen lists a failing oven, a landlord who sings opera, and a cat named Audit, pausing before the last. Her final line is about the neighbor who showed up with buckets.
+**Example:** A fire captain telling recruits about her worst warehouse fire gets a laugh in the first thirty seconds by comparing the station's old engine to a toaster with a siren. Just before the roof gives way, she mentions the rookie beside her had been on the job nine hours, a number she tested against six and twelve until nine got the biggest laugh. Her last line is not a joke: it names that rookie, who now runs the station.
 **Sources:** Dicks
 
 ## F208 · Multi-sense scene description
@@ -98,7 +98,7 @@
 4. Pretend less, believe more: picture the scene as real so your body reacts honestly.
 5. Explain less, evoke more: show transformation through action, not moral.
 6. Imitate less, embody more: tell it through your own personality.
-**Example:** Before telling a tale about a stuck elevator to a retirement-home audience, Ravi notices they are restless, shortens the setup, and speaks as if standing in the lift, so that his hand really reaches for the panel.
+**Example:** A union organizer telling a strike story at shift change sees the night crew yawning, so she drops her planned timeline and starts at the moment the gates locked. She tells it in her own blunt cadence instead of the rousing tone she had borrowed from a famous speech. She ends on the foreman handing back the keys rather than explaining what solidarity means.
 **Sources:** James
 
 ## F211 · Channels of live delivery

@@ -11,8 +11,8 @@
 4. Admit how irrationally you reacted.
 5. Mock your own overreaction so the audience laughs with you, not at a scolding.
 6. Finish with a short tag showing you care just as much today.
-**Common mistakes:** Skipping the incident; defending the obsession as reasonable; skipping the self-mockery so the teller sounds unhinged.
-**Example:** A teller explains that the office's one good stapler vanishes every autumn, lists the notes and sign-out sheets she invented to guard it, then recounts the Tuesday a new hire carried it into a meeting. She describes hissing at him over a spreadsheet, owns how ridiculous she looked, and ends by mentioning the stapler is now chained to her desk.
+**Common mistakes:** Skipping the incident, which leaves a rant or a list of reasons; skipping the self-mockery, so the audience feels scolded.
+**Example:** An accountant opens by explaining that her ten-year-old office chair, with its perfect lumbar dent, cannot be replaced, then lists how she labels it, chains it to her desk and drives it home over the holidays. The center is the week facilities hauled every old chair to a warehouse during a refit, and she followed the truck across town and paid forty dollars to buy it back from a man with a clipboard. She admits she nearly cried in the loading bay, mocks herself for haggling like a hostage negotiator, and ends by saying the chair now wears a tag with her phone number.
 **Sources:** Leitman
 
 ## F035 · Problem-to-Solution Pitch Arc
@@ -23,11 +23,11 @@
 1. Create empty labelled sections and agree the flow with the team before writing copy or adding data (Kamath).
 2. Beginning: the status quo, the problem and the market.
 3. Middle: why existing options fail, then the solution, value, competition, business model, team and traction (Kamath's full skeleton).
-4. End: the ask, then a close that returns to the character you opened with.
+4. End: the ask, then the close.
 5. For a 90-second pitch with no slides, use four moves: an unfamiliar-angle hook on a familiar topic, a large urgent problem, concrete reasons current alternatives fail, a bridge from those gaps into your solution (Kamath).
 6. For a talk under 45 minutes, script before slides: hook (confession or bold headline, never the project title), theme as a dilemma question, one obstacle per scene, escalating tension, a dilemma between two costly options, the unexpected third-way solution, the moral, then the next step (Terenzzo).
-**Common mistakes:** Revealing the solution first; putting slides before script; running past 45 minutes of continuous attention; using the four-segment flow when time allows human character depth.
-**Example:** A founder of a cold-chain startup opens with a nurse in a rural clinic discarding spoiled insulin, shows why ice boxes and diesel fridges both fail, introduces a solar-powered cooler as the way out, states the funding ask, and closes back on the nurse's next delivery day.
+**Common mistakes:** Putting slides before script; running past 45 minutes of continuous attention; using the four-segment flow when time allows human character depth.
+**Example:** A facilities manager pitches a night shuttle for hospital cleaners using the talk-length script. She opens with a confession that she once told a cleaner to just walk home. The dilemma: pay for taxis nobody can afford or keep cutting night shifts. Her third-way solution is a shared van with the neighboring clinic, the moral is that safety costs less than turnover, and the next step is a six-week trial.
 **Sources:** Kamath; Terenzzo
 
 ## F036 · Motive Classification
@@ -38,7 +38,7 @@
 1. Classify the surface trigger: money (greed, revenge, fear, envy, freedom, survival), ideology, coercion, or ego (control, triumph, acclaim, flattery).
 2. Map the underlying longing to one of five prime motivators in order of urgency: physiology, stability, belonging, esteem, self-actualization.
 3. Pair a physical, mental or spiritual survival stake with the masked motive so later extreme choices stay believable.
-**Common mistakes:** Labelling only the surface trigger; choosing a stake too weak to justify the extreme act.
+**Common mistakes:** Reducing the character to a single simplistic trait.
 **Example:** A bookkeeper embezzles from a church fund. Surface trigger: money. Underlying longing: esteem, since she needs the congregation to keep seeing her as the capable one while her brother's debts mount. Mental survival is at stake, so hiding the theft becomes believable even when it turns drastic.
 **Sources:** Cleland
 
@@ -53,8 +53,8 @@
 4. Write the protagonist's subjective perceptions and emotional drivers, aiming at the deepest pain.
 5. Give the opponent a different reading of the same situation. That perception gap is the engine.
 6. Root the gap in a widely shared assumption to earn instant credibility.
-**Common mistakes:** An opponent who simply agrees to be beaten; a conflict that touches no basic need.
-**Example:** A widowed beekeeper longs to keep the orchard hives her husband built. The county inspector, who sees the same hives as a liability after a child's sting, will not bend. She sees a memorial; he sees a lawsuit. Both lean on the common belief that safety comes first.
+**Common mistakes:** Letting your own bias shape the characters' perceptions so they reflect your reality, not theirs.
+**Example:** A teenage skateboarder longs to keep the empty supermarket lot where his crew trains, the one place he feels competent after failing school. The night manager, who was nearly fired after a break-in last year, will not leave the gate open. The boy sees a training ground; the manager sees the next break-in on his watch. Both lean on the common belief that kids need somewhere safe to go.
 **Sources:** Cleland
 
 ## F038 · Three-Adjective Character Stance
@@ -65,7 +65,6 @@
 1. Brainstorm adjectives for how the character feels toward the opposing force.
 2. Keep three that differ, ideally pulling against each other.
 3. Write one concrete sentence per adjective to surface backstory, internal tension and tactics, including the mask the character must wear.
-**Common mistakes:** Three near-synonyms; adjectives with no sentence explaining them.
 **Example:** A new teacher faces a principal who wants her curriculum scrapped. She feels wary (she was fired once for pushing back), amused (his memos are full of typos), and ashamed (she would love his approval). The sentences reveal the firing, a joke she hides, and a need to please that she masks with calm.
 **Sources:** Cleland
 
@@ -79,7 +78,6 @@
 3. Add two side roads for two subplots, each treated as a mini-novel (see F041).
 4. Alternate side-road beats about every 40 pages, so each surfaces about every 80, and speed up or slow down to set tempo.
 5. Converge main road and both side roads in one resolution.
-**Common mistakes:** Subplots that never rejoin; ignoring genre pace.
 **Example:** A family-saga nonfiction book runs the grandmother's 1950s migration as the main road, a cousin's court case and a recipe-tracing quest as side roads, and brings all three together at a reunion dinner at the end.
 **Sources:** Cleland
 
@@ -97,8 +95,8 @@
 7. Space beats by genre; tighter is faster. Do not rotate T, R, D mechanically.
 8. In hybrid genres, widen spacing in reflective or romantic stretches and tighten it in action.
 9. Turn an ordinary snag into a beat by tying it to a known vulnerability.
-**Common mistakes:** Surprise with no tension or information; unforeshadowed shocks.
-**Example:** A conflict-averse narrator expects a fight over a wrongly charged fee. Twist: a coupon. Danger: a robbery. Reversal: a warm clerk fixes it at once, which relaxes the reader before a harder confrontation later.
+**Common mistakes:** A beat that only surprises, without raising tension or revealing anything; a beat that disrupts an expectation the reader never formed; a mechanical T, R, D rotation.
+**Example:** A quality engineer telling her team about a drop test expects the new phone case to crack on the first fall. Twist: the case survives, but the phone inside reboots. Reversal: it survives ten falls and the client wants to ship early. Danger: the test rig's arm snaps loose toward her hand. She picks the Twist, because the reboot exposes the flaw her team had been ignoring.
 **Sources:** Cleland
 
 ## F041 · Subplot Generator
@@ -111,8 +109,8 @@
 3. Mirrored emotion: pair or pit the protagonist against someone with a parallel version of the same emotion, ideally from the opposite history, for friction or kinship.
 4. Nonfiction element: use a specialised real-world procedure that shows skill and causes complications.
 5. Pick the two strongest as subplots and fold the rest into the main plot.
-**Common mistakes:** Subplots that never reach the resolution.
-**Example:** For a chef trying to save her restaurant: a dishwasher who knows a secret (minor character), her daughter's school play (unrelated), a rival owner who also distrusts critics (mirror), and health-inspection protocol (real procedure).
+**Common mistakes:** Keeping subplot ideas that contradict established characters or never tie into the ending.
+**Example:** For an air-traffic controller trying to win back her license after a near miss: a trainee who covers for her (minor character), her father's hip surgery (unrelated), the pilot from the near miss who also cannot sleep (mirror), and the radar-replay review board (real procedure). She keeps the pilot and the review board as the side roads and folds the trainee and the surgery into the main plot.
 **Sources:** Cleland
 
 ## F042 · Ending Architectures
@@ -123,8 +121,8 @@
 1. Choose one architecture: seamless integration (main plot and both subplots close, with a thematic reflection), unreliable narrator revealed, or wider lens (step out of a narrow tunnel view to show the larger truth).
 2. If using unreliability, pick a type: innocent or misunderstood (child, outsider who reports literally), guilty (hiding a crime or shame), emotionally taxed (trauma, illness), incapacitated (addiction with lying and blame-shifting), or paranormal (nonhuman values).
 3. Plant clues about the skew or the wider context early so the reveal is earned.
-**Common mistakes:** Revealing a skew nobody could have suspected.
-**Example:** A memoir about a river guide is framed by a prologue and epilogue narrated by his proud, jealous brother, whose petty complaints in the last page accidentally prove the guide's courage.
+**Common mistakes:** Revealing a skew that no earlier clue prepared.
+**Example:** A story told through a lighthouse keeper's logbook mentions the supply boat's lateness and never describes his assistant's face. Early entries plant the gaps. In the last entry the reader realizes he is a guilty narrator who buried the assistant during a storm.
 **Sources:** Cleland
 
 ## F043 · Crisis-stacking curve
@@ -136,7 +134,7 @@
 2. Peak in a confrontation, loss, gain or twist tied to those crises.
 3. Offer partial relief showing the design's benefit, plus a call to action for what remains.
 **Common mistakes:** Opening with background; unrelated crises; ending with no action.
-**Example:** A transit planner starts with a bus that never arrived, then a clinic closed by missed shifts, then a school losing students to absences, peaks at the council vote on routes, and closes with a pilot line plus a request for volunteers to track delays. For the classic pyramid, see F001.
+**Example:** A vineyard's head grower presents soil findings to the family board: a row of old vines dying, then a buyer cancelling over thin fruit, then the well dropping below the pump. She peaks at the vote on whether to replant and closes with a two-hectare cover-crop trial plus a request that each owner walk one block a month. For the classic pyramid, see F001.
 **Sources:** Sandler
 
 ## F044 · Kishōtenketsu four-part twist
@@ -149,5 +147,5 @@
 3. Ten: drop a twist with no foreshadowing.
 4. Ketsu: reconcile the twist with the first two parts. It can end open, inviting the audience to find harmony among the parts.
 **Common mistakes:** Forcing a villain; a twist that cannot be reconciled with parts one and two. Characters need not change.
-**Example:** A bakery introduces its three bakers (Ki), shows each one's signature loaf (Shō), reveals that the best seller came from a mistake with the wrong flour (Ten), and ends with all three loaves on one shelf, each now tied to that accident (Ketsu).
+**Example:** A community seed library introduces its three volunteers (Ki) and shows what each one tends (Shō). A late frost kills the prized tomatoes while a patch of weeds survives (Ten), and the talk ends on the shared bed where all three now sow the survivors, leaving the audience to see how the parts fit (Ketsu).
 **Sources:** Sandler; Storr

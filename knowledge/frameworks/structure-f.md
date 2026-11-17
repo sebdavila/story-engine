@@ -9,21 +9,18 @@
 2. Split the exchange into beats, each a moment where a character changes intention after meeting resistance.
 3. Find the turning point, roughly halfway through the crisis, at which one character gets the upper hand or status reverses.
 4. Trace the resolution, where the new state pushes into the next scene.
-**Common mistakes:** Beats with no resistance; no status flip; a resolution that does not lead anywhere.
-**Example:** A tenant tries to return a key to her landlord, who keeps finding reasons to refuse it. The turning point comes when she reveals she has already paid the deposit to a competing building, and the landlord goes from dismissive to pleading.
+**Example:** A chef demands a refund from a fish supplier who keeps deflecting, each of them wanting something different right now. Each deflection ends in a new beat as she changes tack. The turning point comes when she says she has photos and the inspector's number, and the supplier goes from dismissive to pleading. The resolution carries her to the next scene, where she must tell her staff the menu changes tonight.
 **Sources:** Simson
 
 ## F057 · Scene-card outline
 **Also known as:** The Step Outline (Simson); Retroactive Starter Outline (D'Costa); Dramatic Bloc Grouping (Simson)
 **Use when:** Inspecting flow, time and gaps in a script or draft before rewriting.
-**Avoid when:** There is nothing written yet to summarize.
 **Steps:**
 1. Summarize the plot in prose as a short story to see what really happens (Simson). Or scan a finished discovery draft and summarize each scene in one or two sentences (D'Costa).
 2. Put each scene on its own card with its heading, a day or night marker and a short title for how it advances the plot.
 3. Lay the cards on a wall or table and check each transition for therefore or but links (see F004) and for time progression.
 4. Group consecutive scenes sharing one timeframe into a block (Simson).
 5. Add, remove or reorder cards where gaps or weaknesses appear.
-**Common mistakes:** Cards that describe topics, not what happens; ignoring time markers.
 **Example:** A director cards a heist short and sees that scenes 4 to 6 all happen at night, forming a block, but scene 5 repeats scene 3's information, so she cuts it and moves the alarm reveal up.
 **Sources:** Simson; D'Costa
 
@@ -42,7 +39,6 @@
 8. What happens if I do not get it now: the consequences.
 9. How will I get it, doing what: concrete physical and verbal tactics.
 10. What must I overcome: inner doubts and outer resistance.
-**Common mistakes:** Answering only the first questions; vague tactics.
 **Example:** For a nurse asking her supervisor for a transfer: she wants out of night shifts because of a past medication error, needs it before schedules post today, and will lose her confidence if refused. She tries politeness, then a list of her records, and must overcome her fear of reopening the error.
 **Sources:** Simson
 
@@ -56,8 +52,7 @@
 3. Distill them into a short, enticing breakdown: age, background, core dilemma.
 4. Match the traits to actors' real attributes, not just physical types.
 5. In auditions, hear each actor's raw first read, then give one contrasting note or fact for a second read to test adaptability, without full blocking.
-**Common mistakes:** Columns that repeat each other; a breakdown listing only looks.
-**Example:** For a bakery owner: C says she is just stubborn; O says she is a cold boss; W says her sternness hides terror of losing her late husband's shop. The breakdown seeks a warm actor who can play guarded.
+**Example:** For a hospital finance chief in a boardroom drama: C says he is the fair one who protects every ward; O says he is a pushover who signs whatever surgeons ask; W says his easy yes is how he avoids blame when the budget breaks. The breakdown seeks a genial actor who can let a cold calculation show behind the smile.
 **Sources:** Simson
 
 ## F060 · Character, struggle, turning insight, change
@@ -101,8 +96,8 @@
 3. Breadcrumb: drop a concrete hint of a coming twist without the answer.
 4. Hourglass: before a long-awaited payoff, slow everything down with a lower voice, extra sensory detail and brief summary.
 5. Crystal ball: voice a plausible, exciting false prediction you made at the time.
-**Common mistakes:** Implausible predictions; stretching the hourglass with filler.
-**Example:** A hiker states at once that she is lost with one bottle of water, shares her plan to follow a stream, notes a strange smell, slows down at the ridge top, and says she was sure that was a ranger's cabin.
+**Common mistakes:** A crystal ball prediction that feels implausible.
+**Example:** A founder telling investors about launch day says up front that the app must survive ten thousand signups at nine o'clock on a server built for five hundred. She lays out her plan to throttle invites in waves, mentions that an intern quietly asked where the backup password was kept, then slows to the last minute before nine, describing each refresh of the dashboard. When the traffic line spikes, she says she was certain they had just crashed.
 **Sources:** Dicks
 
 ## F063 · Engineered surprise and planted setups
@@ -115,7 +110,7 @@
 3. Raise stakes beforehand with the devices in F062 so the listener expects one outcome.
 4. Plant key setup details as far from their payoff as possible, buried in a list of mundane details and wrapped in a laugh, so their importance is missed until the reveal.
 **Common mistakes:** Announcing the lesson early; placing the setup next to the payoff.
-**Example:** A bride mentions, among a list of errands and a joke about the florist, that she asked the caterer to hold a table. Later the table is where her estranged father sits, and the reveal lands.
+**Example:** A quality engineer presents a failure review to plant managers. Early on, among routine checks and a joke about the break-room coffee, she notes that one sensor log was still printed on last year's form. She stresses that the line had run clean for two hundred days. Only at the end does she show that the old form had no column for the reading that would have flagged the fault.
 **Sources:** Dicks
 
 ## F064 · Situation-complication-resolution business arc
@@ -127,7 +122,7 @@
 2. Complication: introduce the disruption and its consequences, projecting how trends hit those levers.
 3. Question (SCQA only): note the why or how the complication raises, often unwritten.
 4. Answer or Resolution: give a prioritized set of non-overlapping actions, conservative first, radical later.
-**Common mistakes:** Treating SCQA as the whole pyramid; a situation the reader disputes. The arc recasts F001 for business.
+**Common mistakes:** Treating SCQA as the whole pyramid; opening with a situation that is not uncontroversial. The arc recasts F001 for business.
 **Example:** A café chain memo: sales were steady for years (Situation), but a new lease raises rent 40 percent and weekday traffic is falling (Complication). How do we protect margin? Answer: renegotiate hours first, then trim the menu, then close the weakest store.
 **Sources:** McKinsey
 
@@ -142,7 +137,7 @@
 4. Relevant: choose an outcome that matters to the decision-makers present.
 5. Time-bound: add the deadline.
 **Common mistakes:** A bland noun-phrase title that names a topic only.
-**Example:** Instead of Regional Clinic Plan, write: Cutting Northside Clinic Wait Times by Half Within Eighteen Months.
+**Example:** A transit team briefing the city council names Route 12 buses (specific), on-time arrivals rising from 70 to 90 percent (measurable), the verb Raising (action), the council's flood of rider complaints (relevant) and next September (time-bound). Title: Raising Route 12 On-Time Arrivals to 90 Percent by Next September.
 **Sources:** McKinsey
 
 ## F066 · Depth-first slide sequencing
@@ -156,5 +151,5 @@
 4. If you went three or more levels deep, repeat the summary slide with the next branch highlighted.
 5. Move across to each remaining branch in order and repeat.
 **Common mistakes:** Jumping across drivers before finishing one, which forces the audience to rebuild context.
-**Example:** A slide says customer churn doubled; the next lists three drivers: price, support, onboarding. Two slides cover price, then the summary reappears before support and onboarding, each drilled once.
+**Example:** A clinic network's root slide says missed appointments rose by a third. The next slide names three drivers: reminder timing, transport, booking lead time. Three slides go down the reminder branch, from timing to channel to the wording of the text itself. The driver slide then returns with transport highlighted, and transport and lead time each get one level.
 **Sources:** McKinsey

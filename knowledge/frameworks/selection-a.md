@@ -10,7 +10,7 @@
 3. Keep that sentence private. Never present it as a thesis.
 4. Go through the draft and cut every scene, date, name or joke that does not serve the sentence.
 **Common mistakes:** Stating the sentence out loud at the start; keeping a vivid detail that serves a different story.
-**Example:** A bakery owner, Dana, wants to tell the night her oven failed before a wedding order. Her sentence: it took a dead oven for me to learn that my night cook was the real heart of the shop. She keeps the scene of the cook quietly rebuilding the batch by hand and drops the supplier dispute and the oven's model number. The audience never hears the sentence, but every remaining scene points to it.
+**Example:** Marcus wants to tell about freezing halfway up a climbing wall in front of his daughter's class. His sentence: freezing in front of my daughter was the first time I let her see me afraid, and it made her braver than I had ever been. He keeps her shouting footholds from below and drops the harness brand and the gym's rules. He never says the sentence aloud, but every scene left points to it.
 **Sources:** Bowles
 
 ## F143 · Scar-not-wound readiness test
@@ -25,7 +25,7 @@
 5. Draft it and speak it aloud. If your stomach knots and you lose command of the narration, answer not yet and wait weeks, months or years.
 6. Tell it only when you control the material and the audience will leave uplifted rather than worried about you. Let the painful event be context, not the whole story.
 **Common mistakes:** Telling the story while still knee-deep in the problem; ending without closure so listeners fear for you; making the trauma the entire story.
-**Example:** Priya wants to tell about losing her restaurant to a flood. Six weeks on, she cracks when she reaches the water-in-the-kitchen scene, so she waits. A year later she can tell it, laughing at the soggy menus, and she sees the story is really about learning she could cook anywhere. She tells it as a mishap with a clear ending.
+**Example:** Imran wants to tell his team offsite about his father's illness. He has missed three deadlines and rescheduled twice, so he drafts the story and reads it aloud. At the hospital phone call his voice goes and his stomach knots. He answers not yet, shares it only with his sister, and plans to revisit it in the spring.
 **Sources:** Bowles; Leitman
 
 ## F144 · Story selection criteria
@@ -55,8 +55,6 @@
 1. Media, how: select the means of imitation, whether rhythm, spoken language (prose or verse), melody, or a blend.
 2. Objects, who: settle whether the people in the action are superior to us, inferior to us, or average like us.
 3. Manner, narration: tell it in a single voice, move between character voices, or have characters act it out directly.
-4. Record the three choices and hold the draft to them.
-**Common mistakes:** Leaving the three choices implicit so form and point of view drift mid-draft.
 **Example:** A museum team plans a short piece about a night guard. They choose spoken prose with light music, an ordinary guard (like us) rather than a hero, and a single narrator voice that stays close to him. Those choices settle the script's register before drafting begins.
 **Sources:** Aristotle
 
@@ -69,20 +67,20 @@
 2. Write a short overview of who you are and what you do, without a list of achievements (Maestas).
 3. List the exact deliverables and scope.
 4. Identify a core bullseye audience, plus a secondary outer-ring audience whose opinions sway the core.
-5. State the change the story must cause as a concrete, measurable outcome, such as 100 applicants by December.
+5. State the change the story must cause as a concrete, measurable outcome, such as 40 new members by spring.
 6. Compress the message into one key idea; allow a second only if it reinforces the first.
 7. List honest, checkable reasons to believe: tenure, awards, statistics, benefits. Inventory proof assets already in hand, such as testimonials and case studies (Rodriguez).
 8. Choose the tone and the exact feeling to evoke; record brand positioning (personality, tone, voice, slogan) and a first wish list of formats (Rodriguez).
 9. For larger projects, answer eight core questions (purpose, value, people, theme, genre, character, connection, impact), add accessibility specs, and distill a high concept of 25 words or fewer (Sommer Paulsen).
 10. Test the concept early with at least two, ideally three, neutral facilitators who are not the presenter, using present-tense walkthroughs and unbiased prompts (Sommer Paulsen).
 **Common mistakes:** Defending your concept in testing; leading respondents; skipping accessibility; a second message that distracts from the first.
-**Example:** A cycling-repair cooperative briefs a 90-second film. Response wanted: share. Bullseye: commuters who own a bike but never service it; outer ring: their partners. Outcome: 200 workshop sign-ups by March. One message: ten minutes of care saves a month of walking. Proof: 4,000 repairs, a regional award. Tone: warm and wry. Every storyboard frame is checked against this page.
+**Example:** A regional blood bank briefs a 60-second video. Response wanted: share. Bullseye: people aged 18 to 30 who have never donated; outer ring: campus club leaders whose posts they follow. Outcome: 300 first-time donations by June. One message: one hour of your afternoon reaches three patients. Proof: national accreditation, 20 years of service. Tone: brisk and upbeat. Every script line is checked against this page.
 **Sources:** Sommer Paulsen; Maestas; Creek; Rodriguez
 
 ## F147 · Ride the Cultural Moment
 **Also known as:** Trendjacking (Vaynerchuk); Leverage unofficial National Days (Vaynerchuk); The Five Zeitgeist Triggers (Creek); Delayed Trend Publishing (Creek)
 **Use when:** You want timely content, you can find a genuine link between a live conversation and your brand, and you can publish while it is alive.
-**Avoid when:** The link is forced; a golf brand riding soccer hype alienates people. Invented brand hashtags rarely take off.
+**Avoid when:** The link is forced; a bank riding a celebrity wedding to sell mortgages alienates people. Invented brand hashtags rarely take off.
 **Steps:**
 1. Scan national, regional and global trends, viral memes and search trends, not just top-ten lists (Vaynerchuk).
 2. Pick from five triggers: pop culture, news and events (including gatherings with a shared immediate desire), seasons and holidays, trending topics, music (Creek).
@@ -92,7 +90,7 @@
 6. For business buyers, record early, then publish when decision makers start searching for what the trend means, not when it first appears (Creek).
 7. Check every post against your rules of engagement.
 **Common mistakes:** Publishing too early to an unprimed audience or too late; chasing trends that decay within hours with no link to the brand.
-**Example:** A payroll software firm sees news of a new overtime rule. Its team records a two-minute explainer the same day, holds it until managers begin searching for the rule's meaning, then posts it in the firm's plain voice and answers comments that afternoon.
+**Example:** A hardware store chain sees the first frost forecast trending across its region, a seasons trigger. The bridge is real: frozen pipes. That morning it posts a 30-second clip of a clerk wrapping a tap in foam, in the store's dry voice, and staff answer questions about which insulation fits which pipe until evening.
 **Sources:** Vaynerchuk; Creek
 
 ## F148 · Excerpting the Narrative for Media
@@ -131,6 +129,5 @@
 2. Score each vertically by how much irreversible change it caused.
 3. Draw a cut-off line at the chosen height of transformation and discard everything below it.
 4. Link only the peaks into scenes.
-**Common mistakes:** Keeping events because they were pleasant or recent rather than because they changed the company for good.
 **Example:** A family-run ferry company lists forty events. Winning a city contract and buying a second boat score low; the 1998 flood that forced it to move to a new harbour and the decision to hire its first non-family captain score high. The anniversary film links those two peaks and drops the rest.
 **Sources:** Terenzzo

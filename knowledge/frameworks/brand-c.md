@@ -15,7 +15,7 @@
 8. Add interactive contrasts that spark personal discoveries visitors share, feeding community, culture and commerce (Maxwell).
 9. Keep every room in character, including restrooms and back-of-house seams (Vincent).
 **Common mistakes:** Cash register as the center; a broken-character washroom.
-**Example:** A used-book café opens with a tall green door and a bell (threshold). A reading lamp glows above the entrance, floors are worn oak, and shelves wind toward a big shared table where strangers swap recommendations. Even the restroom wall carries a bookplate.
+**Example:** A veterinary clinic swaps its glass door for a low wooden gate and a greeter who kneels to welcome each dog (threshold and guardians). A skylight over the entry draws owners' eyes up, rubber-wood floors keep paws steady, and a faint cedar scent covers the disinfectant. A winding corridor of paw-print tiles leads to a garden room where owners wait together, and even the staff door to the kennels is painted as a barn.
 **Sources:** Vincent; Maxwell
 
 ## F311 · Dark Narrative Continuum
@@ -29,7 +29,7 @@
 4. Sanction without deception: honor consent and adult boundaries and state risks plainly.
 5. For indulgence, apply the Hitchcock hint: suggest, then stop at the threshold so imagination amplifies desire.
 **Common mistakes:** Cartoon-masking a harmful product to reach young people.
-**Example:** A dark-chocolate liqueur brand runs an ad of a candlelit door closing just as a glass is lifted, with an age line and a clear strength label. It is indulgence, with the rest left to the imagination.
+**Example:** An extreme hot-sauce maker sits on the provocation tier, defying the idea that food should be comfortable. Its ads offer a pressure valve: one evening as the person who finishes the bottle, not a dare to get hurt. The scowling mascot's motive stays plain, he wants respect for heat. Every label states the heat rating, and the challenge is marketed to adults only.
 **Sources:** Vincent
 
 ## F312 · Brand Position and Promise
@@ -45,7 +45,7 @@
 6. Repeat the same core promise on every touchpoint (Maestas).
 7. After drift, publish a dense run of hyper-authoritative core-lane content to push off-lane posts down (Creek).
 **Common mistakes:** Off-lane posts; changing the wording per channel.
-**Example:** A family dental clinic gathers receptionists, hygienists and dentists. They find the shared trait "no lectures." Tagline: "Checkups without the scolding." After a week of off-topic tooth-whitening memes, the clinic runs ten hygienist-led explainers to restore the lane.
+**Example:** An overnight childcare center for hospital and factory workers maps its parents' fear of strangers at 2 a.m. and their blocker of rotating shifts. The benefit it can prove, and chain daycares cannot claim, is the same caregiver every night a child stays. It writes a four-line belief statement, the tagline "Same face, every night shift," and the mantra "We keep nights familiar." A signal check finds the name Starlight Kids Club sounds like a party venue, so the sign changes to match the promise.
 **Sources:** Creek; Maestas
 
 ## F313 · Rules of Engagement
@@ -59,7 +59,7 @@
 4. Repackage the rules per platform, the way one network packages the same news for breakfast and prime time.
 5. Train customer-facing staff in the rules so real customer moments return as story leads.
 **Common mistakes:** Too many rules; corporate language.
-**Example:** A pet-adoption shelter agrees on four rules, including "real animals only" and "no guilt trips." A volunteer pitching a sad-eyes montage is told it breaks rule two. A kennel worker's tale of a dog learning to wag passes.
+**Example:** A rural hardware store gathers its owner, two clerks and a supplier rep, who list fifteen things they care about. Cross-examined, the list shrinks to three rules: show the fix, not the shelf; talk like the counter; locals first. On the store's video channel the rules mean short repair clips, and on its flyer they mean one tip per page. Clerks who hear a customer's repair success at the till now jot it down as the next story lead.
 **Sources:** Creek
 
 ## F314 · Brand as a character
@@ -74,7 +74,7 @@
 5. Add at least one short story of the character in action (Terenzzo).
 6. Optionally give products human error states, such as a machine apologizing it is unwell (Sandler).
 **Common mistakes:** A character with no flaws or backstory.
-**Example:** A budget airline invents Gus, a gruff ex-baggage handler afraid of overpacked bags, as an Ally. His sheet lists his fear, his bad puns and his hometown. One short tale shows him quietly refunding a stranded grandmother.
+**Example:** A seed company for home gardeners personifies itself as Agnes, a retired botany teacher, and commits to the Mentor archetype. Her sheet lists twenty traits, a habit of naming seedlings, a dislike of plastic plant labels and a childhood on a flooded farm. One short tale shows her talking a beginner out of pulling up weeds that are really carrot seedlings. When the online shop fails, its error page says Agnes has misplaced her reading glasses.
 **Sources:** Terenzzo; Butler; Sandler
 
 ## F315 · Backward campaign planning
@@ -95,14 +95,14 @@
 **Avoid when:** Staff are trained before their managers; the managers cannot coach. Leaders also cannot control the informal grapevine, only the stories fueling it, and advocacy drops when people see values ignored (Callahan; Dolan).
 **Steps:**
 1. Executives co-create and own a strategy story built on real trade-offs (Callahan).
-2. Train managers first, then staff, over months with practice and coaching (Callahan).
+2. Train managers before or alongside staff, over months with practice and coaching (Callahan).
 3. Create routines that collect and broadcast frontline success stories, such as pre-shift huddles or an intranet feature (Callahan).
 4. Check the culture tolerates leader vulnerability, train senior leaders and support staff in HR and communications, and have the CEO and executives tell and listen to stories (Dolan).
 5. For values, have each leader write a personal story per value, including a failure to live it (Dolan).
 6. Gather influencers from all levels in a safe workshop to develop and record value stories (Dolan).
 7. Plan the questions colleagues will ask and the stories to share, and reinforce with peer recognition (Dolan).
 **Common mistakes:** Posters and mugs instead of peer stories.
-**Example:** A hospital laundry service trains its supervisors first. Each morning huddle, the supervisor asks two people for a story about a patient's clean linen mattering. The director shares her own tale of missing a deadline against the value of care.
+**Example:** A software company moving from licences to subscriptions has its executives write the strategy story together, naming what they give up: the big upfront deals. Team leads get three months of coaching before anyone else is trained. Each Friday the support team posts one customer rescue to the internal wiki, and the CEO comments on it and reads one aloud at the monthly all-hands.
 **Sources:** Callahan; Dolan
 
 ## F317 · Personal brand through stories
@@ -118,7 +118,7 @@
 6. Tell it modestly: stumble into the idea ("none of us knew what to do, then it occurred to me") or quote a colleague's praise (Biesenbach).
 7. Evolution: update the story set as ambitions change (Dolan).
 **Common mistakes:** Evolving and authentic but not strategic; strategic but not authentic.
-**Example:** Priya, a hospital pharmacist, is known for catching dosing mix-ups. Her story: a night-shift nurse asked a casual question about a label, which led her to spot a double entry. She tells it as luck and ends with the nurse's quote.
+**Example:** Marta, a freelance bookkeeper, is known for staying calm near tax deadlines. Her story: a client's office flooded the week filings were due, and she dried the receipts on radiators with a borrowed hairdryer. She tells it as luck, since she simply happened to own the hairdryer, and ends with the client's line about sleeping that night.
 **Sources:** Dolan; Biesenbach
 
 ## F318 · Brand as narrative universe
@@ -130,7 +130,7 @@
 2. Excavate or invent one narrative: a founding myth, heritage episodes, or a counter-narrative that answers criticism.
 3. Spread it through experience touchpoints and human ambassadors who retell it.
 **Common mistakes:** A story that outruns real behavior.
-**Example:** A century-old umbrella maker had lost young buyers. A journalist weaves ten dated episodes, from a storm-bound ferry to a 1960s film shoot, into a booklet. Staff in boutiques tell one episode per customer, and the repair counter really does repair.
+**Example:** A fast-fashion retailer accused of waste stops running price ads and builds a counter-narrative around its repair workshop, where returned garments get a second life. Its tag logo becomes a character, a stitched patch that travels from garment to garment in short in-store films. Repair staff retell the story at the fitting rooms, and the company publishes repair volumes each quarter so the tale never outruns practice.
 **Sources:** Salmon
 
 ## F319 · Brand maturation toward myth
@@ -141,7 +141,6 @@
 1. Time of heroism: the brand wins by bold differentiation.
 2. Time of wisdom: it consolidates credibility and earns lasting trust.
 3. Time of myth: it acquires a conscience, proves cultural legitimacy and resonates like a classical myth that gives meaning and belonging.
-**Common mistakes:** Claiming myth status before credibility is earned.
 **Example:** A regional tool-rental cooperative first wins by renting pro-grade machines to hobbyists (heroism), then spends years with honest repair records (wisdom). It now aims to be known as the place neighbors build their first deck, a communal rite.
 **Sources:** Salmon
 
@@ -154,5 +153,5 @@
 2. Pick two or three primal urges and target emotions by asking how buyers should feel at purchase.
 3. Build the story: a central brand character (personified or representative), one of five archetypes (see F314), one of five nonfiction plots, and one or more of four brand story types.
 **Common mistakes:** Treating the first campaign as final.
-**Example:** A 60-year-old valve manufacturer wants young engineers. Urges: security and significance. Character: a representative veteran engineer as Mentor. Story type: a value story about how rookies' ideas reached a product. Downloads and inquiries are tracked and the next story adjusted.
+**Example:** A martial-arts gym targets office workers in their forties who fear losing their fitness and feel overlooked at work. Urges: vitality and significance, with pride as the feeling at sign-up. Character: the head coach as a representative Ally, in a transformation story about a member's first belt grading at 47. The 90-day campaign is run as a test: after the first month, trial-class bookings show which clip works and the rest are re-cut.
 **Sources:** Butler

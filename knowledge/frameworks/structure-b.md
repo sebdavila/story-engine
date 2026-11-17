@@ -10,8 +10,8 @@
 3. Society: religion, government, corporations, media, cultural rules.
 4. Surroundings: weather, terrain, decay, machines, sensory environment.
 5. Activate as many rings as the length and genre can carry, and let them press at once.
-**Common mistakes:** One ring only (usually the villain); every ring maxed in a five-minute story.
-**Example:** A small-town pharmacist must tell customers a drug is recalled. She doubts her own judgment (self), her brother runs the rival store (personal), the chain's policy forbids comment (society), and a blizzard cuts the road (surroundings).
+**Common mistakes:** Maxing every ring in a short piece; a flat scene with friction from only one ring.
+**Example:** A small-town pharmacist must tell customers a drug is recalled. She doubts her own judgment (self), her brother runs the rival store (personal), the chain's policy forbids comment (society), and a blizzard cuts the road (surroundings). The scene is short, so she keeps two rings pressing hardest and lets the others hum in the background.
 **Sources:** Rubin
 
 ## F013 · Progressive character reveal
@@ -24,8 +24,8 @@
 3. Spiritual: ethics and how they judge right and wrong under stress.
 4. Core: identity proven only by a high-stakes action when everything is on the line.
 5. Place each layer later in the story than the one before.
-**Common mistakes:** Stating the core in the first scene; a final action that contradicts the earlier layers.
-**Example:** A new warehouse manager shows up in a crisp jacket (surface), obsesses over route spreadsheets (mental), quietly pays a driver's fine from his own pocket (spiritual), and at the flood night stays to carry pallets with the crew, proving who he is.
+**Common mistakes:** Stating the core in the first scene; layers treated as rigid compartments.
+**Example:** A new warehouse manager shows up in a crisp jacket (surface), obsesses over route spreadsheets (mental), quietly pays a driver's fine from his own pocket (spiritual), and at the flood night stays to carry pallets with the crew. That last act proves who he is, and it comes after the other three layers.
 **Sources:** Rubin
 
 ## F014 · Character mask management
@@ -64,7 +64,7 @@
 2. Render pivotal moments and the climax as scenes: slow down and recount sensory action from inside.
 3. Bridge time gaps with brief summaries and jump cuts.
 4. Add reflections on what you felt, learned or accepted, so action and interiority alternate.
-**Common mistakes:** Everything as summary, so nothing is felt; reflection stacked at the end instead of woven.
+**Common mistakes:** Narrating mundane literal steps instead of jump cutting; action with no reflection to alternate with.
 **Example:** A volunteer coordinator tells of her first food drive. Scene: a donor truck arrives empty. Summary: two weeks of phone calls. Scene: the church basement fills with strangers. Reflection: she learned to ask for specific help.
 **Sources:** Bowles
 
@@ -79,8 +79,8 @@
 4. Cliffhanger: open on a few lines of a late crisis, pause at the brink, rewind, then finish that scene as the climax.
 5. Smaller lens: frame a huge event through one relationship, object or age.
 6. Signal every time jump clearly; listeners cannot rewind.
-**Common mistakes:** Unmarked jumps; flashback that stops the tension for too long.
-**Example:** A paramedic recounts a hurricane night through one object, a neighbor's yellow radio, and cuts between the night shift and her daughter's school pageant.
+**Common mistakes:** Unmarked time jumps; a forced cliffhanger; withholding a tragic outcome that creates dread.
+**Example:** A teacher tells of the morning she locked herself out of the exam hall. She opens with two lines: her hand on the cold handle, 300 students behind the door. She pauses, rewinds to the alarm that never rang, then returns to the handle as the climax and the dean's key.
 **Sources:** Bowles
 
 ## F018 · Plot-first drafting
@@ -92,7 +92,7 @@
 3. Write the bare causal skeleton with no names or local detail.
 4. Add names and expand into episodes, brief for drama, longer for epic.
 **Common mistakes:** Naming and decorating before the causal chain works.
-**Example:** Skeleton for a team story: a person is blamed for a missed deadline, hides the real cause, a colleague finds the proof, and the blame reverses. Only then do we add names, the supplier delay and the Thursday meeting.
+**Example:** Skeleton for a team story: a person is blamed for a missed deadline, hides the real cause, a colleague finds the proof, and the blame reverses. Only then do we add names, the supplier delay and the Thursday meeting. Writing the skeleton first shows the blame reversal works before any decoration.
 **Sources:** Aristotle
 
 ## F019 · Short business story formula (1-2-1)
@@ -104,7 +104,7 @@
 2. Two halves: Before and After, split by a watershed moment of change.
 3. One unforgettable detail: a concrete sensory image, action or line of dialogue.
 **Common mistakes:** Two lessons; no moment of change; a detail that is generic.
-**Example:** I learned about listening at a ferry terminal last spring. Before: the manager was fixing delays by adding staff. After she stood on the dock for an hour, a driver said, nobody tells us which gate. Signs fixed the delays.
+**Example:** I learned to price for value, not hours, at a wedding fair in 2019. Before: as a freelance photographer I quoted by the hour and kept losing to cheaper rivals. Then a bride pointed at my portfolio and asked which of these would make her grandmother cry. After: I sold albums built around that question and doubled my fee within a year.
 **Sources:** Guptara
 
 ## F020 · Rule of three
@@ -116,8 +116,8 @@
 2. Put the strongest item last (Sandler), or use items one and two to set a pattern and the third to twist it (Lupton).
 3. Chunk dense strings of data in threes or fours.
 4. For a talk, announce three short personal stories and close on a motto (Salmon).
-**Common mistakes:** Padding to reach three; a weak final item.
-**Example:** A gym's flyer reads Book, Sweat, Repeat. A speaker opens a toast with three tiny stories: how they met, how they argued, how they stayed.
+**Common mistakes:** Cramming too many tasks into three steps; a weak final item.
+**Example:** A gym's flyer reads Book, Sweat, Repeat. A speaker opens a toast with three tiny stories: how they met, how they argued, how they stayed. The strongest one, how they stayed, goes last, and a one-line motto closes it.
 **Sources:** Lupton; Sandler; Salmon
 
 ## F021 · Three-act change arc

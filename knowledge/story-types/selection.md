@@ -3,7 +3,7 @@
 ## S066 · True personal story built on inner change
 **Purpose:** Create deep connection through a true first-person story whose meaning lives in how the teller changed. **Audience:** Listeners at a stage, a workshop, a team or a family gathering. **Teller:** The person who lived it, or a family member passing on a family tale.
 **Choose when:** You have a real episode with genuine stakes and vulnerability and want the audience to feel it without being told the lesson.
-**Shape:** Anchor the story in one five-second moment of change and build backward so the beginning is the opposite of the end (F061); raise stakes with F062 and drive scenes with F004. Include characters, senses, dialogue, conflict and a beginning, middle and end, so it is not gossip, a news report or a summary (Apps). Let the meaning emerge; it needs no explanation and makes the strongest closer (James). Real stakes and honest vulnerability separate it from bragging or party tales (Lazer). Family stories are an easy starter for practising book-free telling (Haven). For a stage slot, expect a timed, unscripted arc of about 5 minutes at a StorySLAM or 10 to 12 at a mainstage (Bowles). For its smaller cousin see S067.
+**Shape:** Anchor the story in one five-second moment of change (Dicks; F061); see F062 and F004 for stakes and scenes. Include characters, senses, dialogue, conflict and a beginning, middle and end, so it is not gossip, a news report or a summary (Apps). Let the meaning emerge; it needs no explanation and makes the strongest closer (James). Real stakes and honest vulnerability separate it from bragging or party tales (Lazer). Family stories are an easy starter for practising book-free telling (Haven). For a stage slot, expect a timed, unscripted arc of about 5 minutes at a StorySLAM or 10 to 12 at a mainstage (Bowles). For its smaller cousin see S067.
 **Sources:** Dicks; James; Apps; Lazer; Haven; Bowles
 
 ## S067 · Anecdote
@@ -35,7 +35,7 @@
 ## S071 · Life-writing forms by scope
 **Purpose:** Pick the right form for writing about a life. **Audience:** Readers of a life account. **Teller:** An author writing about their own or another life.
 **Choose when:** You are planning a written life story.
-**Shape:** Reminiscence is a raw remembered fragment, such as walking to a one-room school; use it as starting material. Autobiography or biography covers a life chronologically from birth to now; it is vast and tends to become a dry summary in beginner hands. Memoir picks specific themes, incidents or relationships that shaped who the author became; beginners do best here (Apps). Build each memoir chapter as an S066 story.
+**Shape:** Reminiscence is a raw remembered fragment, such as walking to a one-room school; use it as starting material. Autobiography or biography covers a life chronologically from birth to now; it is vast and tends to become a dry summary in beginner hands. Memoir picks specific themes, incidents or relationships that shaped who the author became (Apps).
 **Sources:** Apps
 
 ## S072 · Traditional tales and myths
@@ -47,7 +47,7 @@
 ## S073 · Nonfiction incident or booktalk
 **Purpose:** Make nonfiction vivid and prompt more reading. **Audience:** Students, library or classroom listeners. **Teller:** A teacher, librarian or speaker.
 **Choose when:** You want to introduce a history, science or art subject, or a book.
-**Shape:** Pick one real episode from a historical, scientific or artistic figure, or one complete scene lifted from a longer book, and tell it as a story so it stands alone and leaves people wanting the rest.
+**Shape:** Pick one real episode from a historical, scientific or artistic figure, or one complete scene lifted from a longer book, and tell it as a story to make nonfiction vivid and motivate further reading.
 **Sources:** Haven
 
 ## S074 · Two-minute pitch to curators
@@ -59,7 +59,7 @@
 ## S075 · Intimacy levels
 **Purpose:** Decide how private a personal story is and where it can be told. **Audience:** Work audiences, friends, close circle. **Teller:** Anyone.
 **Choose when:** You are screening a personal story for work.
-**Shape:** Sort into three tiers. Front porch: safe stories you can tell anyone, anytime. Kitchen: personal stories for an inner circle of trusted friends. Bedroom: highly intimate stories that make workplace listeners uncomfortable and should stay private. At work tell front-porch stories only.
+**Shape:** Sort into three tiers. Front porch: safe stories you can tell anyone, anytime. Kitchen: personal stories for an inner circle of trusted friends. Bedroom: highly intimate stories that make workplace listeners uncomfortable and should stay private. Keep bedroom stories private.
 **Sources:** Callahan
 
 ## S076 · Funny release story
@@ -77,13 +77,13 @@
 ## S078 · Tender empathy story
 **Purpose:** Evoke empathy and resonance. **Audience:** Trusted listeners. **Teller:** The person who lived it.
 **Choose when:** You want deep feeling. This is Maguire's AHHH type.
-**Shape:** Aim the story at tenderness; take care with timing and safe listeners (see S068).
+**Shape:** Aim the story at tenderness and deep feeling. Compare S068.
 **Sources:** Maguire
 
 ## S079 · Reverent or transcendent story
 **Purpose:** Move the spirit. **Audience:** Listeners open to reverence. **Teller:** The person who lived it.
 **Choose when:** You want a sense of awe or the sacred. This is Maguire's AMEN type.
-**Shape:** Aim the story at reverence or transcendence rather than laughter or surprise.
+**Shape:** Aim the story at reverence or transcendence.
 **Sources:** Maguire
 
 ## S080 · Teaching and know-how stories

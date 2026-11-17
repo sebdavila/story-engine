@@ -25,8 +25,7 @@
    - Hopeless: restore your own hope first, then show one small unplanned choice sparking large change.
    - Apathetic: look beneath the not-my-problem wall for disillusioned over-concern and show collaboration feels better than isolation.
    - Greedy: a haunting story about what wealth cannot buy, love and belonging.
-**Common mistakes:** One story for every resistance.
-**Example:** A new plant manager faces cynical technicians. He tells how last spring he held a promised overtime-pay review in the break room, date by date, and sat through every complaint, then invites them to check the schedule log.
+**Example:** Two nursing teams on a hospital ward barely speak after a rota dispute, and each waits for the other to apologize. The ward head, speaking to the resentful night team, tells of a nurse who walked over at dawn with coffee and a swap offer before anyone asked. The story makes going first look like the brave move rather than a defeat.
 **Sources:** Simmons
 
 ## F281 · Story listening to drain resistance
@@ -76,8 +75,7 @@
 5. Prepare the delivery: structure five presentation phases, with linguistic devices, emotional triggers, detail, characters and planned interactions.
 6. Visualize data: pick chart types and pre-attentive attributes that reach memory in seven to ten seconds without overloading working memory.
 7. Deliver: lead with vocal modulation, presence, structured question handling and composure under resistance.
-**Common mistakes:** Jumping to slides before the outcome and audience are defined; each step feeds the next.
-**Example:** A consultant must convince a logistics firm's board to upgrade its dispatch software rather than replace it. Over four weeks she defines the decision wanted, profiles three directors, tests hypotheses with ops leads, builds a one-page blueprint, rehearses, and presents with two clean charts.
+**Example:** A museum director must persuade trustees to close the main wing for a year of repairs. She defines the vote she needs that evening and profiles each trustee's worries. She tests her hypothesis tree in a workshop with curators and the finance lead, builds a one-page blueprint, rehearses her five phases and shows two clean charts on visitor safety and lost revenue.
 **Sources:** Parikh
 
 ## F285 · Deductive argument chain
@@ -89,8 +87,8 @@
 2. Chain three to five premises, each moving closer, such as situation, comment, opportunity, solution.
 3. State the conclusion or call to action that must hold if all premises do.
 4. Test that all relevant information is included, with no omitted counter-facts, and that every premise can be proved.
-**Common mistakes:** A hidden gap between premises.
-**Example:** To justify a second delivery van: orders grew 40 percent; two vans are at capacity; routes cannot be shortened; renting costs more than owning; so buy a third van. Each premise is backed by a log or invoice.
+**Common mistakes:** Leaving out a relevant counter-fact; including a premise that cannot be proved.
+**Example:** To justify a third delivery van: orders grew 40 percent; two vans are at capacity; routes cannot be shortened; renting costs more than owning; so buy a third van. Each premise is backed by a log or invoice.
 **Sources:** Parikh
 
 ## F286 · Inductive argument group
@@ -101,8 +99,8 @@
 1. State the claim at the top.
 2. Group three to five independent reasons ordered by priority; to support a positive claim put cons before pros, for a negative claim pros before cons.
 3. Check there are three to five reasons (regroup if more), nothing relevant is missing and each reason fits the audience's decision criteria.
-**Common mistakes:** Seven loosely related reasons.
-**Example:** A café owner argues against opening a second site: rent is double, no trusted manager is ready, and the street's foot traffic is half. Three benefits are listed first and outweighed.
+**Common mistakes:** Listing more than five reasons without regrouping them.
+**Example:** A principal argues for a later school start, a positive claim, so cons come first: bus contracts must be renegotiated, after-school sports end later and some parents start work early. Then three weightier pros follow in priority order: attendance rises, first-period grades improve and nurse visits for exhaustion drop. Each reason is checked against what the school board weighs most.
 **Sources:** Parikh
 
 ## F287 · Six keys to a moving story
@@ -116,5 +114,5 @@
 5. Raise the stakes to values people hold dear, such as family, health or safety.
 6. Show through specific action, not generic labels.
 **Common mistakes:** Reporting metrics where a person's moment would do.
-**Example:** Instead of listing a bank's fraud-check steps, a writer profiles night analyst Omar, who calls a widow at 2 a.m. because her pension account shows a strange transfer. Quality becomes a person protecting someone's savings.
+**Example:** A university provost preparing a speech to alumni donors on expanding student counseling starts with a five-week wait time. She rebuilds it around one first-year student who walked to the counseling office three times and left each time, a feeling of being lost that any former student recognizes. She admits she did the same in her own first year, which shows who is asking. The stakes rise from a wait-time figure to a young person's health, shown through one act: the student emailing her parents that she was coming home.
 **Sources:** Biesenbach

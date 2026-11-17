@@ -33,7 +33,7 @@
 ## S131 · Rise-setback-recovery business stories
 **Purpose:** Show persistence through the rise-fall-rise shape. **Audience:** Press, interviewers, investors, boards, LinkedIn readers. **Teller:** Founder, leader or professional.
 **Choose when:** You have early traction, a major setback and a comeback. Pick the variant: industry challenger, a counterintuitive method that gains traction, meets incumbent pushback and persists (press, job interviews, LinkedIn); resilient leader, a strong team hits post-honeymoon friction and fixes communication (interviews, boards); pivot, a promising product fails and a pivot finds fit (press, investors); career pivot, success in one field, a realization it is not your calling, a struggle, then thriving elsewhere (Lazer).
-**Shape:** Plot the fortune line with F045 (Boy Meets Girl shape); build trust by disclosing the setback first, F270.
+**Shape:** Plot the fortune line with F045 (Boy Meets Girl shape). All variants follow the rise, setback and recovery line.
 **Sources:** Lazer
 
 ## S132 · Cinderella business stories

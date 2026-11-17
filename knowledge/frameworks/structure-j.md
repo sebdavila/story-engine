@@ -41,7 +41,7 @@
 10. Record the first draft by speaking it in two or three passionate passes, ignoring grammar.
 11. Write the story: copy out your best pass one sentence at a time, strengthening verbs, details and dialogue as you go.
 **Common mistakes:** Skipping the recording step increases revision work.
-**Example:** Seed: what if a night-shift janitor finds a child's drawing that predicts tomorrow? Goal question: will he return it before the owner notices? Six scene cards later he speaks the story into his phone and transcribes the best take.
+**Example:** Seed: what if a night-shift janitor finds a child's drawing that predicts tomorrow? Goal question: will he return it before the owner notices? Eight scene cards later he speaks the story into his phone and transcribes the best take.
 **Sources:** Haven
 
 ## F103 · Layered character profile
@@ -65,5 +65,5 @@
 2. Trigger (epiphany only): reveal concrete proof, optionally letting the reader spot it early for suspense.
 3. Payoff: either the character realises the truth (epiphany), or the misguided act succeeds or fails opposite to intent with the character never realising (dramatic irony).
 **Common mistakes:** A reveal that does not feel fully logical once the hidden facts come out.
-**Example:** Priya trusts her new roommate Dev and tells him her savings hiding place. Epiphany: she finds her emptied envelope in his bag. Irony version: Dev, a thief, takes the envelope and unknowingly triggers a bank alert that saves her account.
+**Example:** Nadia, a lighthouse apprentice, is sure the inspector, Okoro, wants her post cut, so she hides the broken lamp log from him. Epiphany version: she finds his letter recommending her for the keeper job and realises she misjudged him. Irony version: to get ahead of him she files a complaint about his inspections, which stalls his recommendation by a season, and she blames him for the lost promotion without ever learning the truth.
 **Sources:** Haven

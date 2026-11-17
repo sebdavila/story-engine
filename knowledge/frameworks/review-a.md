@@ -13,7 +13,7 @@
 6. Check the ending: a resolution and a lesson or business point (Creek; Callahan), plus authentic emotion (Hall; Biesenbach).
 7. Discard or rework anything missing a piece. In a very short format Hall allows dropping one component, usually the moment or one detail.
 **Common mistakes:** Opening with a time marker and then listing assertions (Callahan). Treating a timeline of company milestones as a story (Hall). Giving the lesson as a résumé of events instead of through lived scenes (Terenzzo).
-**Example:** A bakery owner pastes a draft: "Founded in 2009, we use local flour and care about community." It has a date and no person, no event, no obstacle. The reworked version follows Ines, who runs out of flour at 4 a.m. before a wedding order, drives to a farmer she barely knows, and gets milled flour still warm from the stone. It now has a character, a goal, a blocker, a sequence and a detail the audience can smell.
+**Example:** A hospital IT lead preps a two-minute anecdote for a staff town hall: "Dana, our night nurse, logged in, checked her charts and finished her shift." The checklist finds a person and a sequence but no want, no blocker, and only "and then" links. In the revision Dana needs a patient's last dose at 3 a.m., but the records system is down for an update, so she phones the day pharmacist, who reads it off a sticky note on his fridge. Now the events turn on "but" and "so", the sticky note is the detail people remember, and the point (keep an offline copy) lands at the end.
 **Sources:** Haven; Terenzzo; Creek; Callahan; Hall; Forman; Apps; Biesenbach
 
 ## F340 · Storyboard and ingredients check
@@ -25,7 +25,7 @@
 3. Check five ingredients: arc (beginning, middle, end), change (the action transforms a character or situation), theme (a larger meaning), coherence (concrete, relevant details), plausibility (believable inside its own rules).
 4. Reject any ending that rescues the character with a magic shortcut or leaves them passively defeated.
 **Common mistakes:** Resolving the problem with an implausible rescue, or ending in a passive loss. Both fail the check; the satisfying ending is the one where the character acts in a way that fits the theme.
-**Example:** A transit startup storyboards a commuter, Dev, whose bike tire goes flat before a meeting. Frame 3: the bus passes him. Frame 5: he scans a code at a repair kiosk and fixes the tire in two minutes. Frame 6: he arrives with grease on his cuff. A teammate notices frame 5 is the only action, and that the resolution depends on his choice, not luck, so it passes.
+**Example:** A museum educator plans a six-frame comic for a field-trip handout on a flood-plain exhibit. Frame 1, a wide shot of rain over a river town; frames 2 to 5, a girl named Lia carrying her grandmother's seed jars upstairs as the water climbs. A colleague runs the ingredient check: arc, coherence and plausibility hold, but the draft ends with the water simply receding and nothing changed in Lia, so change and theme fail. The new frame 6 shows her painting the high-water line on the barn door and moving next spring's planting uphill.
 **Sources:** Lupton
 
 ## F341 · Criteria for a strong ending
@@ -39,9 +39,8 @@
 5. Just: it honors the genre's and the world's promise and explains why things happen rather than indulging random cruelty.
 6. Emotional: it lands a strong jolt at the last moment.
 7. Authentic: it fits the writer's real worldview and the characters' psychology.
-8. Drop endings that depend on coincidence or tricks; keep the one that passes most.
 **Common mistakes:** Faking an outlook you do not believe; authenticity cannot be forced (Rubin).
-**Example:** A short film about a lighthouse keeper has three endings: the ship is saved by luck, the keeper dies unseen, or the keeper, who ignored early radio warnings, saves the ship by lighting the old lamp by hand. The third closes the radio setup, surprises in how, and fits the film's idea about trust in old tools.
+**Example:** A school principal drafting a farewell speech for a retiring caretaker lists endings: a closing thank-you list, a plaque handover, or the caretaker's forty-year key ring passed to his successor. Only the third passes all six tests. An opening anecdote about him never once losing a key prepares it, the handover surprises in how it arrives, the jolt comes in the last ten seconds, and it is true to what the principal believes, that the building ran on him.
 **Sources:** Rubin
 
 ## F342 · Earned transformation timeline
@@ -65,7 +64,7 @@
 2. Appropriateness: give traits that fit the character's social role and type.
 3. Relatability: keep the character recognizably human and like the audience.
 4. Consistency: keep behavior uniform; an erratic character must be erratic in a consistent way.
-**Common mistakes:** Behavior that contradicts earlier scenes, such as a terrified person who later volunteers without explanation. Aristotle's examples of appropriateness assume ancient Greek views of gender and status; apply the test to role, not to stereotype.
+**Common mistakes:** Behavior that contradicts earlier scenes with no reason given. Aristotle's examples of appropriateness assume ancient Greek views of gender and status; apply the test to role, not to stereotype.
 **Example:** In a safety-training story, a foreman named Rosa is shown early double-checking every harness. Later she shrugs off a missing clip. The audience stops believing her. Either give her a visible reason (a deadline that has bent her habits) or keep her careful throughout.
 **Sources:** Aristotle
 
@@ -77,7 +76,7 @@
 1. Define: state your take on the subject, not a one-word topic, in the shortest sentence the ending's action proves.
 2. Amplify: repeat and vary the theme through motifs such as phrases, props, background signs, weather and sound.
 3. Attack: give the smartest, most compassionate counterargument to a credible character, or to a pointed silence, so the thesis survives its hardest test.
-**Common mistakes:** Letting the theme be preached by narration rather than proven by the ending and varied through motifs.
+**Common mistakes:** Naming a one-word topic instead of a take; leaving the theme without any counterargument.
 **Example:** A documentary short claims "small repairs build neighborhoods." A shopkeeper's chalk sign, "fixed today," recurs in four scenes. Midway, a landlord argues repairs only raise rents. The film lets that stand, then ends with the landlord's tenants fixing his stair themselves.
 **Sources:** Rubin
 
@@ -106,8 +105,8 @@
 3. If something is impossible, ask whether it makes the work more wondrous and could not be achieved logically.
 4. Ask which the passage shows: things as they are or were, things as people believe them, or things as they should be.
 5. For morality, ask who did the deed, to whom, at what moment, and whether it served a larger good or prevented a harm. For wording, check loan words, metaphor, accent, punctuation, ambiguity and custom.
-**Common mistakes:** Judging a detail by the critic's assumption instead of the tradition the work draws on.
-**Example:** A reviewer objects that a founder story shows a customer paying cash in a 1990s shop, which the reviewer thinks is implausible. The writer checks: this is a depiction of how people in that town actually paid, so it is a factual matter, not a craft error, and the scene stays.
+**Common mistakes:** Treating a minor factual slip as an error of craft.
+**Example:** A reviewer objects that a road-safety ad shows a teenager lying to her father about where she is. The writer classifies it as a morality objection and asks who lies (the ad's own heroine), to whom (a parent who would forbid the trip), at what moment (minutes before she refuses to get into a drunk friend's car and calls him), and for what larger good. Because the lie is what makes her later call cost something, it stays.
 **Sources:** Aristotle
 
 ## F347 · Audience-centred writing process
@@ -134,7 +133,7 @@
 3. If the blank cannot be filled clearly, ask whether to cut it or bring in a colleague to find its audience value.
 4. Compare the actual content with the agreed sentence so the author finds and fixes the mismatches.
 **Common mistakes:** Slides that only describe the presenter; cut those.
-**Example:** A pharmacy chain's pitch has five slides. The team defines: where they see how long customers wait at pickup; where they understand the app removes one step; where they feel reassured about data privacy. The slide on the chain's founding year fits no sentence about the audience and is cut.
+**Example:** A nonprofit's annual board report has six paragraphs, and the editor asks the author to finish "this is the paragraph where they..." for each. Paragraph two becomes where trustees realize the winter shelter waitlist doubled; paragraph five, where they decide to approve the extra budget line. The paragraph recounting the organization's history only completes as "where we..." and is cut after discussion.
 **Sources:** Edwards
 
 ## F349 · SCAMPER for vulnerable angles
@@ -150,5 +149,5 @@
 6. Eliminate: remove a character, a visual or the conclusion so what remains stands out.
 7. Reverse: invert roles or sequence, for example employees as heroes and customers in support.
 **Common mistakes:** Crossing the agreed boundaries on what may be disclosed.
-**Example:** A furniture maker's polished page about a new chair is run through SCAMPER. Eliminate the triumphant ending; reverse the cast so the warehouse packer, not the designer, tells the story; substitute the failed first prototype for the hero shot. The rougher version about the chair that collapsed in testing draws far more replies.
+**Example:** A regional bus agency's newsletter piece on its new electric fleet reads like a press release. Running SCAMPER, the comms team substitutes the ribbon-cutting conclusion with the open question of winter range, combines the text with a driver's voice memo recorded at the depot at 5 a.m., and reverses the cast so riders on the coldest route narrate while the director appears in one quote. Leadership had agreed that the dispute with the battery supplier was off-limits, so that thread stays out.
 **Sources:** Rodriguez

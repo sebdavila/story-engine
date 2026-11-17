@@ -3,7 +3,7 @@
 ## S188 · Episodic plot (defect)
 **Purpose:** Diagnose a draft whose scenes merely follow each other. **Audience:** Writers and reviewers. **Teller:** Editor or the author revising.
 **Choose when:** A draft feels like a list of events: scenes follow with no probability or necessity linking them (Aristotle).
-**Shape:** Repair with F002 or F004: connect each scene to the next with therefore or but until each follows from the one before.
+**Shape:** Link scenes by probability or necessity rather than mere sequence (F002; F004).
 **Sources:** Aristotle
 
 ## S189 · Honest versus dishonest stories
@@ -13,13 +13,13 @@
 **Sources:** Schwabauer; Sweet
 
 ## S190 · Blame and victim stories
-**Purpose:** Recognize self-protective stories to avoid or answer. **Audience:** Teams and leaders. **Teller:** Anyone telling or hearing one.
+**Purpose:** Recognize self-protective stories. **Audience:** Teams and leaders. **Teller:** Anyone telling or hearing one.
 **Choose when:** A story casts others as villains and the teller as powerless. They spread fast by triggering survival instincts and short-term compliance, but breed cover-yourself cultures, fragmentation and paralysis (Simmons).
-**Shape:** Review for villain, powerless narrator, and fear as the payoff. Replace with a story where the teller acts.
+**Shape:** Review for villain, powerless narrator, and fear as the payoff.
 **Sources:** Simmons
 
 ## S191 · Spin stories
 **Purpose:** Recognize stories edited to manufacture an image. **Audience:** Teams, customers, leaders. **Teller:** Anyone tempted to polish the facts.
 **Choose when:** A story is doctored or selectively combined to hide failures or speed a sale. It holds only while it moves toward the truth and destroys trust when it contradicts observable reality (Simmons).
-**Shape:** Check each claim against what the audience can see; remove what reality contradicts.
+**Shape:** Test whether each claim moves toward the truth or contradicts what the audience can observe.
 **Sources:** Simmons

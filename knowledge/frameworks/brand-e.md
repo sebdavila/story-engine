@@ -11,7 +11,7 @@
 4. Improv exploration: put the thesis, characters and setting on their feet in long-form improv to find the premise (clear in 5 to 10 seconds), the complication (an outside obstacle or character flaw), the escalation and the payoff.
 5. Script and revise: capture the best live moments in a tight script, plan the performance and test the tone against audience sensibilities before launch.
 **Common mistakes:** Launching without checking tone against the audience.
-**Example:** A small accounting firm pitches a bakery chain. Observation: owners dread tax season like a dentist visit. Form: parody of a dental commercial. In improv, the premise is a "tax hygienist" arriving to scold a baker's receipts, the complication is a shoebox of crumpled paper, and the payoff is the baker cheering at a clean ledger. They script it and test it on a friendly owner first.
+**Example:** A hospital IT team must calm nurses before a switch to a new shift-scheduling app. Observation: nurses quietly keep paper copies of everything, just in case. Form: exaggeration, a nurse whose printouts grow until they fill the break room. In improv the premise is her printing every roster, the complication is the paper stack blocking the door at handover, the escalation is colleagues tunnelling through it, and the payoff is her finding her shift on the phone in two taps. They script the best moments and test the tone with two charge nurses before the all-staff meeting.
 **Sources:** Cody
 
 ## F333 · Leader-targeted satire for honest inclusion talks
@@ -35,7 +35,7 @@
 2. Connect: deliver them where your target audience already gathers and draw people into owned channels.
 3. Optimize: check which pieces actually drove engagement and conversion, improve both the craft and the distribution, and cycle through the loop faster than rivals.
 **Common mistakes:** Treating a platform's current feed rules as permanent.
-**Example:** A bike-commuter blog from a helmet maker publishes a story about winter riding. It tests three headlines on a small group in a cycling forum, sends the best performer to its newsletter, and then tracks which version led to signups. The next story reuses the winning angle.
+**Example:** A regional credit union notices first-time buyers keep asking the same questions at the branch, so it publishes interviews with recent buyers about their first mortgage (Create). It shares the clips in the local housing forum where buyers already trade tips and invites viewers to join its own email list (Connect). Each quarter it checks which interviews led to pre-approval applications, not just views, drops the weak formats and publishes more like the winners (Optimize).
 **Sources:** Snow; Lazauskas
 
 ## F335 · Concentric channel map
@@ -48,7 +48,7 @@
 3. Map outer-ring platforms to your quadrant. For B2B, brand work suits LinkedIn, Facebook, YouTube and podcasts, while conversion suits Google Search, SlideShare and industry email lists. For B2C, brand work suits Facebook, YouTube, Instagram and Reddit, while conversion suits Pinterest and Instagram.
 4. Shape each story to fit the outer channel it appears on, and add a route that draws readers at least one ring closer in (social to email to website).
 **Common mistakes:** Posting on outer platforms with no path inward.
-**Example:** A B2B payroll-software firm (brand quadrant) posts a founder interview on a professional network and boosts it, ending with a link to sign up for its monthly letter. Letter readers are invited to a webinar page on the site, where demo requests arrive.
+**Example:** A yarn shop selling to home knitters (B2C, conversion quadrant) pins photos of finished scarves on Pinterest. Each pin links to a pattern page that asks for an email address in exchange for the free pattern. The emails then point to the shop's own site, where the matching yarn kits are sold.
 **Sources:** Snow; Lazauskas
 
 ## F336 · Funnel stage by timing matrix
@@ -60,7 +60,7 @@
 2. Cross those with three timings: timely (tied to news and current events), seasonal (holidays and calendar moments that recur) and evergreen (useful at any time).
 3. Populate all nine cells, drawing on search and social data so stories for the top, middle and bottom of the funnel stay in balance.
 **Common mistakes:** A calendar heavy on acquisition and empty at awareness.
-**Example:** A tent maker fills awareness with an evergreen camp-cooking guide and a timely wildfire-season safety explainer; consideration with a seasonal story about a family's first backcountry trip; acquisition with an evergreen repair-service page showing a mended seam.
+**Example:** A veterinary clinic audits its calendar and finds most posts are booking reminders. It adds a seasonal awareness piece on calming pets during fireworks night, an evergreen consideration profile of its night-shift vet nurse, and a timely consideration story on how staff handled a heatwave surge of overheated dogs. For acquisition it keeps one seasonal post, a spring vaccination package, and leaves the remaining empty cells flagged for next month.
 **Sources:** Snow; Lazauskas
 
 ## F337 · Company origin story
@@ -74,7 +74,7 @@
 4. Follow its growth through a single steady brand theme, for instance innovation or value.
 5. Link the founding story to the values guiding the company today.
 **Common mistakes:** Stacking too many themes (quality, service, cost and location together) and diluting focus; a purely financial timeline.
-**Example:** A mother in a small town bought a second-hand sewing machine to patch her kids' backpacks, which kept splitting at the straps. Neighbours asked for her reinforced stitch. She built a workshop around one theme, durability, and today the company still repairs any strap for free.
+**Example:** Two night-shift nurses, tired of temp agencies that sent them to a different ward every week, started a staffing agency from a kitchen table. Their promise was to keep each nurse on the same ward for at least a month. That rule became the business, and as it grew to four cities every new service was judged by one theme, continuity of care. New hires still hear the kitchen-table story on day one, followed by the same month-per-ward rule.
 **Sources:** Biesenbach
 
 ## F338 · Career story in five beats
@@ -88,5 +88,5 @@
 4. Conflict: describe the obstacles or internal struggles you hit along the way.
 5. Resolution: show how the conflict resolved into your current purpose, bringing the arc full circle.
 **Common mistakes:** Reciting jobs in date order; forcing a fake dramatic moment.
-**Example:** A hospital IT analyst started in retail software chasing bonuses. A nurse friend lost a day's charts to a crash, which shook his view of the work. He moved to clinical systems, struggled with doctors who distrusted new tools, and now builds software that clinicians help design. At an interview he ends with, "I make sure the charts are there when the nurse needs them."
+**Example:** A line cook spent years in a fine-dining kitchen chasing faster, cleaner plating. Covering a sick colleague's evening class for teenagers, she found she enjoyed explaining a knife cut more than serving the dish. She moved into teaching cooks, then fought the doubt of colleagues who had degrees she lacked and earned her teaching certificate at night. Today she runs an apprentice program, and in interviews she ends by saying she now plates people instead of food.
 **Sources:** Biesenbach

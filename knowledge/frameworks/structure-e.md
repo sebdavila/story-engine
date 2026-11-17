@@ -3,20 +3,18 @@
 ## F045 · Fortune-curve story shapes
 **Also known as:** Vonnegut's Shapes of Stories (Sandler)
 **Use when:** Diagnosing a finished case study, design journey or persona life, or choosing a shape before writing one.
-**Avoid when:** You need beat-level guidance; this only checks the overall trajectory.
 **Steps:**
 1. Draw fortune from bad to good on the vertical axis and time on the horizontal axis.
 2. Plot the story's line.
-3. Match it to one of eight shapes: Man in Hole and Boy Meets Girl (a fall-and-recover and a meeting-and-loss arc), From Bad to Worse and Which Way is Up (steady decline and ambiguity), plus the biblical-style Creation Story, Old Testament and New Testament, and Cinderella.
+3. Match it to one of the eight Vonnegut shapes: Cinderella, Man in Hole, Boy Meets Girl, Creation Story, Old Testament, New Testament, Which Way is Up or From Bad to Worse. Man in Hole runs from a normal state to a sudden drop and a rescue to a higher state.
 4. Check whether pacing and arc fit the chosen shape and adjust.
-**Common mistakes:** Plotting only the ending; forcing a case study into a shape its facts do not support.
-**Example:** A repair shop's recovery story starts with steady sales, drops sharply when a flood closes it, then climbs past the old level after a neighbor crowdfunds a rebuild. That is Man in Hole, so the draft must spend real time at the bottom before the rescue.
+**Example:** A design team maps the life of a persona, Marta, a line cook. She is steady in her job, loses it when the restaurant closes, then retrains and ends up running a catering stall that earns more than before. The line matches Man in Hole, which tells the team where the persona's low point sits.
 **Sources:** Sandler
 
 ## F046 · Plot backward from the ending
 **Also known as:** Seven-Point Story Structure, used backward (Sandler); Work Backwards (Sandler)
 **Use when:** Brainstorming a bold solution and checking whether people, resources and exposition could really deliver it; or drafting when the target outcome is already clear.
-**Avoid when:** The end state is unknown. Seven-point can also run forward, but backward suits ideation best.
+**Avoid when:** You want the forward direction; the seven-point structure can also run forward, though backward suits ideation best.
 **Steps:**
 1. Resolution: imagine the ambitious end state.
 2. Plot Point 2: name the troubling last-minute obstacles.
@@ -26,8 +24,7 @@
 6. Plot Point 1: check that the inciting incident fits that end.
 7. Exposition: verify the who, why, what and where can produce the transformation.
 8. For a lighter version, just draft from the end state back to the start to spot missing stakeholders, secondary goals and unneeded exposition.
-**Common mistakes:** Skipping the doubts step; accepting an ending the setup cannot support.
-**Example:** A school wants every student reading at grade level in two years. Working back: a funding cut in year two, a teacher who doubts the plan, a mid-year tutoring surge, a volunteer lead assigned, a diagnostic test as the trigger, and an audit showing only one reading specialist exists.
+**Example:** A small brewery wants its pale ale on tap in every bar in the region within a year. Working back: the distributor's trucks booked solid in December, brewers doubting they can hold quality at triple volume, a festival medal that speeds orders, the co-founder assigned to secure a second fermenter, a chain bar's sample request as the trigger, and a check showing nobody handles sales full time.
 **Sources:** Sandler
 
 ## F047 · Gleaming detail
@@ -40,7 +37,7 @@
 3. Lay out the facts and surrounding context plainly, with no judgment of the characters and no hint of the takeaway.
 4. Place the detail once or twice, or thread it quietly three times across separate scenes, then leave it unexplained.
 **Common mistakes:** Explaining the detail; tipping the verdict before it lands.
-**Example:** A son tells of his father leaving the farm. He lists the sold tractor, the empty barn and the unpainted fence, then notes only that the dinner table still had four chairs, and that his father set four plates each night. He stops there.
+**Example:** A hospice nurse training new volunteers walks through a patient's last week plainly: the medication times, the weather, the two phone calls he made. She mentions once that the visitor chair by his bed still had its store plastic on it. She does not explain it and moves to the next topic.
 **Sources:** Buster
 
 ## F048 · Building empathy for the protagonist
@@ -54,19 +51,17 @@
 4. Skill: show exceptional competence.
 5. Combine as many as fit naturally.
 6. Add the Sandler extras: agency, clear values, an origin, a flaw, and one unexpected humanizing quirk.
-**Common mistakes:** A flawless hero; skipping early jeopardy.
-**Example:** A pitch opens on Ines, a night-shift pharmacist, covering a coworker's shift again while her landlord's notice sits unopened, and who still sneaks sticker sheets into every child's bag.
+**Example:** A grant pitch for a volunteer search-and-rescue network opens on Dele, a firefighter whose hip injury ended his career early. His trailing dog must pass recertification in two weeks or the county loses its only scent dog. He drives neighbors to clinic visits, reads a trail across wet pavement better than anyone, and hums show tunes to keep the dog calm.
 **Sources:** Hauge; Sandler
 
 ## F049 · Out-of-order hook openings
 **Also known as:** Three Hollywood Openings (Hauge); In Medias Res (Sandler)
 **Use when:** A chronological setup feels slow, or you want desire or suspense from the first sentence.
-**Avoid when:** You cannot say which opening serves the emotional goal; test the options.
+**Avoid when:** You cannot yet say which opening best serves the story's emotional goal; test the options first.
 **Steps:**
 1. Pick a variant. Aftermath: open on the hero's dream life after using your product, note that it was not always so, flash back, then return briefly to the present. Huge obstacle: open mid-crisis, pause unresolved, flash back to the setup. Prologue: open with a short distant-past scene showing an early wound or dream, then cut to adult life (Hauge).
 2. For in medias res, start mid-action at the outcome with a single narrator, then flash back to origin and process (Sandler).
 3. After the flashback, continue in order.
-**Common mistakes:** Never returning to the opening moment; a hook unrelated to the story's core desire.
 **Example:** A kayak-rental owner opens at a dock, rain hammering, forty strangers stuck on a flooded lake and one radio dead. She pauses there, flashes back to her first spring of renting out kayaks, and builds forward to that afternoon.
 **Sources:** Hauge; Sandler
 
@@ -77,10 +72,10 @@
 **Steps:**
 1. Identify the relationship at the heart of the unfamiliar thing.
 2. Find a familiar pair with the same relationship. Sandler lists eight relations: part to whole, cause to effect, source to product, object to purpose, general to specific, user to tool, synonyms, antonyms.
-3. State the mapping in one line.
+3. Write the mapping as an A : B :: C : D pair.
 4. For a sensitive business problem, tell the familiar situation as a full everyday story (Callahan).
 5. Optionally clarify an abstract term with a short metaphor.
-**Common mistakes:** An analogy whose relationship does not match; piling on metaphors.
+**Common mistakes:** Letting a metaphor become the star of the story; an analogy that cultural or language differences turn into confusion.
 **Example:** To explain a hospital's patient-routing system, a manager tells how a school bus company reorders stops when a road closes, then maps buses to ambulances and stops to beds.
 **Sources:** Sandler; Callahan
 
@@ -92,8 +87,7 @@
 1. State the first idea (thesis).
 2. State the reaction or constraint that negated it (antithesis).
 3. Present the new solution that keeps the truth of both (synthesis).
-**Common mistakes:** Presenting the final answer without the constraint that shaped it.
-**Example:** A library proposes a silent reading room on every floor (thesis), meets complaints that students need group space and floors are too small (antithesis), and lands on one floor with soundproof glass pods for groups and open quiet tables beside them (synthesis).
+**Example:** A youth football coach first runs every practice at full intensity (thesis), sees hamstring injuries and players skipping sessions (antithesis), and settles on two hard days a week with short recovery games in between (synthesis).
 **Sources:** Sandler
 
 ## F052 · Person, obstacle, place assembly
@@ -105,8 +99,8 @@
 2. Obstacle: pick a challenge, villain, or an object drawn blind from a bag, and describe its age, origin, owner and hidden nature so that it turns out to be either the thing that was lost or the key to the solution.
 3. Place: choose a real or imaginary setting, or drop a pin on a map blindfolded.
 4. Weave the three into one tale, adding an opposing force if you need more tension.
-**Common mistakes:** Three unrelated pieces that never touch; a villain too scary for the age.
-**Example:** A grandfather draws a penguin, a broken compass and a laundromat. The penguin needs the compass to find a lost mitten, and a grumpy dryer becomes the villain who hides it.
+**Common mistakes:** A villain or jeopardy too scary for very young listeners.
+**Example:** At an office offsite, a folded drawing passed around the table produces a heron in a raincoat, a hand in a bag pulls out an old brass key, and a blind pin lands on a ferry terminal. The team decides the key once belonged to the ticket office, so the heron must open it before the last boat leaves.
 **Sources:** Miller
 
 ## F053 · Recurring family series
@@ -117,8 +111,7 @@
 1. Invent one constant family, human, animal or fantastical, with fixed personalities and home.
 2. Send them on new adventures tied to weather, seasons, holidays or daily events.
 3. Keep peril playful and always bring them home safely at the end.
-**Common mistakes:** Changing the family each time; leaving a tale on an open threat.
-**Example:** A family of hedgehogs, the Burrows, lives under a garden shed. In autumn they gather windfall apples, in winter they host a snow-day soup party, and each night ends with all of them curled in the nest.
+**Example:** A grandmother who babysits on weeknights invents the Nutleys, a family of badgers who drive the town bus. On the night after the child's dentist visit, the smallest badger gets a wobbly tooth on the route; on a birthday they deliver cake to every stop; and each story ends with the bus parked in its warm garage.
 **Sources:** Miller
 
 ## F054 · Reverse-order day recount
@@ -129,8 +122,7 @@
 1. Start from the most recent moment, such as getting into bed or brushing teeth.
 2. Recount the day backward: dinner, afternoon outing, lunch, morning play, waking up.
 3. Keep the voice gentle and unhurried so the facts settle.
-**Common mistakes:** Adding new excitement; rushing through.
-**Example:** A mother whispers to her son: now you are under the blanket, before that you washed your face, before that you ate pasta with grandpa, before that you fed the ducks, and this morning you woke up to rain.
+**Example:** A babysitter on a family trip settles an overtired girl in a hotel room: now you are in the big white bed, before that you ate noodles at the station, before that the train went through three tunnels, before that you hugged your cousins goodbye, and this morning you woke up at grandma's.
 **Sources:** Miller
 
 ## F055 · Graft the weaker plot onto the main one
@@ -142,6 +134,5 @@
 2. Strip from the secondary plot every element that creates a competing goal or a backstory detour.
 3. Rework the best remaining beats, such as sacrifices or obstacles, and graft them onto the main plot so they complicate and resolve the main goal.
 4. For a past secret, connect it to the present goal as an obstacle, not a new quest.
-**Common mistakes:** Keeping the secondary goal alive; letting backstory run as a parallel quest.
-**Example:** A story splits between a baker saving her shop and a long-lost sister subplot. The sister becomes a landlord's assistant who quietly delays the lease paperwork, which complicates the shop goal, and the final choice to refuse the sister's help resolves both.
+**Example:** A documentary script splits between a climber's first winter ascent and her estranged brother's failing mountain hut. The hut-rescue goal is cut; what remains is his old secret, an avalanche he survived on her planned route, which becomes the obstacle. She trusts his warning, takes the longer ridge and reaches the top a day late.
 **Sources:** D'Costa

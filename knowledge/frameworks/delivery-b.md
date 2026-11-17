@@ -8,7 +8,7 @@
 1. Identify an archetype or myth the audience already carries.
 2. Choose one visual, verbal or situational clue instead of retelling the plot.
 3. Let viewers connect the dots from the cue to the whole myth.
-**Example:** A trail-shoe poster shows only a muddy pair of boots left at a summit cairn at dawn. No copy. Hikers supply the climb, the struggle and the arrival themselves.
+**Example:** An adoption agency's billboard shows a bathroom cup with a second, smaller toothbrush just added beside the first. No copy beyond the logo. Viewers supply the long wait, the paperwork and the first night home themselves.
 **Sources:** Vincent
 
 ## F193 · Deep Close Narration
@@ -23,7 +23,7 @@
 5. If third person feels flat, redraft the scene in first person, then convert back (Barker & Brown).
 6. Stay in the character's day until the real emotional barrier shows, then bring in the solution (Kamath).
 **Common mistakes:** Tagging thoughts with she wondered; jumping to the product before the barrier is felt.
-**Example:** For a hearing-aid pitch, the scene follows Odile, 68, at a family lunch: forks clatter, the laughter arrives a beat late, she laughs anyway. Only after her silent dread of being asked a question does the discreet earpiece appear.
+**Example:** A transit planner asking a city council for a night-bus route first interviews six cleaners who finish at 1 a.m. Her scene stays inside Kwame, 24: bleach still on his hands, the station shutter already down, a taxi fare equal to two hours of pay. She cuts every he noticed and he felt. Only when he settles onto the staff-room chairs to sleep again does the 1:20 a.m. bus appear on her next slide.
 **Sources:** Kamath; Barker & Brown
 
 ## F194 · Word Choice by FURY
@@ -46,7 +46,7 @@
 1. What: open with a specific negative story showing the problem on the ground.
 2. So what: share a contrasting positive story where a better approach already works, to spark discussion of implications.
 3. Now what: move to concrete actions and who owns them; a brief story of the future is optional.
-**Example:** To fix slow support replies, a director tells of a customer who waited four days and cancelled, then of an agent, Tomás, who phoned back in an hour and kept the account. The group then assigns a call-back rule and a named owner.
+**Example:** A parks crew lead runs a Monday huddle about playground safety. What: on Saturday a mother found broken glass under a slide at 9 a.m., because the first sweep there happens at noon. So what: at the riverside park a retired neighbor walks the grounds at 7 and texts photos, and no one has been hurt there all summer. Now what: the crew sets a 7 a.m. sweep at three playgrounds, names who owns it, and opens a sign-up for neighbor walkers.
 **Sources:** Callahan
 
 ## F196 · Storytelling habit loop
@@ -100,7 +100,7 @@
 2. End each email, or pause the opening story of a speech, at a crisis, new obstacle or unanswered secret.
 3. Open the next installment with a short recap of where the hero left off, then add new actions, obstacles and principles.
 4. Introduce the offer gradually as episodes progress.
-**Example:** A speaker opens with a rescue-boat captain whose engine dies in fog, pauses there to teach the data on engine failure rates, then resolves the rescue at the close.
+**Example:** A financial coach sends five emails. The first introduces Marta, a bakery owner who must decide by Friday whether to sign a lease, and ends as her landlord calls early. The second opens with a one-line recap, adds a rival bidder and one budgeting principle, and ends on an unopened letter. The course offer appears in the fourth email as the tool Marta used.
 **Sources:** Hauge
 
 ## F200 · Staging and setting
@@ -112,7 +112,7 @@
 2. Plan setting, appearance and manners: backdrop, attire and posture, gestures and expression (Sandler).
 3. For a demo, also plan sets, props, lighting, costumes, who appears, and the composition of all of them (Sandler).
 4. For a scene, log order, time, place, key observations, background climate, mood, color and texture, and first design ideas (Simson).
-**Example:** A kitchen-tool pitch is held in a real kitchen, with a working prototype on the counter, warm lamp light and the presenter in an apron.
+**Example:** A city archive plans an evening walk through its flood records for retirees. A test walk with five residents shows the maps confuse them, so each stop gets one enlarged photo instead. Guides wear plain grey coats, speak seated and keep gestures small; the reading room is lit by one lamp over the 1953 ledger, and the retired clerk who catalogued it sits in. The planner logs each stop's order, time, mood and paper texture before the first public night.
 **Sources:** Sandler; Simson
 
 ## F201 · Visual framing for story
@@ -125,7 +125,7 @@
 3. Choose frame composition, light and color, lens, movement, texture and point of view to carry mood. Wide lenses exaggerate depth, long lenses compress space and isolate faces; move the camera only when story action motivates it (Simson).
 4. Plan lenses across the film, as a lens plot that tightens with the story (Simson).
 5. Bring an actor's eyeline closer to the lens as tension rises (Simson).
-**Example:** A retail-kiosk walkthrough opens on a wide shot of a busy concourse, then pushes in until the screen fills with one tap target.
+**Example:** A charity cuts a two-minute appeal about a flooded dairy farm. It opens on a drone shot of the drowned valley, then a close-up of the waterline on the barn door, and goes handheld only when the farmer runs to restart the pump. Long lenses isolate her alone in the mud in the middle section, then wide lenses return as neighbors arrive with shovels, so the frame opens as help comes. When she asks the viewer for support, her eyes move from off-frame to nearly into the lens.
 **Sources:** Sandler; Simson
 
 ## F202 · Seven Secrets of spontaneous storytelling

@@ -12,7 +12,7 @@
 5. During: Listen through silences without filling them. Let tangents become stories. Probe using the journalist's questions (who, what, where, when, why, how) and request specific examples. Keep your question list out of sight (Maguire) and politely retake control if they start interviewing you.
 6. After: Right away note the person's look and the setting. Transcribe promptly, removing filler words and following up on unclear points. Archive the audio to check quotes later.
 **Common mistakes:** Taking notes mid-conversation (Maguire); rushing to fill pauses (Apps). If a subject refuses recording, switch to fast handwritten notes. If relatives disagree, use majority agreement for shared facts and respect each person's emotional truth (Apps).
-**Example:** Marta wants her grandfather's story of leaving the village. She visits him alone on a porch, opens with a faded wedding photo, and asks what the morning of departure smelled like. She waits through a long silence, and he describes his mother's bread. Afterward she writes down his hands and the creaking chair before transcribing.
+**Example:** Mateo is writing about his late father's trucking company and his own memory is thin. He visits the old dispatcher alone in his garage, asks to record and says the date and name aloud, then opens with the family tale of the blizzard run to the coast. His questions stay in his pocket, and when the dispatcher falls quiet he waits until the man starts to describe the radio codes drivers used. Back in the car Mateo notes the oil-stained armchair before transcribing that night.
 **Sources:** Apps; Maguire
 
 ## F136 · Numbered research inventory
@@ -22,7 +22,7 @@
 1. Print or create a paper copy of every item: interview transcripts, book notes, encyclopedia facts, vetted web articles.
 2. Give each item a sequential number and file it in a three-ring binder or numbered folder.
 3. Log number, title and a short description in a searchable computer index, so keywords lead straight to the physical folder.
-**Example:** Ines is writing a history of her town's mill. She numbers a council minute 014, a retired foreman's transcript 015 and a flood photo 016, then logs them in a spreadsheet. Months later, searching flood, the index points her to binder two, item 016.
+**Example:** Amara is writing a memoir of the rural clinic she founded abroad. She prints old emails, the transcript of a radio interview and a health-ministry report, numbers them 031, 032 and 033 in one folder, and logs each with a short description. When her editor asks for the date of the first vaccine drive, a search for vaccine sends her to item 033.
 **Sources:** Apps
 
 ## F137 · Reading nonverbal cues while listening
@@ -48,7 +48,7 @@
 2. Turn your attention inward to your memories, feelings and experiences you have never examined.
 3. Imagine how your audience will hear the tale as you shape it.
 4. While telling, listen in real time to how the room responds.
-**Example:** Noor wants to tell a story about her late father's toolbox. She first listens to coworkers' small family stories, then sits quietly and asks why the toolbox matters. She imagines listeners wanting to know what was inside, and mid-telling hears a hush, so she slows down.
+**Example:** Lena wants a story for a coworker's retirement party about her years as a bus driver. She listens to colleagues' short stories, then privately asks which moment she never examined and settles on the morning she braked for a child. She imagines listeners fearing for the child, and while telling she hears a laugh of relief, so she lets the pause run.
 **Sources:** Maguire
 
 ## F139 · Unstructured incubation to surface memories
@@ -85,5 +85,5 @@
 3. Translate abstractions (acronyms, statistics, labels) into sensory reality from inside a character's body.
 4. Just tell what happened: have practitioners recount specific, unvarnished six-minute episodes of how they handled a real dilemma. Switch to critical thinking only afterward, to polish.
 **Common mistakes:** Forcing a story to match a predetermined point, which kills it (Simmons).
-**Example:** A clinic director wants a lesson on patient respect. Instead of a slide listing values, a nurse tells what happened on Tuesday: an elderly man refused his pills, and she sat on his bed and learned he feared hospitals. The room discusses it before the director edits anything into a policy.
+**Example:** A transit agency wants drivers to take near-miss reports seriously. Instead of quoting an incident rate of 3.2, an analyst describes what a driver sees from the cab when a cyclist cuts in at dusk. Then three drivers each spend six minutes telling one near-miss of their own, as it happened. Only after that does the team sort what the stories share into a reporting rule.
 **Sources:** Simmons

@@ -15,7 +15,7 @@
 8. Run a fresh-ears listener test, then stop rehearsing hours before the event (Bowles). Maguire stretches this over two to three weeks: silent mental movie every three days, aloud runs in your real posture, and a fast-forward and slow-motion speed drill.
 9. Check against the Dinner Test: the story should come across as a leaner, polished form of the way you would tell friends over dinner (Dicks).
 **Common mistakes:** Cramming the beat sheet up to the last minute (Leitman); rehearsing in front of a mirror (Dicks); reading from notes as a shortcut, which keeps you reciting (Maguire).
-**Example:** Priya must tell the story of a failed warehouse migration at an all-hands. She boils it to six scenes: the 2 a.m. call, the empty loading dock, the angry client, the whiteboard fix, the first on-time truck, the thank-you note. She tells it first to her sister over dinner, drops a tangent that got a blank look, then tells it to her team lead from a card with six words. On the day she knows only her first two sentences, her last two and the order of the scenes.
+**Example:** A chemistry teacher signs up for a five-minute story slam about the day her first class set off the fire alarm. She draws five quick sketches as a storyboard, learns only her opening and closing lines word for word, and writes fear makes us careful at the top of the page for herself alone. She runs it standing with a timer, then drills the second half separately. She tells it to her carpool on two mornings, cuts a joke that got silence, and stops rehearsing at lunch on the day of the slam.
 **Sources:** Haven; Bowles; Leitman; Dicks; James; Maguire
 
 ## F182 · Recovering from a blank on stage
@@ -28,7 +28,7 @@
 3. If you skipped something, step back with a calm narrator aside noting what listeners need to know now, with no grimace or apology.
 4. Still blank? Tread water: repeat your last line up to three times with rising emphasis, describe sensory details of the current scene, ask listeners what they expect next, or calmly admit you lost the ending.
 **Common mistakes:** Apologizing or showing anger at yourself, which breaks the spell.
-**Example:** Mateo is telling a lighthouse tale and forgets to mention the keeper's dog before it barks. He pauses, smiles, then says, "Now, something you should know: the keeper never went anywhere without his old collie," and repeats the bark to rejoin the plot.
+**Example:** A best man is halfway through a toast about a disastrous camping trip when the next part goes blank. He stops, smiles at the groom as if savoring the memory, and takes a slow breath. Realizing he skipped the leaking tent, he adds calmly that the guests need to know the tent had a hole in the roof. Still unsure, he repeats his last line with more weight and describes the rain hammering the canvas until the punchline returns.
 **Sources:** Haven
 
 ## F183 · Stage and session preparation
@@ -41,7 +41,7 @@
 4. Before starting, review only first line, last line and refrains. Walk in purposefully, give a short introduction, and pause one beat.
 5. After the last line, hold your spot without apologizing or explaining the moral. Afterwards log how well the audience fit on a planning sheet.
 **Common mistakes:** Seating children apart on the floor in front of seated adults; reading toddler squirming as boredom.
-**Example:** Lena opens a library evening by striking a small chime, taking the same armchair each month, giving a two-sentence note on where the tale came from, pausing, then beginning. A volunteer at the door seats latecomers at the back.
+**Example:** A hospice volunteer runs a monthly memory evening for residents and their families. She sets chairs in a gentle arc with each family seated together, then sits in the back row to check that a quiet voice carries to residents with hearing aids. A nurse agrees in advance to handle late arrivals and anyone who needs to leave. Switching on one table lamp signals the start; she reviews only her first and last lines, walks in, gives a short introduction and pauses. After the last line she stays still without explaining, and later notes on her sheet which stories held the room.
 **Sources:** Haven
 
 ## F184 · Levels of audience participation
@@ -52,8 +52,7 @@
 1. Situation 1, seemingly spontaneous: model repeated lines slowly with a nod and fixed gesture, stumble on a famous line so listeners correct the character, or pose rhetorical questions that keep the plot moving.
 2. Situation 2, assigned and rehearsed: give audience sections short memorable lines or seated sounds, and rehearse your stop cue as carefully as the start cue. Best for preschool and primary ages.
 3. Situation 3, full-body movement: invite young children out of their seats only with a clear crowd-control plan, and sparingly.
-**Common mistakes:** Treating the three situations as equal in effort; each needs more crowd control than the last.
-**Example:** In a story of a crowded bus, Jonas assigns the left rows to honk and the right rows to hiss, with a flat palm to stop each group.
+**Example:** A ferry captain tells passengers the legend of the harbor's lost lighthouse. Each time he reaches the refrain, and the fog rolled in, he says it slowly with the same sweep of his hand, and by the third time the passengers say it with him. Later he gives the wrong year for the wreck on purpose, and a regular commuter calls out the right one. He keeps the plot moving with questions such as who would sail on a night like that.
 **Sources:** Haven
 
 ## F185 · Conversation-to-performance spectrum
@@ -66,7 +65,7 @@
 3. For workplace stories, stay at the small, conversational end. Heavy craft or a put-on storytelling voice makes listeners feel manipulated (Callahan).
 4. Match length, rehearsal and polish to the level you chose.
 **Common mistakes:** Delivering a long uninterrupted monologue in a setting that expects turn-taking (James); celebrating rare dramatic company stories instead of many small daily ones (Callahan).
-**Example:** A store manager at a morning huddle tells a ninety-second story about a stocker who walked a customer to the right aisle. She keeps it plain and lets a colleague jump in. She saves her polished version for the annual conference.
+**Example:** An engineering manager on a video standup tells a ninety-second story about the typo that took down the test server last week. She speaks plainly and lets a teammate cut in with how he found it. For the company's annual conference she turns the same incident into a scripted, rehearsed ten-minute talk where the audience stays silent.
 **Sources:** Haven; James; Callahan
 
 ## F186 · Four types of metaphor
@@ -78,7 +77,7 @@
 2. Species to genus: use a specific word for a general one (ten thousand deeds for many).
 3. Species to species: swap two specific words from the same category (drawing off life for cutting).
 4. Analogy: where A is to B as C is to D, put D in place of B or B in place of D, or negate a transferred attribute (evening of life for old age; a wineless cup for a shield).
-**Example:** A founder describing a stalled launch writes, "We were still at anchor while the tide went out," a general-for-specific swap for waiting.
+**Example:** A trail blogger writes that her group drank the view from the ridge, a species-to-species swap of one specific act, drinking, for another, taking in. She then calls the empty lot at the trailhead the stage after the last curtain, an analogy: a lot is to a hike's end as a stage is to a show's end.
 **Sources:** Aristotle
 
 ## F187 · Guiding the gaze
@@ -90,7 +89,7 @@
 2. Anchor attention with faces, eyes, pointers, contrast and anomalies.
 3. Remove low-contrast clutter and generic filler that make viewers look away.
 4. Check that the eye travels a beginning-middle-end path.
-**Example:** A clinic flyer puts a child's eyes top left, her pointing finger directs the eye to the booking line at lower right, and the rest is blank. The eye reads question, gesture, answer.
+**Example:** A hospital corridor is stripped of loose notices. A bold orange floor stripe starts at the entrance desk, passes a framed photo of a smiling porter, and ends at the lift doors, where the only sign hangs. Visitors read start, route, destination without stopping.
 **Sources:** Lupton
 
 ## F188 · Gestalt grouping and pop-out
@@ -100,7 +99,7 @@
 **Steps:**
 1. Group with proximity, similarity, common fate, closure, symmetry, continuation, figure and ground, and simplicity.
 2. Make one item pop with a change in color, orientation, scale or motion. Color and bold scale register faster than subtle rotation.
-**Example:** A ferry timetable draws each route as one unbroken colored line with identical dots for stops, and enlarges the next departure in red so riders find it at once.
+**Example:** A pharmacy groups cold remedies on one shelf block with matching blue labels (proximity, similarity). Every shelf tag is plain black on white except one recall notice printed larger in red, which customers spot before they read anything else.
 **Sources:** Lupton
 
 ## F189 · Affordance
@@ -139,5 +138,5 @@
 6. Stay consistent and self-aware: adapt tone and format per network while the core brand identity stays constant.
 7. On professional feeds such as LinkedIn, native means longer, substantive analysis, not slang.
 **Common mistakes:** Reposting the same asset everywhere; opening with a sales ask.
-**Example:** During a city-wide blackout, a bakery's pre-briefed team posts a photo of a lone loaf by candlelight captioned with a pun about rising in the dark, no link attached.
+**Example:** A tire shop writes a 300-word LinkedIn breakdown of why winter tires wear unevenly, in plain professional language rather than a meme. On its short-video channel it runs a weekly series where viewers guess a tire's age from its tread, and a mechanic replies to every comment.
 **Sources:** Vaynerchuk

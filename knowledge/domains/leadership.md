@@ -23,7 +23,7 @@
 | Deliver unwelcome results | S099 | F172, F269, F064 | T508, T510, T488 |
 | Counter a rumor or toxic narrative | S152, S155 | F283, F255 | T259, T481 |
 | Coach, give feedback or explain a rule | S150, S148, S126 | F278 | T505, T506, T511 |
-| Run a meeting that produces action | S158 | F195 | T295, T413, T306 |
+| Run a meeting that produces action | — | F195 | T295, T413, T306 |
 | Collect stories from the organization | S065 | F123, F118, F120 | T160, T167, T235 |
 | Open honest talk on inclusion with humor | S146, S149 | F333, F218, F220 | T236, T486 |
 
@@ -74,7 +74,7 @@
 - Opposing an objection head-on → voice it first inside a story or tell an indirect one (S125, T459, T460, T479). (Guptara; Callahan; Simmons)
 - Speeding to a vote and cutting off emotional cross-talk → let stakeholders tell the history behind their misgivings, listen until the emotion drains (T523, F281). (Simmons; Cody; Salmon)
 - Rejecting the objector's side outright, or casting resisters as villains → credit what is right in their view and show how yours covers the gap (T489, T208). (Simmons; Edwards; Gottschall)
-- Motivating through fear, shame or hopeless statistics → end every sobering story with a realistic path (T481, T511). (Simmons; Gottschall; Parikh)
+- Motivating through fear, shame or hopeless statistics → end every sobering story with a realistic path (T481). (Simmons; Gottschall; Parikh)
 - Outshining senior listeners or posing as the smartest person → present a finding as something they would have seen, and lower your status (T458, T486, T408). (Edwards; McKinsey; Callahan)
 - Presenting one flawless solution or listing all problems then all solutions → offer three options and alternate problem with solution (F225, T030). (Edwards)
 - Pushing only gain or only safety language → combine both (T466). (Edwards)

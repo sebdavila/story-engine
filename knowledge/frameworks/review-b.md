@@ -9,8 +9,6 @@
 2. Foundations (two to three pages): ground the rules in three frames, moral (personal integrity), societal (social contract) and professional (company and industry standards).
 3. Statement of professional values: spell out the specific duties the company owes its customers and stakeholders.
 4. Provisions of conduct: specify daily, observable behaviors, such as acting as sidekick rather than ego-driven hero.
-5. Use the written code to audit a specific storytelling decision and confirm it serves the audience, not selfish manipulation.
-**Common mistakes:** Keeping the values vague so no decision can be tested against them.
 **Example:** A wellness-app writer, Lena, drafts a code. A provision says: never invent a testimonial. When a manager asks for a fictional "Sarah, 34" quote, she checks it against the provision, offers to interview three real users instead, and the story ships with real names.
 **Sources:** Rodriguez
 
@@ -22,8 +20,7 @@
 1. Build a table with four blocks of criteria. Value: customer desire, willingness to engage or pay, partner buy-in. Execution: production, acquisition, operational scaling. Scale: market size, trend fit, contribution to the bottom line, affordable acquisition, revenue versus cost. Defensibility: protection from competitors and compounding advantage.
 2. Set three experiment columns: thought experiment (existing research), live dialogue with stakeholders, and a controlled-group live trial.
 3. Put an X in each cell you have validated, then tally the Xs to find weak assumptions before launch.
-**Common mistakes:** Stopping at the thought-experiment column and calling it validated.
-**Example:** A cycling club tests a concept, a documentary series on night riders. Value is confirmed by member interviews and Execution by a pilot shoot, but Defensibility has no X: any club could copy it. They add a rider-access agreement before spending on a trial screening.
+**Example:** A community radio station vets a podcast concept about local farmers. Interviews with listeners confirm Value, and a rough pilot episode confirms Execution. Scale has no X, because nobody has checked whether the audience is big enough. The team runs a short survey of listeners before spending on a trial season.
 **Sources:** Rodriguez
 
 ## F352 · Story impact indicators
@@ -36,7 +33,6 @@
 3. Reaction: track internal teams adapting the truth in their own work, external shares and traffic, internal buy-in, and conversion lifts against the baseline.
 4. Lasting action: track whether employees and the brand gain industry authority and whether the story becomes the operating blueprint of the culture.
 5. Read the three in sequence; later indicators depend on earlier ones.
-**Common mistakes:** Judging by sales alone and skipping the earlier emotion and reaction signals.
 **Example:** A regional bank launches a story about a baker's first loan. Month one: staff and local press repeat the phrase "first oven". Month three: branch managers use it in loan conversations and referrals rise above baseline. Month nine: the bank is invited to speak at a small-business forum.
 **Sources:** Rodriguez
 
@@ -49,8 +45,7 @@
 2. Reliable: confirm it performs consistently.
 3. Usable: remove friction so people operate it intuitively.
 4. Pleasurable: only then add emotion, surprise and delight.
-**Common mistakes:** Adding animations or rewards to cover for a slow, unreliable base.
-**Example:** A small ferry app wants confetti on ticket purchase. Testing shows the timetable is wrong on Sundays (not functional) and the payment screen times out (not reliable). The team fixes both and trims the checkout to two taps before touching the confetti.
+**Example:** Organizers of a weekly night food market plan string lights and a photo wall. A walkthrough shows that card readers fail whenever the mobile signal drops (not reliable) and that stalls have no numbers, so buyers cannot find where to collect orders (not usable). They install a market wifi hotspot and number every stall, and only then hang the lights.
 **Sources:** Lupton
 
 ## F354 · Emotional journey map
@@ -62,7 +57,6 @@
 2. Plot positive peaks above a baseline and dips such as doubt, frustration or annoyance below it, in the manner of Vonnegut's good-fortune and ill-fortune graphs.
 3. Mark pain points and add relief, feedback or rewards there. Using Kahneman's peak-end rule, fix the highest-intensity moment and the final impression first.
 4. For physical venues, turn intensity into an emotional impact heat map and pair it with a thematic bubble diagram so teaching zones are balanced against emotional climaxes.
-**Common mistakes:** Fixing small annoyances while leaving the ending flat.
 **Example:** A clinic maps a first visit. High: a warm greeting. Low: forms repeated twice, long wait. End: a rushed checkout. The team adds a reminder text for the forms, a wait-time display, and a friendly closing call from the nurse, putting most effort into the ending.
 **Sources:** Lupton
 
@@ -75,9 +69,8 @@
 2. Avoid passive voice: put the actor before the action.
 3. Use strong verbs: swap was-type verbs for vivid action verbs.
 4. Show, do not tell: dramatize behavior instead of labelling traits.
-5. Avoid turning verbs into nouns: write disrupted, not caused a disruption.
+5. Avoid turning verbs into nouns: write decided, not made a decision.
 6. Cut filler: drop openers such as I believe that, and cut darlings after days or weeks away from the draft.
-**Common mistakes:** One bland word can define a brand's voice wrongly; Under Armour's CEO preferred compete over participate in registration copy.
 **Example:** Before: "A variety of tools were utilized by the team to enable the improvement of response times." After: "Three engineers rewrote the alert script and cut response time from nine minutes to two." The actor comes first, nouns are specific, and the verb carries the action.
 **Sources:** Lupton
 
@@ -90,8 +83,7 @@
 2. Test Emotional Draw: does the piece offer a protagonist readers relate to, a concrete measurable goal, heavy personal stakes and growing uncertainty, so people must find out the outcome?
 3. Check both in every scene: readers should live inside the character's moment-to-moment perception while wanting the next page.
 4. Fix the weaker pillar first.
-**Common mistakes:** A strong mystery told in summary has no immersion; a lyrical book of vivid snapshots with no recurring goal has no draw (Barker & Brown).
-**Example:** A memoir draft opens beautifully on a harbor at dawn but never says what the narrator wants. The editor asks for one goal, to buy her father's boat back before auction, and a ticking date. Scenes now carry both the harbor's smell and a question.
+**Example:** A magazine reporter files a long feature on a wildfire evacuation. The smoke, sirens and ash are vivid, but the piece moves from household to household with nobody wanting anything specific, so readers drift. Her editor anchors it on one family trying to reach a grandmother's farm before the only road closes. The sensory scenes stay, and now each one moves that family closer to or further from the farm.
 **Sources:** Barker & Brown
 
 ## F357 · Shareability Scoring Formula
@@ -103,8 +95,7 @@
 2. Score the piece out of 100, aiming for 80 or more, across five planks: brand story clarity, rules of engagement, story structure, emotional buy-in, and triggers (cultural triggers).
 3. For an underperforming piece, go plank by plank to find where attention or emotional momentum dropped.
 4. Rework the lowest plank. A creator's particular blend of planks forms their viral DNA.
-**Common mistakes:** Polishing the strong planks while the weak one holds the score down.
-**Example:** A 90-second video on a new composting service gets views but no signups. Scored: clarity 85, structure 80, emotion 78, triggers 40, because it never ties to a moment people care about. The team re-releases it timed to a local zero-waste week and adds a closing action line.
+**Example:** A craft brewery publishes a launch article for its first alcohol-free beer. Readers click but few order. Scored: structure 82, emotion 85, triggers 80, rules of engagement 81, brand story clarity 45, because the first three paragraphs never say what the product is or who makes it. The team rewrites the opening so the brewer and the new beer appear in the first two lines, and orders rise.
 **Sources:** Creek
 
 ## F358 · Understand–Care–Act Diagnosis
@@ -117,8 +108,7 @@
 3. Act, through principles of command: break the pattern, own your story, sharpen your purpose.
 4. Sort audience questions into understand, care or act gaps.
 5. Fix the lowest gap first: an audience will not care until it understands, nor act until it cares.
-**Common mistakes:** Pushing for the ask when the questions show people have not understood the idea.
-**Example:** After a pitch for a school lunch program, three of five questions ask what exactly the product is. That is an understand gap. The presenter rewrites the opening around one student, Maria, and her lunch line before touching the funding ask.
+**Example:** An IT lead gives a staff talk on phishing. Nobody asks what phishing is or why it matters; every question is some form of what do I do on Monday. Understanding and caring are in place, so the gap is act. She sharpens her purpose into one closing instruction, forward any odd email to a single address, and the next talk draws only questions about edge cases.
 **Sources:** Kamath
 
 ## F359 · ICE Twist Audit
@@ -131,7 +121,7 @@
 3. Evidence: confirm it is shown through concrete facts, action, dialogue and five-sense detail, not summary.
 4. If a beat fails, revise the setup or the twist itself.
 **Common mistakes:** A twist announced in summary, or one that contradicts what the character has shown.
-**Example:** In a heist story, a quiet driver, Tomas, suddenly pulls a gun on his crew. Intrigue: everyone froze. Credibility fails, since nothing earlier hinted at violence. The writer adds a scene where Tomas pays a stranger's debt with a clenched jaw, and shows the gun's weight in his jacket pocket in the car scene.
+**Example:** In a romance novel, the heroine learns that her sister secretly sold the family bookshop. The beat is intriguing, but credibility fails because nothing earlier showed money trouble. The writer adds an early scene where the sister avoids the ledger and a drawer of unopened bills is glimpsed, then lets the reveal land through a tense phone call rather than a summary line.
 **Sources:** Cleland
 
 ## F360 · Capital-S Storytelling Test
@@ -143,6 +133,5 @@
 2. Epic purpose: anchor the plot in a vital survival or life lesson, not trivial chatter.
 3. Told fantastically: place the strategic takeaway inside suspense and action, without stopping to preach or dropping info-slides.
 4. Reject or rework anything that is spectacle without a revealed purpose.
-**Common mistakes:** Stating statistics instead of staging an event that makes the point.
-**Example:** A cycling charity wanted to talk about rising road injuries. Instead of a chart, a well-known local chef announces he will ride his Sunday delivery route blindfolded, then removes the blindfold to ask drivers how often they look at their phones. The stunt is improbable, the purpose is a life lesson, and the lesson arrives through the act.
+**Example:** A mountain-rescue volunteer plans a talk for new hikers. Her first draft, a funny tale about a lost dog, is routine and carries no real lesson, so she drops it. Instead she tells the night her team searched for a hiker lost in fog, minute by minute from the searchers' side. The rule to stay put surfaces only when a flashlight finds him sitting by his pack, alive, and she never stops to lecture.
 **Sources:** Terenzzo

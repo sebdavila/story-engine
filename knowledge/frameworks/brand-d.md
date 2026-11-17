@@ -3,7 +3,6 @@
 ## F321 · Value content program
 **Also known as:** Three Tiers of Content Relevancy (Butler); Brand Value Story (Butler); Long-Form Value Depth (Butler); Anchor Content Gating (Butler); Micro-Ad Boosting (Butler)
 **Use when:** You run blogs, guides, podcasts or lead magnets for a narrow, commodity or "boring" product and need a steady supply of topics that earn attention before any sale.
-**Avoid when:** You need a single short promotional piece; this is an ongoing program, not one asset.
 **Steps:**
 1. Treat the whole program as one serialized storyline, like a TV season, with the customer as the main character; each blog, video or guide is an episode that helps them grow or solve a problem.
 2. Brainstorm topics across three tiers: relevant (your product, features, how you work, client wins), semi-relevant (industry trends and adjacent subjects), and nonrelevant (personal or professional interests of your audience unrelated to your industry). The nonrelevant tier must still match a real interest of a defined persona.
@@ -11,7 +10,7 @@
 4. Give most content away ungated. Gate only the highest-utility anchor pieces (how-to guides, templates, inspirational pieces) behind an opt-in form to grow a permission-based list.
 5. Put $5 to $100 behind your best long-form pieces on social platforms to pull targeted readers back to your site and warm cold audiences.
 **Common mistakes:** Staying purely in the relevant tier, which runs out of audience interest within minutes for most narrow businesses; picking nonrelevant topics that match no persona interest.
-**Example:** A small commercial-kitchen equipment dealer sells to first-time restaurant owners. Instead of posting spec sheets, it publishes a 5,000-word guide to surviving the first ninety days of a restaurant (semi-relevant) and a free playbook on managing a young kitchen crew (nonrelevant). Only the staffing-schedule templates sit behind an email form. A $40 boost on the guide brings owners from a local business group to the site.
+**Example:** A regional funeral-home group writes for adult children planning a parent's service, with a season-long series following one family from first call to first anniversary. Relevant pieces explain its prices, semi-relevant ones cover probate paperwork, and a nonrelevant, ungated long guide shows how to record a parent's stories while there is time, the regret this persona names most. Only a printable eulogy-planning workbook sits behind a form, and a $25 boost puts the stories guide in front of local readers aged 45 to 65.
 **Sources:** Butler
 
 ## F322 · Essence of a subject
@@ -30,7 +29,7 @@
 ## F323 · Mission, vision, value statements
 **Also known as:** Mission | Vision | Value Statements (Sandler); Short Organizational Statements (Sandler)
 **Use when:** You need to align a team or open a high-level pitch with very little time.
-**Avoid when:** The statements would be long or generic; they must stay short and specific.
+**Avoid when:** The statements would be wordy; verbosity must be cut.
 **Steps:**
 1. Pick 3 to 5 prioritized action words that capture what the work is.
 2. Write the mission: one or two direct sentences on the feasible, present purpose.
@@ -50,8 +49,8 @@
 2. Capabilities, fluency: build three interlocking skills: engaging both emotion and intellect; crafting the story (purpose, audience, timing or kairos, storyteller voice, characters, novelty and the unexpected, five-sense detail and visuals, narrative logic with pulse points, adapted versions); and working with technology (photo, video, blogs, social networks).
 3. General objectives: earn or strengthen stakeholder trust first, then use it to inform, persuade and inspire.
 4. Specific objectives: aim the trusted stories at concrete goals, mainly articulating and executing strategy, building or changing culture, and strengthening the brand.
-**Common mistakes:** Jumping to brand or strategy goals without the authenticity layer; leaving media skills static while digital channels change.
-**Example:** A regional hospital group wants to explain a merger. It first interviews nurses, patients and local clinics and verifies every claim against records (layer 1). It trains managers to tell short, specific stories on video and in staff chats (layer 2). The stories rebuild trust in the community (layer 3) and then support the culture shift the merger needs (layer 4).
+**Common mistakes:** Applying the model as a rigid formula; letting the technology and craft skills go stale as digital media evolve.
+**Example:** A software consultancy needs staff to carry out a shift from custom projects to a packaged product. Leaders first sit in on client calls and check every success claim against delivery logs (layer 1). Project leads learn to tell a two-minute story with one vivid client moment and a clear turning point, then adapt it for a podcast and a wiki post (layer 2). Once staff trust the stories enough to repeat them (layer 3), the stories are aimed at the strategy itself: which projects to decline and which to package (layer 4).
 **Sources:** Forman
 
 ## F325 · Brand tagline as a story filter
@@ -65,7 +64,7 @@
 4. Choose story themes where the company is truly strong and has human protagonists; vet every claim with subject experts, strategy, government affairs and legal.
 5. Give employee and partner narrators a voice brief that strips jargon and balances a friendly, direct corporate tone with personal voice.
 **Common mistakes:** Making the tagline a 100 percent filter that censors legacy stories; using claims nobody verified.
-**Example:** A municipal water utility faces public worry about rising bills. Interviews show residents trust its field crews most, so the tagline becomes "Clean water, kept by neighbours." The team films a night-shift pipe repairer and a school-lab technician, each checked by engineers and counsel, and publishes them next to plain fact pages about rates.
+**Example:** A freight-rail operator names its industry's problem in plain words: trucks clog roads because rail feels slow and invisible. Benchmarking rivals and interviewing shippers shows rail's real strength is reliability in bad weather, so the tagline becomes "Moves when the roads don't." Story themes are picked only where that holds, such as a winter grain run, and every figure is vetted by operations and legal. Train crews get a one-page voice brief that bans terms like throughput, and a few heritage stories about the old line still run outside the tagline.
 **Sources:** Forman
 
 ## F326 · Co-created future brand storyline
@@ -76,8 +75,7 @@
 2. Draft a North Star scenario and test it with a wider leadership group (the case used about 150) against strategic questions: target customers, capabilities, risks, timeline. Vote on the candidate storylines.
 3. Test the candidates externally through web surveys and in-person interviews with opinion leaders, regulators and buyers across several countries.
 4. Build the winning storyline into a few strategic pillars and give each segment toolkits of market trends and proof points.
-**Common mistakes:** Choosing the storyline inside headquarters only; skipping the toolkits so segments cannot apply it.
-**Example:** A family-owned steel-fastener maker wants to be seen as a building-safety partner, not a bolt supplier. Its twelve managers trade stories about a failed joint they remember. A draft scenario goes to sixty sales and plant leaders for a vote, then to architects and inspectors in three cities. The winning line becomes three pillars, each with a one-page proof kit for sales teams.
+**Example:** A seed-and-fertiliser cooperative wants to be known for soil health rather than for selling bags. Its twenty directors each recall a harvest that failed and how it felt. A draft scenario goes to about a hundred branch managers, who test it against which farmers to serve and what risks it carries, then vote among three storylines. Farm lenders and agriculture officials in four regions answer a web survey and short interviews, and the winner becomes three pillars, each with a sheet of yield trends and proof points for sales staff.
 **Sources:** Forman
 
 ## F327 · Contrarian big idea platform
@@ -117,7 +115,7 @@
 4. Admit foolish operational blunders, such as underpricing, if they were fixed.
 5. Embrace a complete pivot away from the original business if it served customers better.
 **Common mistakes:** Concealment; presenting a past flaw as a hidden virtue.
-**Example:** A 90-year-old candy maker mentions on its heritage page that the founder once ran a factory with unsafe conditions and that regulators fined it. The page says what changed, names the safety policies and lists where researchers can read the records. Visitors read the flaw as a baseline for how far the company has come.
+**Example:** A project-management app publishes a blog post admitting that its 2019 redesign removed offline mode and cost it thousands of users. The post explains how the team listened to support tickets, restored the feature within a year and now publishes a public changelog. Prospects who find the old complaints online also find the company's own account of them.
 **Sources:** James
 
 ## F330 · Incomplete-pattern viral campaign
@@ -131,7 +129,7 @@
 4. Isolate one trigger element (usually awareness) and repeat it in an incomplete pattern of 5 or 6 encounters so observers must solve the puzzle.
 5. Turn the core sentence into a single visual icon and release it within a small community that sees itself as a group (a district, an office, an online forum), where people keep running into each other.
 **Common mistakes:** Launching without a deadline; assuming the audience knows the brand when it does not.
-**Example:** A ramen shop opening a two-week pop-up in a university district leaves paper noodle-shaped door hangers on dorm handles, each with one clue and a countdown, five days before opening. Students already know the shop from its late-night truck. They argue online about the riddle and queue on opening day.
+**Example:** A local bike brand, well known on its city's cycling forum, runs a frame-design contest that closes the night before a council vote on new bike lanes, with the draw on the town-hall steps. For two weeks one orange bolt icon turns up five times without the brand name: forum avatars, café stickers, a chalk stencil on the proposed lane. Forum members race to decode it, link it to the vote and enter before the deadline.
 **Sources:** Maxwell
 
 ## F331 · Five pillars of a story-friendly culture (TOAST)
@@ -144,6 +142,5 @@
 3. Authenticity: stop bluffing until it works, admit mistakes in public and let people be honest as whole individuals.
 4. Storytelling: replace cautious, sanitized copy with vivid, honest, humorous stories fitted to the audience.
 5. Teamwork: foster camaraderie and recurring in-jokes so people feel bonded.
-**Common mistakes:** Adding humour or storytelling before trust and openness exist.
-**Example:** A distributed support team starts a ten-minute Thursday call: one round for updates, one for kudos and a silly poll. A manager opens by sharing her own botched refund email. Within weeks agents post their own mistakes in the channel, and cross-shift teasing replaces silence.
+**Example:** A city library system about to merge two branches stops sending change memos. The head librarian posts her own failed bet, a self-checkout rollout patrons hated, on the staff board with what she learned, and asks clerks to rewrite the weakest page of the merger plan. The newsletter swaps approved bulletins for staff stories, including a shelver's running joke about one book that keeps turning up in the wrong section, and the joke becomes a branch-wide tradition.
 **Sources:** Cody

@@ -28,7 +28,7 @@
 8. Define conscious want and subconscious need, with urgency and secrecy.
 9. Plot four stages with one or two reversals toward healing or deeper ruin.
 10. Answer the dramatic question at the end.
-**Common mistakes:** A flaw that is only a quirk; no early damage.
+**Common mistakes:** Pushing the flaw until the character is a caricature; keeping every step once the character takes off.
 **Example:** A pharmacist who believes that being needed means being safe. Her father was left alone when she refused to cover a shift. A new colleague who needs no one shakes her, and she keeps overworking until her mistake costs a patient.
 **Sources:** Storr
 
@@ -42,8 +42,8 @@
 3. Shift their understanding, plan or goal.
 4. Alter relationships and the paths of secondary characters.
 5. Open, tease and close what the reader knows and suspects.
-**Common mistakes:** Events that move while nothing else does; one layer carrying every turn.
-**Example:** A road-trip story: the car breaks down (event), the driver admits she does not want the job (inner), changes the destination (goal), her brother stops answering calls (relationship), and a letter shows he left first (reader knowledge).
+**Common mistakes:** Leaning on a formulaic beat sheet that yields repetitive stories.
+**Example:** The middle act of a hospital drama. The ward loses power (event), the night nurse realises she no longer trusts her own judgement (inner), drops her transfer request and asks to run the unit (goal), her mentor turns cold while a junior doctor starts covering for her (relationship), and a maintenance log shows the generator test was faked (reader knowledge). Each scene moves at least two layers.
 **Sources:** Storr
 
 ## F092 · Four curiosity triggers
@@ -55,8 +55,7 @@
 2. Run a sequence whose outcome is uncertain.
 3. Break an expectation with a red herring or surprising behavior that demands an explanation.
 4. Show that someone in the story knows the answer while withholding it from the audience.
-**Common mistakes:** Withholding everything; answering before the audience cares.
-**Example:** A podcast episode opens with a lighthouse keeper burning his logbooks (puzzle), a coast guard officer who already knows why (withheld knowledge), and a tide table that doesn't match his story (broken expectation).
+**Example:** A CFO opens an all-hands talk: the best-selling product line was quietly pulled from the website last quarter (puzzle), yet sales rose (broken expectation). She says the head of support knows why and will explain at the end (withheld knowledge), then walks through a three-week pilot whose outcome nobody knows yet (uncertain sequence).
 **Sources:** Storr
 
 ## F093 · Personality dials for characters
@@ -70,8 +69,7 @@
 4. Agreeableness: high is trusting and sympathetic; low is competitive and hard-bargaining.
 5. Conscientiousness: high prizes order and duty; low is impulsive.
 6. Read the combination as the character's default way to control stress.
-**Common mistakes:** Setting extremes on every dial; ignoring the situation.
-**Example:** A site foreman scores high on conscientiousness and low on openness. When the architect changes the plan on a Friday, he reaches for the checklist and the old drawing, not a new idea.
+**Example:** A wedding photographer scores high on agreeableness and neuroticism and low on conscientiousness. When the couple's schedule collapses, she apologises to everyone, says yes to every new shot request and forgets the family portrait. Pleasing people is her way to control stress.
 **Sources:** Storr
 
 ## F094 · Fifty-word speed story
@@ -87,7 +85,7 @@
 6. Why: the concrete problem solved and benefit.
 7. Join the six answers into one paragraph with minimal connectors, ending with one low-risk way to learn more. Use it as an email opener in place of a deck.
 **Common mistakes:** Skipping a block; adding detail until it is far over fifty words.
-**Example:** Tidepool Labs / tests drinking water in schools / across coastal towns / after six years of field data and a city health partnership / with a handheld sensor / so parents know their kids' water is safe. Join, then invite readers to see the results map.
+**Example:** Ledgerline / does the books for family restaurants / in Chicago's neighborhood dining scene / for eleven years and three hundred kitchens / through one weekly pickup of receipts / so owners spend Sunday with family, not spreadsheets. Join the blocks with a few connectors, then offer a free month-end review.
 **Sources:** Cowie
 
 ## F095 · Method, process, flexibility breakdown
@@ -135,8 +133,8 @@
 1. Keep the intense trouble and high stakes of F096.
 2. Replace cartoon antagonists with rounded people acting from recognizable motives such as love, fear, carelessness and social pressure.
 3. Trace the harm to circumstance, small errors and bad luck, not innate wickedness.
-**Common mistakes:** Swapping a villain for a mirror-image hero; hiding responsibility.
-**Example:** A flood story with no villain: an engineer postpones an inspection to attend her son's recital, a clerk misfiles a report, and a farmer opens a gate to save his crop. Each choice is kind, and together they drown a street.
+**Common mistakes:** Telling an inverted counter-myth in place of the one-sided myth; excusing perpetrators of an atrocity.
+**Example:** A history of a mill town's closure: the owner trims wages out of fear of a bank loan, the union rep rejects a concession out of loyalty to older workers, and the inspector retires without a successor. Each acts from recognizable motives. Together their choices and some bad luck with a cold winter empty the mill.
 **Sources:** Gottschall
 
 ## F099 · Desire, overreach, return (sitcom arc)
@@ -149,6 +147,6 @@
 3. Let us watch them adjust and end up with what they were after.
 4. Make them pay a heavy price or suffer ironic consequences.
 5. Return them to their starting state, with a lesson learned or a change.
-**Common mistakes:** No ironic price; a reward at the end that undoes the lesson.
-**Example:** A shy accountant buys a loud blazer to impress clients, becomes cocky at the meeting and corrects a partner, then loses the account and goes back to gray cardigans.
+**Common mistakes:** Skipping the heavy price or ironic consequences.
+**Example:** A quiet library volunteer, content with his desk lunch, signs up for a chili cook-off to impress a new colleague. He wins the first round and brags online. The final round is a ghost-pepper dish, and he ends up weeping in the lobby. Next day he is back at his desk with a plain sandwich, now admitting he likes it.
 **Sources:** Snow; Lazauskas

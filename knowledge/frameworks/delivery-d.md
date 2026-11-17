@@ -35,7 +35,7 @@
 2. Adjust framing or intro, emphasized details, tone and length for the room: brief, simple and pointed at work; personal at home; inclusive for a community.
 3. Cut subplots that do not serve that room, and keep the emotional core intact.
 **Common mistakes:** Letting the work version drift into sermon or confession (Maguire).
-**Example:** Lena once got lost hiking and was guided out by a stranger. For her team she tells it in ninety seconds about asking for directions early. For her sister she keeps the fear and the shared laughter. At the town fundraiser she stresses the stranger's kindness.
+**Example:** A pharmacist once caught a tenfold dosing error on a child's prescription at closing time. For her staff huddle she tells it in ninety seconds, pointed at double-checking decimals. With her teenage kids at dinner she keeps her shaking hands and the call to the worried father. At a neighborhood health fair she stresses how anyone can ask a pharmacist to read a label back.
 **Sources:** Maguire
 
 ## F217 · Charisma tactics for speakers
@@ -81,7 +81,7 @@
 2. Land a short, surprising punch line that wins buy-in on the premise.
 3. Keep squeezing the same premise with three to five escalating variations before moving on.
 **Common mistakes:** Resetting to a new topic after every laugh; running the roll past the room's energy (Cody).
-**Example:** A finance lead tells the staff that the new expense portal has the personality of a locked door. She follows with the receipt upload that rejects every photo, the approval that arrives after retirement, and the password hint that says only no. The room laughs three times, and she moves on to the budget.
+**Example:** A park ranger opens a campfire talk by saying the raccoons here treat coolers as a buffet with a puzzle lock. Once the campers laugh, she stays on raccoons: they unzip tents, they work in shifts, and one has clearly read the camping guide. After the third laugh she drops the bit and moves on to the food-storage rules.
 **Sources:** Cody
 
 ## F220 · Improv workshop for listening and building
@@ -108,7 +108,7 @@
 4. Deliver the main body: the story blueprint's sections, enriched with metaphors, anecdotes, sensory detail, characters and planned interaction checkpoints.
 5. Close with a deliberate impression: a summary with a fresh angle, one emphatic takeaway, or a call to action with exact next steps.
 **Common mistakes:** Starting with thanks and self-introduction (Parikh).
-**Example:** Priya pitches a route-planning tool to a bus operator. She opens with a stranded commuter's wait time, gives two named city rollouts and their results, ties it to the operator's missed-schedule penalties, walks the demo with two question stops, and ends by asking for a pilot on one line by June 1.
+**Example:** A school librarian speaks to parents at an evening meeting. She opens with a what-if: imagine your child finishing a book without being asked. She gives credibility as a two-sentence story of starting a reading club in a school with no library, says the session will show how ten minutes a night changes reading scores, tells three short family stories with a question break after each, and ends with one takeaway: read aloud together tonight.
 **Sources:** Parikh
 
 ## F222 · Stage zones for presence
@@ -120,7 +120,7 @@
 2. During the body, move calmly and unhurriedly among the three front zones (left, centre, right) to engage different parts of the room.
 3. Treat the three rear zones as dead zones. Enter one only briefly to point at the screen, then return to the front.
 **Common mistakes:** Lingering at the back, which weakens presence through distance (Parikh).
-**Example:** In a ten-seat meeting room, Omar opens and closes at front centre, spends the middle section at front left and right, and steps back to the screen just once to tap a chart before returning.
+**Example:** A volunteer firefighter gives a smoke-alarm talk to eighty residents in a church hall and keeps drifting back to the projector to read his slides. A friend in the front pew signals him forward. He greets the room from front centre, moves to front left for the seniors' table and front right for the young families, and steps back only to point at a photo of a melted alarm. He returns to front centre to ask everyone to test their alarms that night.
 **Sources:** Parikh
 
 ## F223 · Tribute built on one trait and one story

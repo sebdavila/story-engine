@@ -3,19 +3,19 @@
 ## S041 · Types of big idea
 **Purpose:** Choose where the story's central idea comes from. **Audience:** any. **Teller:** author.
 **Choose when:** you lack a core idea. Options: a story moral (prescriptive or cautionary truth of a genre), a what-if (novel, simple, relatable premise rich in adversity), a craft twist (new narrative, genre, character or world angle), or a wisdom byte.
-**Shape:** state the idea in one line, then test that the plot proves it; see F026 for a one-sentence promise.
+**Shape:** pick one of the four types; see F026 for a one-sentence promise.
 **Sources:** Emunds
 
 ## S042 · Scene types by stake movement
 **Purpose:** Classify scenes by what they do to the stakes. **Audience:** any. **Teller:** author.
 **Choose when:** outlining or diagnosing scenes. Primary: inciting incident, midpoint, all-is-lost, climax, where the stake flips. Secondary: other outline beats, where the stake slides. Tertiary: transition, exposition, backstory. Plus genre convention or trope scenes.
-**Shape:** place primary scenes first, then fill with secondary; keep tertiary short. See F075 for stake thresholds.
+**Shape:** classify each scene by type; see F075 for stake thresholds.
 **Sources:** Emunds
 
 ## S043 · Story length categories
 **Purpose:** Size the work. **Audience:** any. **Teller:** author.
 **Choose when:** planning scope. Epic novel 120,000+ words; novel 50,000 to 100,000; novella 15,000 to 40,000; novelette 10,000 to 20,000; short story 1,000 to 10,000; flash 500 to 1,000; micro 5 to 500.
-**Shape:** pick the band first and scale the number of plot beats to fit. Emunds' ranges overlap; use them as guides.
+**Shape:** pick the band. Emunds' ranges overlap, so treat them as guides.
 **Sources:** Emunds
 
 ## S044 · Action story
@@ -93,13 +93,13 @@
 ## S056 · Two moral formulas: power versus power, or principle versus power
 **Purpose:** Separate stories where a strong good side beats a strong bad side from rarer stories where naked principle faces worldly power. **Audience:** any. **Teller:** author or reviewer.
 **Choose when:** checking whether the story is a power fantasy or a sacrificial truth. Tree of knowledge: principled power against unprincipled power, with victory by force cheered on. Tree of life: the hero loses wealth, status and weapons, and only principle or faithful relationship remains.
-**Shape:** pick the formula and keep the climax consistent with it (Schwabauer and Sweet note a film adaptation that moved a sacrificial climax toward a war). The first stays popular because audiences project onto the winner. See F083.
+**Shape:** decide which formula the story follows. The first stays popular because audiences project onto the winner. See F083.
 **Sources:** Schwabauer; Sweet
 
 ## S057 · Three resolution plots
 **Purpose:** Classify a story by how it resolves, and promise that resolution in the opening. **Audience:** any. **Teller:** author.
 **Choose when:** choosing the engine. Boy meets girl: a relationship completes a lonely person. Man who learned better: a character faces a flaw and repents. Little tailor (monomyth): a humble hero gains an outer goal through trials, surrendering a false identity for a sacrificial true one.
-**Shape:** match opening to plot: an old man with no catch in months promises the third; a miser confronted by ghosts promises the second. Plots may overlap; classify by resolution, not events. For the third see F005.
+**Shape:** match opening to plot: a lonely night clerk who keeps almost greeting a regular promises the first. Plots may overlap; classify by resolution, not events. For the third see F005.
 **Sources:** Schwabauer; Sweet
 
 ## S058 · Shaped story versus plain account

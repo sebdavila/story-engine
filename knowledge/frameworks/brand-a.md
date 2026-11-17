@@ -26,8 +26,8 @@
 4. Prototype: reduce each concept to a napkin pitch with four quadrants: theme, stakeholder benefits, execution, business rationale; watch reactions.
 5. Test: soft-launch with listening tools and sentiment tracking; iterate or drop.
 6. Workshop aids: stack emotion (core emotion, body reaction, named feeling); practice three levels of empathy (cognitive, emotional, compassionate); fill a definition matrix; map assets in an Ikigai-style diagram (Rodriguez).
-**Common mistakes:** Treating the first prototype as final; skipping the test (Rodriguez).
-**Example:** A tax-software team targets freelancers. After listening to forum threads, the universal truth is relief. Three napkin pitches reach a freelancer panel; the one the team rated weakest, a tale of a late-night shoebox of receipts, gets the strongest reaction and goes to soft launch.
+**Common mistakes:** Treating the first prototype as final or the loop as finished (Rodriguez).
+**Example:** A tax-software team targets freelancers. After listening to forum threads, the universal truth is relief. Three napkin pitches are shown to a small freelancer panel while the team watches faces. The pitch with the loudest laughter is the shoebox-of-receipts tale, so the team sharpens it and soft-launches it, tracking comments for a week before spending on production.
 **Sources:** Rodriguez
 
 ## F290 · Integrated story across channels
@@ -81,7 +81,7 @@
 2. Pick one of the twelve archetypes: Hero, Ruler, Sage, Explorer, Innocent, Outlaw, Magician, Lover, Jester, Caregiver, Creator or Everyperson.
 3. Map the brand's vision, beliefs, qualities, personality, look, expression and offers against the buyer's vision and values, beliefs, qualities, personality, look, expression, needs and tension.
 4. Lead buyers through categorization (this group is for me), identification (I adopt its norms), comparison (I favor it), ending in loyalty.
-**Common mistakes:** Pitching against the code, such as selling a large gas-heavy vehicle mainly as a green choice.
+**Common mistakes:** Pitching against the category's code, which makes buyers disbelieve the message.
 **Example:** A sparkling-water startup finds that soda signals reward and water signals duty. It picks the Jester archetype, aims at office workers tense about nagging health habits, and shows drinkers joining a playful "fizz club" instead of lecturing on hydration.
 **Sources:** Quesenberry
 
@@ -93,7 +93,7 @@
 2. Reach: deliver the message through chosen media so the target segment is exposed.
 3. Resonance: align brand identity with buyer identity so core fans echo and amplify the story.
 **Common mistakes:** Stopping at relevance and reach, which yields paid impressions with almost no organic sharing.
-**Example:** A trail-running shoe maker posts specs (relevance) and buys placements (reach), with weak response. It then films a short documentary on a volunteer who clears mountain paths; runners repost it as a statement of who they are (resonance).
+**Example:** A city transit agency wants more riders under 30. Its posts on route changes (relevance) and its bus-shelter posters (reach) are seen but never passed on. Interviews show its loyal young riders see themselves as people who chose not to own a car, so the agency launches a "car-free since" year badge riders can add to their own profiles and a monthly page of their routes to work. Riders share the badge to say who they are, and friends ask how to start (resonance).
 **Sources:** Quesenberry
 
 ## F295 · Product–story link
@@ -104,7 +104,7 @@
 1. Connect the product's situation to a life situation of the target through an active plot link.
 2. Choose one mechanism: a character uses it, it solves the problem, it is essential, it changes behavior, it serves as metaphor, or it drives the plot.
 3. Aim for comprehension and narrative transportation so attitude toward brand and product shifts.
-**Common mistakes:** A removable product; test by deleting it, and if the plot survives, relink.
+**Common mistakes:** A product that can be removed while the plot survives, like a logo shown after an unrelated clip.
 **Example:** A short film follows a night nurse stranded after her shift when her car dies. A portable jump-starter in the trunk solves the crisis and gets her to her daughter's recital; the story fails without it.
 **Sources:** Quesenberry
 
@@ -116,7 +116,7 @@
 1. Keep the classic elements inside the page frame: image, headline, subhead, body, call to action, logo.
 2. Turn exactly one expectation upside down slightly to create surprise.
 **Common mistakes:** Flipping typography or hierarchy so far that the page cannot be read.
-**Example:** A furniture store's poster keeps its standard layout but puts the product small in a vast empty field and the headline in the largest type, admitting the sofa is "just a sofa." One expectation inverted, everything else familiar.
+**Example:** A language school's poster keeps image, headline, subhead, body, button and logo in their usual places. The one change: the photo shows a traveler seen from behind, staring at a menu she cannot read, instead of a smiling face turned to the camera. Everything else stays familiar, so the surprise reads at a glance.
 **Sources:** Quesenberry
 
 ## F297 · Useful content over hype (Youtility)
@@ -141,5 +141,5 @@
 3. Publish fresh, authentic content on owned hubs; turn ambassadors into defenders and engage critics constructively.
 4. Run PR together with paid, earned, shared and owned channels rather than as isolated releases.
 **Common mistakes:** Defensive denial in a crisis.
-**Example:** A bakery's cake is blamed in a viral post for a food scare. It publishes the lab result, invites the poster to tour the kitchen on camera, and shares the visit on its blog and newsletter instead of denying.
+**Example:** A rooftop-solar installer wants local press for a new leasing plan. Instead of promising halved bills, it pitches a reporter the measured savings from 40 homes, shaped as a feature about one retired couple's first winter on the plan. It posts the full meter data on its own blog, answers a skeptical engineer's forum thread point by point, and backs the article with a small paid post and its customer newsletter.
 **Sources:** Quesenberry

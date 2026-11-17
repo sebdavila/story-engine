@@ -9,8 +9,7 @@
 2. Open with its confusing, hidden side so the audience wonders where you are heading.
 3. Hang every illustration, anecdote and example on that same image.
 4. At the close, show the whole pattern at once, like turning the object right-side out.
-**Common mistakes:** An image that only decorates the point; illustrations that do not connect back to it; explaining the image before the reveal.
-**Example:** A hospital trainer carries a tangled ball of surgical suture into a safety workshop. Each case she tells is another snarl: a missed handoff, a mislabeled tube. In the last minute she pulls one thread and the knot opens into a straight line, and she says every handoff is a thread someone must hold.
+**Example:** An IT security lead opens a staff briefing by holding up a ring of ordinary office keys and saying nothing about it. She then tells three small incidents: a phishing click, a held-open side door, a password on a sticky note. At the close she explains that a hired tester copied every key on that ring in one week using only those three habits, and the ring becomes the picture of what one careless moment unlocks.
 **Sources:** James
 
 ## F068 · Stacked stories with a refrain
@@ -22,8 +21,8 @@
 2. Collect stories from four sources: literature (books, film), imagination (tales you invent), folklore (fables, myths, urban legends) and experience (personal or family).
 3. Tell the first story, then say the refrain.
 4. Stack the next story so it echoes and deepens the last, say the refrain again, and repeat.
-**Common mistakes:** Stories drawn from one source only; a refrain that changes wording each time; a story that illustrates a neighboring idea.
-**Example:** A coach wants a youth league to stop jeering at errors. Refrain: the scoreboard forgets, the bench remembers. She tells a fable about a lamp-lighter, her own benchwarming season, and a film scene about a missed catch, repeating the refrain after each.
+**Common mistakes:** Stories that do not all prove the same point; stories drawn from one source only; a refrain that changes wording each time.
+**Example:** A patient-safety officer wants surgeons to voice doubts during operations. Refrain: say it in the room. She tells of a cockpit crew whose co-pilot only hinted at ice, a legend she invents about a lighthouse keeper who kept quiet about a dim lamp, and her own residency night when she stayed silent about a sponge count, repeating the refrain after each.
 **Sources:** James
 
 ## F069 · Eight crafts mapped to reader engagement
@@ -33,9 +32,8 @@
 **Steps:**
 1. Name the eight crafts: big idea, narrative, genre, story outline, characterization, world building, scene and chapter structure, prose.
 2. Tie each craft to what it produces: big idea gives inspiration, motivation and curiosity; narrative controls perspective, empathy, curiosity and tension; genre sets expectations of thrill, feelings and stakes; outline designs curiosity, tension, excitement and satisfaction; characterization yields empathy, sympathy, curiosity, tension and wonder; world building yields wonder and sharper conflict; scene structure paces scene questions and micro-tension; prose carries thrill, feelings and beauty.
-3. For a weak draft, find the missing response and go to the craft that owns it.
-4. Fix upstream first, then let the choice cascade down into word choice.
-**Common mistakes:** Rewriting sentences to cure a structural problem.
+3. For a flat draft, find the missing reader response and go to the craft that produces it.
+4. Fix the structural crafts first; each choice then cascades down into prose word choice.
 **Example:** A reader says a harbor mystery drags. The editor sees no one wants anything in the middle chapters (outline and characterization) and fixes those before touching style.
 **Sources:** Emunds
 
@@ -51,21 +49,21 @@
 5. Then conscious thought that weighs the event against a goal, desire or moral reference.
 6. Then a decision, shown as action or dialogue.
 7. Last, a delayed feeling such as empathy or love, once the dust settles.
-**Common mistakes:** A character who analyzes calmly before flinching; stating the feeling before the body reacts.
-**Example:** A cashier hears glass shatter behind her. Her shoulders jerk up, her stomach drops, she ducks below the counter, thinks the sound was the bottle rack, calls out to the stock boy, and later feels sorry for him.
+**Common mistakes:** Reversing the causal order of the beats.
+**Example:** A night-shift baker sees an oven door burst open in a cloud of smoke. Her arm flies up over her face, her pulse pounds, she reaches for the gas valve and shuts it, thinks the old seal has finally gone, shouts for the manager, and the next morning feels grateful the apprentice had already gone home.
 **Sources:** Emunds
 
 ## F071 · Point-of-view and narrative camera choice
 **Also known as:** The Three Reading Lenses and POV Knowledge Matrix (Emunds); Six Camera Perspectives (Haven)
 **Use when:** You choose a narrator before drafting, adjust reader closeness, or decide how much the reader knows against the character.
-**Avoid when:** You use second person in a first draft (it removes someone to identify with), or claim limited access plus omniscience.
+**Avoid when:** You are a novice tempted by second person (it leaves no character to identify with), or you claim limited access plus omniscience.
 **Steps:**
 1. Decide where the camera sits: omniscient, objective (senses only, no minds), distant or close third, second, first, or multiple viewpoints.
 2. Add optional layers: the author's voice and a frame narrator.
 3. Set the dials: inside or outside the story, distance, how much it knows, pronoun, single or multiple viewpoints, reliability, tense, commentary.
 4. Choose the information gap: reader knows less than the character (mystery), the same (suspense), or more (irony).
 5. If the draft feels distant, move to close third; shift viewpoint only when one camera fails.
-**Common mistakes:** First person for a hero who must see off-stage scenes or die; hopping heads without reason.
+**Common mistakes:** First person for a hero who must see off-stage scenes or die; shifting viewpoint while the current camera still works.
 **Example:** A bakery-heist tale in close third on the apprentice lets us feel her dread. Showing the owner hiding the alarm code from her, while she doesn't know, switches it to irony.
 **Sources:** Emunds; Haven
 
@@ -79,7 +77,7 @@
 3. Pair each feeling with its negative opposite vertically, such as boredom against sense of beauty.
 4. Slide scenes a step along the spectrum; flip to the far end only at major turns.
 **Common mistakes:** Using win or lose in every scene; using justice, which turns once or twice, as the crime story's scale instead of truth.
-**Example:** In a lab-fraud thriller, each scene moves the auditor from ignorance toward knowledge: a mismatched ledger, a deleted file, a witness who shuts the door. Only the last scene reaches proof.
+**Example:** In a survival story about a hiker caught on a ridge, each scene slides her one step along the action continuum: safety at the trailhead, danger when the cloud drops, near-death on an iced ledge. Only the final scene flips to the far end, a helicopter lowering her to safety.
 **Sources:** Emunds
 
 ## F073 · Real-life adversity sequence
@@ -96,8 +94,7 @@
 7. They identify the tool or ability needed.
 8. They acquire and use it.
 9. They succeed or fail.
-**Common mistakes:** Jumping from symptom to solution; a hero who analyzes at once.
-**Example:** A shop owner ignores a flickering freezer, props the door with a brick, then loses a week of stock. She studies the compressor manual, learns to swap the relay, and fixes it.
+**Example:** A drummer in a wedding band keeps rushing the tempo. The bandleader notices, shrugs it off, then has him wear a metronome clip as a workaround. At a big gig the song falls apart and the client walks out. Only then does she record rehearsals, analyze the drift, and see that the drummer needs a click track in his ears, which fixes it by the next show.
 **Sources:** Emunds
 
 ## F074 · Story engine of core plot elements
@@ -108,14 +105,13 @@
 1. List the twelve cycle elements: adversity, antagonist, protagonist, inciting incident, stakes, story goal, escalation, midpoint, key ability, all-is-lost moment, climax, conclusion.
 2. Decide who owns the goal. Protagonistic engines (adventure, romance): the incident tempts the protagonist. Antagonistic engines (action, thriller): the antagonist owns it, the key ability is a McGuffin, and the hero's goal is to stop her.
 3. Build the internal engine: wound, motivation, original goal, disruption, story goal, flaw (the missing key ability), key ability at midpoint, transformation at all-is-lost, mastery.
-**Common mistakes:** An antagonist with no goal of her own; a flaw unrelated to the wound.
 **Example:** A water-rights drama: poisoned wells (adversity), a developer who profits (antagonist), a surveyor hired to test them (protagonist), a leaked lab sheet (key ability), a sabotaged truck (all is lost).
 **Sources:** Emunds
 
 ## F075 · Four-act outline with stake thresholds
 **Also known as:** The Four Act Structure and Scene Outline (Emunds)
 **Use when:** You expand a finished engine (F074) into a scene-by-scene outline of roughly 50 to 60 scenes.
-**Avoid when:** The engine is not set; flat rising and falling arcs result unless stakes climb across thresholds.
+**Avoid when:** The story engine (F074) is not yet set.
 **Steps:**
 1. Act 1: ordinary world, inciting incident (threshold 1), refusal, mentor explains stakes, forced call, story goal, crossing.
 2. Act 2: training and trial-and-error, antagonist notices, workarounds fail (threshold 2).
@@ -123,7 +119,7 @@
 4. Act 3: test the ability, standoff where it fails, all-is-lost.
 5. Act 4: rebound and symbolic transformation, threshold 3 plus an extra edge, climax, brief poetic justice, show mastery.
 6. Layer the genre's obligatory scenes on top.
-**Common mistakes:** Sagging middle with no threshold; skipping the midpoint discovery.
+**Common mistakes:** Letting arcs rise and fall flat without escalating stakes across the three thresholds.
 **Example:** A rookie ski patroller's outline: avalanche near-miss, refusal, mentor warning, failing probe drills, midpoint when she reads snow layers, last act rescue.
 **Sources:** Emunds
 
@@ -136,7 +132,6 @@
 2. Psychological profile: one-word trait, nickname, paradox, talent and flaw, ideal action versus worst-nightmare action (force the latter), one-word worldview, habits, mask against hidden truth, prop.
 3. Superficial attributes: name, age, build, social place, backstory, appearance, recurring body part, defects, themed vocabulary.
 4. Conflict matrix: pair personality types (see F093) so some support, hinder or undermine each other.
-**Common mistakes:** Pairing everyone as friends; traits with no paradox.
 **Example:** A kindly nurse who lies easily is paired with a rigid pharmacist: her warmth fails against his rules, so every handoff becomes a fight.
 **Sources:** Emunds
 
@@ -149,6 +144,5 @@
 2. Core value: choose the spectrum that measures global change, such as death to life.
 3. Core emotion: name what the audience must feel and build toward it scene by scene.
 4. Core event: write the climax where the need is most at risk, the value hits an extreme and the emotion peaks.
-**Common mistakes:** A climax that does not hit the chosen value; secondary value spectrums ignored.
 **Example:** A tenants' story: need is safety, value is security versus eviction, emotion is triumph. The core event is the hearing where the landlord's forged notice is exposed.
 **Sources:** Coyne

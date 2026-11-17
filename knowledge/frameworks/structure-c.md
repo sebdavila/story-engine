@@ -27,7 +27,7 @@
 4. Breach: unmet expectations cause a new conflict.
 5. Crisis and repair: they reunite in a crisis, forgive and bond for good.
 **Common mistakes:** Skipping the breach; resolving without a crisis.
-**Example:** Two cofounders, a cautious accountant and a risky designer, are put in one office after a merger. They rescue a failing pitch together, fall out when she cuts his prototype, and settle it when a server crash needs both skills.
+**Example:** Two rival debate coaches at the same school mock each other's methods. A bus strike strands both teams at a regional tournament, forcing them to prep in one shared hotel room, and they start swapping notes. Then he takes credit for her student's winning case in the school newsletter, and they stop speaking. When a student faints during the final round, they handle the hallway together, and the truce holds.
 **Sources:** Barker & Brown
 
 ## F025 · Wound, false belief and outer goal arc
@@ -41,7 +41,7 @@
 4. Let outer crises crack inner certainty, and inner breakdowns push suppressed behavior into scenes, causing new outer chaos (Storr).
 5. Add a supporting figure who gives courage at moments of doubt (Hauge).
 6. At the climax, force the drop of the belief (want gives way to need) or ruin; settle both tracks, and let the outcome state the theme.
-**Common mistakes:** Two unconnected plots; a flaw that never costs anything; a theme stated instead of shown.
+**Common mistakes:** Two unconnected plots; a flaw that never costs anything.
 **Example:** A veteran baker believes asking for help means failure, after a partner betrayed him. He chases a national award alone, burns out, and ruins the final batch. A young apprentice steps in; he accepts help, and the award now matters less than the shop he rebuilds.
 **Sources:** Barker & Brown; Hauge; D'Costa; Schwabauer & Sweet; Storr
 
@@ -71,7 +71,7 @@
 4. Ordeal: deliver a peak challenge, insight or transformative encounter.
 5. Reinvention: return them to everyday life with lasting memory or action.
 **Common mistakes:** Making guests watch an outside hero; onboarding that blocks the threshold.
-**Example:** A museum's night program starts with a hallway puzzle sent to visitors days before, a door that opens only after they solve it, a final dark room where they decide a case, and a card to take home.
+**Example:** A bottling plant reworks its new-hire week. A short video from a line worker arrives before day one, a checklist shows hires what they do not yet know, a mentor meets them at the gate so the badge hassle disappears, a timed line simulation is the peak, and on Friday each hire writes down one fix they will push for.
 **Sources:** Sommer Paulsen
 
 ## F028 · Story Sphere
@@ -83,8 +83,8 @@
 2. Build outward: storyline, characters, creatures, objects, space, world, and the universe rules (physics, logic, genre).
 3. Check every layer against the core.
 4. In execution, place the audience and the experience concept at a double core, separated from the layers and context by an interface layer.
-**Common mistakes:** Decorative objects unrelated to the premise; changing genre rules by accident.
-**Example:** Premise: a village where lost things return a day late. Characters: a ferryman; objects: umbrellas that arrive after rain; rule: nothing returns to its owner.
+**Common mistakes:** Decorative objects unrelated to the premise; layers added with no tie to the core premise.
+**Example:** Premise: a village where lost things return a day late. Characters: a ferryman; objects: umbrellas that arrive after rain; rule: nothing returns to its owner. Each layer is checked against the premise, and a talking dragon is cut because it ties to nothing.
 **Sources:** Sommer Paulsen
 
 ## F029 · Modular Micro Stories
@@ -96,8 +96,8 @@
 2. Describe each one through its content (the events), its context (place, time, social setting) and its control (who steers progress).
 3. Give every module standard rational and emotional entry and exit states.
 4. Group compatible modules into clusters with matching states; if adaptive, add observation of storyline, movement and audience traits.
-**Common mistakes:** Modules that depend on one fixed predecessor; reordering that silently changes the meaning.
-**Example:** A museum trail has six rooms about one shipwreck. Each room starts with the visitor curious and ends with a stated doubt, so rooms can be visited in any order.
+**Common mistakes:** Modules that depend on one fixed predecessor; entry and exit states left undefined.
+**Example:** A museum trail has six rooms about one shipwreck. Each room starts with the visitor curious and ends with a stated doubt, so rooms can be visited in any order. The six rooms form two clusters whose states match, and the visitor's route stays coherent.
 **Sources:** Sommer Paulsen
 
 ## F030 · Audience Agency Matrix
@@ -123,7 +123,7 @@
 3. Pair horizontal integration (touchpoints) with vertical integration (staff, tech, operations, governance).
 4. Back every audience-facing promise with a named operational owner.
 **Common mistakes:** Promises with no staffing; story work isolated from operations.
-**Example:** A hotel promises a treasure-hunt weekend. The story team writes clues, the tech team builds phone prompts, and housekeeping is trained to place the hidden items, so each promise has a back-stage owner.
+**Example:** A blood bank promises donors a thirty-minute visit. The logistics lead models chair turnover, the story team writes the text that tells each donor where their blood went, the tech team builds the reminder app, and each nurse shift lead owns the wait-time promise at the door.
 **Sources:** Sommer Paulsen
 
 ## F032 · Story-to-Myth Continuum
@@ -137,7 +137,7 @@
 4. Legend: expect consumer-spread stories to mutate unless they carry suspense, familiarity and a moral.
 5. Myth: ground it in archetypes such as separation, initiation and return that carry universal moral truth.
 **Common mistakes:** Calling scattered episodes a myth.
-**Example:** A tea brand strings beats (a late bus, a spilled cup, a stranger's offer) into a three-act ad, gives it the view that warmth is shared, and checks whether customers retell it.
+**Example:** A bike-repair cooperative strings beats (a flat tire on the way to a job interview, a volunteer fixing it on the curb, the rider coming back a month later to volunteer) into a three-act member video, gives it the view that help gets passed on, and checks whether members retell it at their own shops. Only if it travels and still carries that moral does it move toward legend.
 **Sources:** Vincent
 
 ## F033 · Plot, Theme and Point of Entry
@@ -149,5 +149,5 @@
 3. Point of entry: find the moments, details or relationship dynamics where a listener sees their own life.
 4. Add several entry points, since each listener finds a different one.
 **Common mistakes:** Only plot; a private detail no listener can relate to.
-**Example:** Plot: a man teaches his neighbor's daughter to ride a bike. Theme: patience. Entry points: the wobbling moment before letting go, and the neighbor's silent thank-you wave.
+**Example:** Plot: a retired welder learns to use a smartphone from his granddaughter so he can join the family group chat. Theme: being left out scares us more than looking foolish. Entry points: the first voice message he sends by accident, and the granddaughter biting her lip so she won't laugh.
 **Sources:** Leitman

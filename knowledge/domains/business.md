@@ -32,7 +32,7 @@
 - Facts set inside a story are remembered far better than bare figures; cited multiples run from 2x to 22x depending on the source, so treat them as direction, not a constant. Evidence: study (as cited). T259, T498. (Callahan; Edwards; Maxwell; Kamath; Bowles; Rodriguez)
 - A listener's brain activity mirrors the teller's, and listeners who anticipate what comes next understand best. Evidence: study (Hasson). F265. (Callahan; Hall; Bowles; Guptara; James)
 - Tension in a story raises cortisol (attention) and oxytocin (empathy, generosity). Evidence: study (Zak). F252, T086. (Quesenberry; Hall; Snow; Lazauskas; Dolan; Parikh)
-- Stating the point before the story roughly doubles recall and comprehension, and a known ending can ease processing of complex material. Evidence: study (Leavitt and Christenfeld, via Edwards; Callahan's cited work). T028, T388. (Callahan; Edwards)
+- Stating the point before the story roughly doubles recall and comprehension, and a known ending can ease processing of complex material. Evidence: study (Leavitt and Christenfeld, via Edwards; Callahan's cited work). T028. (Callahan; Edwards)
 - Buyers judge in order: do I trust you, do I like you, will it work for me. A tenth of a second shapes the trust judgement. Evidence: study (cited by Livesay). F228. (Livesay; Guptara; Simmons)
 - One named person beats a statistic: donors give more to an individual, and big numbers numb. Evidence: study (cited by Snow; Parikh). T258, T464, T465. (Snow; Lazauskas; Parikh; Kamath; Biesenbach; Hauge)
 - Specific detail builds belief and universality; vague goals and summarised emotion keep the audience outside the scene. Evidence: author experience. T221, T080, T081. (Hauge; Simmons; Karia; James; Biesenbach)
@@ -55,7 +55,7 @@
 
 - Investors back the jockey as well as the horse: founders who pitch with energy and a story win more often, and visible passion signals staying power. Evidence: study (academic work cited by Livesay) and author experience. F272, F235. (Livesay; Hall)
 - Negative stories travel faster and weigh more than positive ones, so an organisation needs a steady supply of positive stories about its own people. Evidence: study (cited by Callahan). F316, T572. (Callahan)
-- People copy visible behaviour, so a short story showing one concrete act moves conduct where a mandate fails. Evidence: study (imitation research, via Callahan). T118, T511. (Callahan; Guptara)
+- People copy visible behaviour, so a short story showing one concrete act moves conduct where a mandate fails. Evidence: study (imitation research, via Callahan). (Callahan; Guptara)
 - B2B buyers remain emotional: they hire teams whose values and character fit theirs, so shared-values stories earn trust beyond the transaction. Evidence: author experience. S165, T082. (Biesenbach; Guptara; Livesay)
 - Facts presented before a story get slotted into the listener's old story; a story first supplies the frame in which facts are read. Evidence: author experience. F255, T259. (Simmons; Callahan)
 

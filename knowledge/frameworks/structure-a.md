@@ -11,7 +11,7 @@
 4. Falling action: show consequences moving toward the outcome.
 5. Resolution: release tension and show the new equilibrium; add poetic justice if the story allows (James).
 6. For data, cast the people in the data as characters, make the key insight the climax and the recommendations the resolution (Feigenbaum).
-**Common mistakes:** Opening with how the analysis was done; slow exposition online; no stakes the audience cares about; no obstacles at all, which leaves no arc.
+**Common mistakes:** Opening with how the analysis was done; no stakes the audience cares about; no obstacles at all, which leaves no arc.
 **Example:** A bakery chain reports why its loyalty app is failing. Exposition: a night-shift nurse who wants breakfast after work. Rising action: three failed log-ins and a lost reward. Climax: the finding that 60% of sign-ups die at the phone-verification screen. Resolution: drop that screen, with a date and an owner.
 **Sources:** Quesenberry; Lupton; James; Feigenbaum
 
@@ -25,7 +25,7 @@
 3. Size it: long enough for fortune to turn, short enough to hold in mind at once.
 4. Split it into complication (everything up to the turn, including relevant backstory) and resolution (from the turn to the end).
 5. Make the resolution grow from the complication, not from an outside fix.
-6. Delete or move any scene whose removal breaks nothing.
+6. Test each scene: if removing or moving it breaks the whole, it belongs; if nothing breaks, cut it.
 7. Check characters are worthy of respect, fitting, believable and consistent (Quesenberry).
 **Common mistakes:** Strong complication, weak untying; a rescue that arrives from outside the story; biography padding.
 **Example:** A repair-shop owner's story covers only the day a customer's wedding-dress zipper failed. Her late-night fix comes from a skill planted earlier, sewing sail covers as a teen. Her trip to Lisbon that summer is cut because nothing depends on it.
@@ -59,7 +59,7 @@
 5. To align a team, use the fairy-tale spine (see F022), then remove the scaffold words before delivery (Edwards).
 6. Live, drop connectives such as meanwhile, but and later to keep a shared plot moving (Miller).
 **Common mistakes:** Flat chronology; saying the scaffold phrases aloud in a business talk; negative phrasing in plain factual answers (Dicks).
-**Example:** A trainer's story: the scheduling tool froze at 8 a.m., therefore Ana phoned each driver by hand, but half were already on the highway, therefore she texted the depot, but the depot had no signal. Each beat forces the next.
+**Example:** A trainer's story: the scheduling tool froze at 8 a.m., therefore Ana phoned each driver by hand, but half were already on the highway, therefore she texted the depot, but the depot had no signal. Ana's phone is dead by noon, therefore she borrows a dispatcher's radio. Each beat forces the next, and none could be swapped.
 **Sources:** Rubin; Edwards; Dicks; Simson; Sandler; Miller
 
 ## F005 · Hero's journey
@@ -92,7 +92,7 @@
 5. Outcome and reaction: the result, the new normal and what it means; for selling, tie it to the buyer's situation (Livesay; Biesenbach).
 6. If any link is missing, fix it before drafting.
 **Common mistakes:** Too little exposition misleads, too much bores (Livesay); a goal with no jeopardy.
-**Example:** Marta, a florist, must deliver 200 centerpieces by noon (goal). Her van dies and she is known for never asking help (flaw). She tries three fixes, then calls her rival. The wedding opens on time, and she now shares a delivery rota.
+**Example:** Inés, a first-year accountant, wants to pass her licensing exam on the first try (goal). A full-time job and her habit of re-reading instead of practising stand in the way (obstacle and flaw), and failing means another year at junior pay (danger). She tries early mornings, then a study group, and finally switches to timed practice papers. She passes by four points, and the firm now gives new hires timed papers in their first month.
 **Sources:** Livesay; Quesenberry; Biesenbach; Haven
 
 ## F007 · Dramatic question architecture
@@ -104,7 +104,7 @@
 2. Ask: a disruption (see F008) poses the central question, will the protagonist get what they want. Choose external, internal, shifting or retrospective form.
 3. Build: add secondary questions through subplots that light the core idea from another side, and a small question inside every scene.
 4. Answer: the hero gets it, fails, or gets part of it at a transforming cost.
-**Common mistakes:** Scenes with no question of their own; never answering the central one.
+**Common mistakes:** Scenes with no question of their own; secondary questions that do not light the core idea from another side.
 **Example:** A food-truck pitch: will Dev win the stadium contract (central)? Will his partner stay (secondary)? Each scene asks smaller things, such as will the generator start before the tasting. He wins half the contract at the price of the partner's dream menu.
 **Sources:** Rubin
 
@@ -144,7 +144,7 @@
 3. Confirm or abandon the choice in a contrasting setting and tone, in a surprising way, answering the central question (F007).
 4. Wrap up fast: tie loose ends and finish on one resonant image.
 **Common mistakes:** Repeating the same setting and tone in both beats; a long epilogue.
-**Example:** At the end of a quarterly review, Priya decides in the cold server room to shut down her own failing product. At her mother's birthday dinner, a colleague offers a rescue deal. She declines, and the story ends on her switching off the office light.
+**Example:** Femi, a union negotiator, decides on a noisy factory floor, after every other offer has failed, to call a strike he knows may cost members their bonuses. That evening, in a hushed boardroom, management offers a last-minute raise for half the staff only. He signs the strike notice in front of them without a word, and the story ends on the factory gates closing at dawn.
 **Sources:** Rubin
 
 ## F011 · Risk escalation ladder

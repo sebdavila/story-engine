@@ -8,8 +8,8 @@
 1. Passion: open with a photo exhibit, a video or personal photos to trigger emotional memories. Participants share personal stories about the human domain of the business (for example health or light) in a risk-free setting, then link those feelings to the corporate brand story.
 2. Action: a respected line manager demonstrates tailoring the brand story for each stakeholder group. Bring in customer-journey frameworks. Participants interview real customers or role-play scenarios, draft stories with proof points, adapt them for contrasting venues and take peer and customer critique.
 3. Commitment: each participant records concrete follow-up promises on start, stop and continue cards. Provide an intranet toolkit with storylines per segment, FAQs and story templates so the practice spreads.
-**Common mistakes:** Skipping the customer interview, so stories stay about features; leaving without recorded commitments.
-**Example:** A pump manufacturer runs a half-day for its engineers. They begin by bringing photos of a time clean water mattered to them, then interview a farmer whose borehole failed, draft a story from her words, and retell it for a bank audience. Each writes a card promising to open the next client meeting with a customer story.
+**Common mistakes:** Launching without buy-in from senior leaders and line managers.
+**Example:** A regional bank is repositioning as a partner to small businesses, and its loan officers only talk about rates. The day opens with a short film of shuttered high-street shops, and each officer tells of a family business they grew up near. A respected branch manager shows how she tells the bank's story differently to a café owner and to a city council, then officers role-play a struggling florist, draft her story with figures and retell it for a trade fair. They leave with start, stop and continue cards and a shared folder of storylines per sector.
 **Sources:** Forman
 
 ## F126 · Daily storyworthy-moment log
@@ -22,8 +22,8 @@
 3. Record only one or two sentences, never the full story, so the habit stays easy and entries stay sortable.
 4. Add older memories whenever the daily reflection triggers them.
 5. Scan the log periodically for recurring patterns.
-**Common mistakes:** Writing the whole story each night and quitting; judging entries as too small.
-**Example:** A teacher logs that a student returned a stolen pencil with a note, and weeks later that a neighbor returned a ladder with a note. Scanning the log, she sees she is moved by quiet apologies, and builds a story on the first one.
+**Common mistakes:** Writing the whole story each night instead of a snippet; expecting results within the first weeks.
+**Example:** A paramedic logs one line a night: a boy in the ambulance asked if it had a radio for music. Writing it, he remembers riding at nine in his grandfather's grain truck with the radio broken, and adds that older entry under the same date. Months later, asked to speak at a colleague's farewell, he scrolls the sheet and builds the talk from the truck ride.
 **Sources:** Dicks
 
 ## F127 · Uncensored free-association memory mining
@@ -38,7 +38,7 @@
 5. Apps (alternative): put a central word in a circle on a blank page, draw lines out to circles for whatever memories arrive, branching off the newest ones without judging relevance, about 15 minutes in a workshop.
 6. Review the raw output or the web of clusters, and pull out viable stories; with the map, pick one or several connected circles to draft.
 **Common mistakes:** Stopping to fix a sentence; clinging to the first strong thread.
-**Example:** A cook starts from a wooden spoon on the counter. The stream goes to her aunt's kitchen, to a burnt pot, to a quarrel she had forgotten about money, and then a list of spices. Reviewing it, she circles the quarrel as a seed worth a story.
+**Example:** A union organizer needs a story for a rally speech and has nothing. She writes overtime in a circle and branches out to her mother's night shifts, a cancelled birthday and a strike-day sandwich, adding circles off each newest one. When she stalls she lists the days of the week until a cold bus stop appears. She joins the night-shift and birthday circles and drafts from them.
 **Sources:** Dicks; Apps
 
 ## F128 · First-last-best-worst memory grid
@@ -51,7 +51,7 @@
 3. Put a brief memory label in each cell.
 4. Analyze with three checks: any entry that appears more than once is a strong signal of a story; mark full-story candidates S; mark smaller supporting pieces A for anecdote.
 **Common mistakes:** Writing whole stories in cells; ignoring repeated entries.
-**Example:** A man's grid shows his old pickup under first car, worst car and worst injury, and his brother's name under best gift. He marks the pickup S and builds a story about the winter he and his brother rebuilt it.
+**Example:** Two sisters on a five-hour drive play the grid aloud, with the challenge rows toaster, flag and socks. One cell, worst flag, brings back a soaked school sports day, and a night bus turns up under both first travel and worst trouble. The older sister, who needs short openers for her conference talks, marks the sports day A and the night bus S.
 **Sources:** Dicks
 
 ## F129 · Talk through a memory to find its meaning
@@ -64,7 +64,7 @@
 3. Or take an odd recurring behavior, ask why you do it, and speak the relevant history aloud until the underlying truth emerges.
 4. If two meanings appear, choose one for this story and build the story's opposite beginning to match.
 **Common mistakes:** Trying to keep both meanings in a single story; editing while talking.
-**Example:** A woman keeps her brother's voicemails unplayed. Talking aloud, she recalls the last one, a joke about a borrowed coat, and hears the shift: she is afraid that hearing it would make it final. She chooses that fear as the meaning and plans a story that begins with her confident refusal to grieve.
+**Example:** A firefighter cannot explain why he irons his shirt the night before every shift, even in summer. Recording a voice memo, he talks through the history and lands on his first funeral as a pallbearer, when his shirt was creased and a widow straightened his collar. He builds the story to open with him mocking his father for ironing handkerchiefs.
 **Sources:** Dicks
 
 ## F130 · Issue or logic tree before the storyline
@@ -80,8 +80,8 @@
 6. Filter hypotheses on impact against ease, plus urgency, strategic fit and capability (McKinsey).
 7. Sketch the deck on paper first: full-sentence slide titles as dots, supporting facts and exhibits as dashes (McKinsey).
 8. Test hypotheses, including searching for disconfirming evidence, and update the tree and sketch (McKinsey).
-**Common mistakes:** Treating the process as linear; skipping stakeholder ranking; overlapping branches.
-**Example:** A cafe chain owner asks how to grow profit. The analyst splits it into higher revenue and lower cost, each with sub-branches, and reviews it in a half-hour call with the owner and two managers. They strike the rent branch, as the leases were just renegotiated, and rank loyalty offers first. The deck outline is sketched around that ranking.
+**Common mistakes:** Treating the process as linear; overlapping branches; opening slides or analyzing data before the tree exists.
+**Example:** A library director asks how to bring in more teenagers. The analyst asks what a low teen turnout causes until the scope reaches the city budget, which belongs to the council, and steps back to library funding. Constraints are no evening staff and a fixed collection budget. The branches are cannot get there, do not know about it, and see no reason to come. Each becomes a testable statement, and the director ranks the third highest.
 **Sources:** McKinsey; Parikh
 
 ## F131 · Top-versus-bottom performer comparison
@@ -95,7 +95,7 @@
 4. Run the identical step-by-step interview with the bottom group, using non-leading, open questions.
 5. Isolate the behaviors in the top workflows that are absent from the bottom ones, and codify that difference to train the organization.
 **Common mistakes:** Letting the interviewer lead answers; mixing in windfall results.
-**Example:** A clinic wants fewer missed appointments. It ranks front-desk staff by no-show rates over two quarters, drops one with a temporary flu-season spike, and has top and bottom staff each narrate their last reminder call. The top group alone confirms the time and asks how the patient will get there.
+**Example:** A warehouse wants fewer picking errors. It ranks pickers by accuracy over two quarters, removes one who worked only the quiet season and one whose scanner kept failing, and asks the top and bottom groups to walk through the first order of their last shift. Every top picker read the label against the bin before scanning, and none of the bottom group did, so that check goes into training.
 **Sources:** McKinsey
 
 ## F132 · Writing habit system
@@ -111,7 +111,7 @@
 6. Treat the first draft as raw material and push to the end without editing (Apps).
 7. Make it satisfying: log daily word counts, share progress with peers or take audience feedback (Lazer).
 **Common mistakes:** Rewriting the opening for months; waiting for the mood.
-**Example:** A nurse decides she is someone who writes a hundred words before her shift. She keeps her notebook by the kettle, allows 15 minutes, ticks a calendar and texts a friend each Friday. Her first drafts are rough, and she finishes a short story in two months.
+**Example:** A hardware-shop owner wants a weekly customer newsletter and has missed it for months. She decides the shop is one that sends a story every Thursday, writes right after the Wednesday stock count with a coffee from the bakery next door, and puts her phone in a drawer for a 20-minute timer. Drafts go out rough, and she pins the open rate for each issue on the staff noticeboard.
 **Sources:** Lazer; Apps
 
 ## F133 · Childhood floor plan memory trigger
@@ -124,7 +124,7 @@
 3. Annotate with remembered smells and feelings tied to rooms, about 10 to 15 minutes in all.
 4. Pick a single room and write up one particular incident that took place in it.
 **Common mistakes:** Writing about the whole house instead of one incident.
-**Example:** A man draws a two-bedroom flat, with the radio in the kitchen and his father's boots by the door. Beside the hallway he writes smell of diesel. He picks the hallway and writes about the night his father came home early and said nothing.
+**Example:** A daughter wants her father's memoir, but he insists he remembers nothing from before he was fifteen. She hands him a large sheet and he draws the farmhouse, slowly adding the stove, a calendar from the feed store and which brother slept where. Next to the pantry he writes cold flour smell. He picks the pantry and tells of the winter it was nearly empty and his mother sang while she counted jars.
 **Sources:** Apps
 
 ## F134 · Lifeline memory mining
@@ -137,5 +137,5 @@
 3. Maguire, crossroads: draw a vertical lifeline in five-year segments; mark paths taken with right-pointing arrows and paths not taken with left-pointing arrows; probe the context of each decision with five questions and study the road not taken.
 4. Reshape awkward, incomplete or overexposed material with one of four story-translation options, shifting standpoint as needed, until it becomes emotionally truthful.
 **Common mistakes:** Summarizing instead of recalling a time-anchored scene.
-**Example:** A pilot draws her lifeline and marks a right-pointing arrow at moving abroad at 24 and a left-pointing arrow at the conservatory place she declined. She writes the scene of the phone call declining it, and retells it from her mother's standpoint to soften the regret.
+**Example:** A retired bus mechanic wants material for a talk at his grandson's school. He takes his wristwatch as the catalyst, starts at the present and steps back one, two, five and ten years, writing the scene at each stop: a strap snapping at his daughter's graduation, a shop floor where the watch caught in a fan belt. The reflection questions show him the watch marks every time he nearly missed something, and the talk is built on that.
 **Sources:** Maguire; Apps
