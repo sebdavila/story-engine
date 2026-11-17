@@ -1,6 +1,6 @@
 ---
 name: story-draft
-description: Writes the story, or prepares it to be told out loud, from a structure, applying techniques from the story-engine knowledge base, then runs QA (knowledge audit and blind rubric review). Use when a structure is ready or the user asks to write, tell or finalize a story, e.g. "write this story", "draft the pitch", "help me tell this out loud", "finalize this draft", "escribe la historia", "redacta el post", "cuéntala en voz alta", "escreva a história", "me ajuda a contar em voz alta".
+description: Writes the story, or prepares it to be told out loud, from a structure, applying techniques from the story-engine knowledge base, then runs QA (knowledge audit and blind rubric review). Use when a structure is ready or the user asks to write, tell or finalize a story or a story-based piece (LinkedIn post, social post, script, speech, pitch), e.g. "write this story", "draft the pitch", "write a LinkedIn post about the day...", "make it a story and write it", "escríbeme un post sobre", "escribe un guion", "help me tell this out loud", "finalize this draft", "escribe la historia", "redacta el post", "cuéntala en voz alta", "escreva a história", "me ajuda a contar em voz alta".
 ---
 
 # story-draft
@@ -29,6 +29,7 @@ Read:
 - Apply each chosen technique at a specific place and remember where.
 - Oral version: write it to be said (short sentences, spoken rhythm), then add delivery notes per beat (pause, gesture, where to look, timing) from the delivery techniques you opened.
 - No generic advice that no opened entry supports.
+- Never stop without a draft. If the material is thin or generic, write the best draft the facts allow, mark every missing fact as `[ask: ...]`, run the gates, and list the questions for the user after the piece. Only story-review gives a score without a draft.
 
 ## 3. Knowledge trace
 
@@ -52,8 +53,10 @@ Call both agents in parallel with the Agent tool:
 
 Gate 2 passes when the auditor verdict is PASS (all 4 checks), the reviewer score is at least 14/20, and no rubric criterion scores 0.
 
-If it fails: fix only what was flagged (the failing auditor checks; the reviewer's top problems and any criterion at 0), update the trace, and call both agents again. At most 2 fix rounds. Still failing after 2 rounds: deliver anyway with a section `## QA pending` listing each failing check or criterion with its location. Never hide a failure.
+If it fails: fix only what was flagged (the failing auditor checks; the reviewer's top problems and any criterion at 0), update the trace, and call both agents again, each with a fresh Agent call (not SendMessage; never run them in the background). At most 2 fix rounds. Still failing after 2 rounds: deliver anyway with a section `## QA pending` listing each failing check or criterion with its location. Never hide a failure.
 
 ## 5. Deliver
+
+Deliver in your reply. Do not write or overwrite files unless the user asked for a file.
 
 Give, in this order: the piece; the delivery notes (oral only); the knowledge trace; the final `Auditor verdict` block and `Reviewer score` line (when QA ran); `## QA pending` if any.

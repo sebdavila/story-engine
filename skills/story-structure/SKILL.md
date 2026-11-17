@@ -1,6 +1,6 @@
 ---
 name: story-structure
-description: Gives a story its shape. Picks the story type and framework from the story-engine knowledge base by objective and format, maps the beats, writes a knowledge trace and runs a QA check. Use when there is material without shape or a structure to check, e.g. "structure this story", "how should I order this", "turn these notes into a story arc", "check my outline", "estructura esta historia", "cómo ordeno esto", "arma el arco", "estruture esta história", "como organizo essa história".
+description: Gives a story its shape. Picks the story type and framework from the story-engine knowledge base by objective and format, maps the beats, writes a knowledge trace and runs a QA check. Use when there is material without shape or a structure to check, e.g. "structure this story", "make it a story", "turn my notes into a story", "make my pitch a story", "how should I order this", "turn these notes into a story arc", "check my outline", "estructura esta historia", "cómo ordeno esto", "arma el arco", "estruture esta história", "como organizo essa história".
 ---
 
 # story-structure
@@ -49,10 +49,12 @@ Skip this step only if the user said "no QA" (or "sin QA", "sem QA"), or the bri
 Call the Agent tool with `subagent_type: story-engine:knowledge-auditor`. In the prompt give: the brief, the beat map, the trace, and the absolute path of the plugin's `knowledge/` directory (this skill's base directory plus `../../knowledge`, resolved). The auditor replies starting with `Auditor verdict: PASS|FAIL` and four numbered checks.
 
 - PASS: deliver.
-- FAIL: fix only what the auditor flagged (re-open entries as needed), update the trace, call the auditor again. At most 2 fix rounds.
+- FAIL: fix only what the auditor flagged (re-open entries as needed), update the trace, call the auditor again with a fresh Agent call (not SendMessage; never run it in the background). At most 2 fix rounds.
 - Still failing after 2 rounds: deliver anyway, with a section `## QA pending` listing each failing check and its location. Never hide a failure.
 
 Show the user the final auditor verdict block under the trace.
+
+Deliver in your reply: the beat map, the trace and the verdict go in your answer. Do not write or overwrite files unless the user asked for a file.
 
 ## 6. Hand off
 
