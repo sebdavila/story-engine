@@ -1,6 +1,6 @@
 #!/bin/bash
 # Run eval cases against the working copy of the plugin.
-# Usage: bash evals/run.sh <round> [id ...]   (no ids = all cases; at most 3 run at once)
+# Usage: [PARALLEL=n] bash evals/run.sh <round> [id ...]   (no ids = all cases; PARALLEL default 3)
 set -euo pipefail
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 ROUND="$1"; shift
@@ -24,4 +24,4 @@ PY
   echo "case $id done"
 }
 export -f run_case; export REPO OUT
-echo $IDS | tr ' ' '\n' | xargs -P 3 -I{} bash -c 'run_case {}'
+echo $IDS | tr ' ' '\n' | xargs -P "${PARALLEL:-3}" -I{} bash -c 'run_case {}'

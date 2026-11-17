@@ -52,7 +52,7 @@ SKILL_NEEDLES = {
     "story-structure": TRACE_LABELS + ["story-engine:knowledge-auditor", "## QA pending",
                                        "no QA", "Goal map", "index.md", "at most 2 candidates",
                                        "## Formats", "story-draft", "Deliver in your reply",
-                                       "make it a story", "fresh Agent call"],
+                                       "make it a story", "fresh Agent call", "name only IDs you opened"],
     "story-draft": TRACE_LABELS + ["story-engine:knowledge-auditor", "story-engine:story-reviewer",
                                    "14/20", "## QA pending", "no QA", "techniques/delivery-",
                                    "story-structure", "index.md", "Deliver in your reply",

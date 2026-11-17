@@ -45,12 +45,22 @@ def facts(lines):
     files = index_files()
     final = next((l.get("result", "") for l in reversed(lines) if l.get("type") == "result"), "")
     uses = list(tool_uses(lines))
-    main_reads = [b["input"].get("file_path") or b["input"].get("path") or "" for parent, b in uses
-                  if parent is None and b["name"] in ("Read", "Grep")]
+    main_reads = [(b["input"].get("file_path") or b["input"].get("path") or "", b["input"].get("pattern", ""))
+                  for parent, b in uses if parent is None and b["name"] in ("Read", "Grep")]
+
+    def was_read(i):
+        target = "knowledge/" + files[i]
+        for path, pattern in main_reads:
+            if path.endswith(target):
+                return True
+            rel = path.split("knowledge", 1)[1].strip("/") if "knowledge" in path else None
+            if rel is not None and files[i].startswith(rel) and re.search(rf"\b{i}\b", pattern):
+                return True
+        return False
     trace = final.rsplit("Knowledge trace", 1)[1] if "Knowledge trace" in final else ""
     trace = re.split(r"Auditor verdict|Reviewer score|## QA pending", trace)[0]
     cited = sorted(set(ID.findall(trace)))
-    everything = final + "\n" + tool_results_text(lines)
+    everything = tool_results_text(lines) + "\n" + final
     verdicts = re.findall(r"Auditor verdict:\**\s*(PASS|FAIL)(?!\|)", everything)
     scores = [int(s) for s in re.findall(r"Reviewer score:\**\s*(\d+)\s*/\s*20", everything)]
     final_verdict = re.findall(r"Auditor verdict:\**\s*(PASS|FAIL)(?!\|)", final)
@@ -61,8 +71,7 @@ def facts(lines):
         "trace_present": "Knowledge trace" in final,
         "cited_ids": cited,
         "missing_ids": [i for i in cited if i not in files],
-        "unread_ids": [i for i in cited if i in files
-                       and not any(p.endswith("knowledge/" + files[i]) for p in main_reads)],
+        "unread_ids": [i for i in cited if i in files and not was_read(i)],
         "index_read_whole": any(b["name"] == "Read" and b["input"].get("file_path", "").endswith("knowledge/index.md")
                                 and not b["input"].get("limit") for _, b in uses),
         "auditor_verdicts": verdicts,
@@ -103,7 +112,14 @@ def demo():
     out = facts(lines)
     assert out["unread_ids"] == [], out["unread_ids"]
     assert out["auditor_verdicts"] == ["FAIL"], out["auditor_verdicts"]
-    lines[3]["message"]["content"][0]["input"].pop("limit")
+    # A Grep for the ID over a parent directory also counts; verdicts keep transcript order.
+    lines[2]["message"]["content"][0]["input"] = {"pattern": "^## (F100|F224) ", "path": "/x/knowledge"}
+    lines.insert(0, {"type": "user", "message": {"content": [
+        {"type": "tool_result", "content": "Auditor verdict: PASS"}]}})
+    out = facts(lines)
+    assert out["unread_ids"] == [], out["unread_ids"]
+    assert out["auditor_verdicts"] == ["PASS", "FAIL"], out["auditor_verdicts"]
+    lines[4]["message"]["content"][0]["input"].pop("limit")
     assert facts(lines)["index_read_whole"] is True
     print("selftest OK")
 

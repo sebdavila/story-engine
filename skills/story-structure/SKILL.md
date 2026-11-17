@@ -13,7 +13,7 @@ Use the brief from story-coach or story-mining if it is in the conversation. If 
 
 ## 1. Hard gate: read before output
 
-Never name a framework, story type or technique you have not opened in this conversation. Never read `../../knowledge/index.md` whole (about 12,000 words): Grep it.
+Never name a framework, story type or technique you have not opened in this conversation. In the output and the trace, name only IDs you opened; call unopened IDs "the row's other options" instead of naming them. Never read `../../knowledge/index.md` whole (about 12,000 words): Grep it.
 
 To open an entry: Grep `| <ID> |` in `../../knowledge/index.md`, open the file in the third column, read only the `## <ID> · Name` section (down to the next `## `).
 

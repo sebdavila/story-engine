@@ -15,7 +15,7 @@ Write the piece from a beat map and a knowledge trace. Answer in the user's lang
 
 ## 1. Hard gate: read before output
 
-Never name a technique or framework you have not opened in this conversation. Never read `../../knowledge/index.md` whole: Grep `| <ID> |` in it, open the file in the third column, read only that ID's section (`## <ID> · Name`, or the `- **<ID> · Name**` line for techniques).
+Never name a technique or framework you have not opened in this conversation. In the output and the trace, name only IDs you opened; call unopened IDs "the row's other options" instead of naming them. Never read `../../knowledge/index.md` whole: Grep `| <ID> |` in it, open the file in the third column, read only that ID's section (`## <ID> · Name`, or the `- **<ID> · Name**` line for techniques).
 
 Read:
 1. The framework and story type in the structure's trace (re-open them if they are not in this conversation).
