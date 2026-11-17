@@ -1,7 +1,7 @@
 # story-engine plugin (Plan 2) — design
 
 Date: 2026-11-17
-Status: approved in conversation, pending written review
+Status: approved (written review 2026-11-17)
 Parent spec: `2026-11-13-story-engine-design.md` (Architecture, Skills, Knowledge enforcement, Testing). This document adds what the parent left open and overrides it where they differ.
 
 ## Scope
