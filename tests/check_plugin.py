@@ -47,6 +47,8 @@ TRACE_LABELS = ["Knowledge trace", "- Read:", "- Framework:", "- Techniques:", "
 SKILL_NEEDLES = {
     "story-coach": BRIEF_LABELS + ["story-mining", "story-structure", "story-draft",
                                    "story-review", "When to use", "Goal map"],
+    "story-mining": ["../../knowledge/questions/", "founder-and-origin", "customer-and-buyer",
+                     "personal-memory", "story-structure", "index.md"],
 }
 KNOWLEDGE_REF = re.compile(r"\.\./\.\./knowledge/([\w./*<>-]*)")
 
