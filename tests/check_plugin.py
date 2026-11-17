@@ -55,6 +55,8 @@ SKILL_NEEDLES = {
     "story-draft": TRACE_LABELS + ["story-engine:knowledge-auditor", "story-engine:story-reviewer",
                                    "14/20", "## QA pending", "no QA", "techniques/delivery-",
                                    "story-structure", "index.md"],
+    "story-review": ["../../knowledge/rubric.md", "../../knowledge/questions/diagnose-draft.md",
+                     "## Mistakes", "story-draft", "Reviewer score:"],
 }
 KNOWLEDGE_REF = re.compile(r"\.\./\.\./knowledge/([\w./*<>-]*)")
 
