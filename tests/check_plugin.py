@@ -39,8 +39,33 @@ def check_manifests():
     assert market["plugins"][0]["source"] == "./"
 
 
+BRIEF_LABELS = ["- Audience:", "- Objective:", "- Domain:", "- Goal map row:",
+                "- Format:", "- Length:", "- Material:"]
+TRACE_LABELS = ["Knowledge trace", "- Read:", "- Framework:", "- Techniques:", "- Deviation:"]
+
+# Text each skill must contain. Tasks 3-7 add their skill here.
+SKILL_NEEDLES = {
+    "story-coach": BRIEF_LABELS + ["story-mining", "story-structure", "story-draft",
+                                   "story-review", "When to use", "Goal map"],
+}
+KNOWLEDGE_REF = re.compile(r"\.\./\.\./knowledge/([\w./*<>-]*)")
+
+
 def check_skills():
-    pass
+    for name, needles in SKILL_NEEDLES.items():
+        path = ROOT / "skills" / name / "SKILL.md"
+        meta = frontmatter(path)
+        assert meta.get("name") == name, path
+        assert 0 < len(meta.get("description", "")) <= 1024, f"{path}: description length"
+        text = path.read_text()
+        assert len(text.splitlines()) < 500, f"{path}: too long"
+        for needle in needles:
+            assert needle in text, f"{name} lacks {needle!r}"
+        for ref in KNOWLEDGE_REF.findall(text):
+            ref = ref.rstrip(".")
+            if "<" in ref or "*" in ref:
+                continue
+            assert (KNOWLEDGE / ref).exists(), f"{name}: missing knowledge/{ref}"
 
 
 AUDITOR_LABELS = [
@@ -77,7 +102,19 @@ def check_agents():
 
 
 def check_ids():
-    pass
+    known = index_ids()
+    questions = "".join(p.read_text() for p in (KNOWLEDGE / "questions").glob("*.md"))
+    files = list((ROOT / "skills").rglob("*.md")) + list((ROOT / "agents").glob("*.md"))
+    if (ROOT / "README.md").exists():
+        files.append(ROOT / "README.md")
+    for path in files:
+        text = path.read_text()
+        for found in re.findall(r"\b[FST]\d{3}\b", text):
+            assert found in known, f"{path}: unknown {found}"
+        for found in re.findall(r"\bR\d{2}\b", text):
+            assert 1 <= int(found[1:]) <= 10, f"{path}: unknown {found}"
+        for found in re.findall(r"\bQ\d{3}\b", text):
+            assert f"**{found}**" in questions, f"{path}: unknown {found}"
 
 
 def check_docs():
