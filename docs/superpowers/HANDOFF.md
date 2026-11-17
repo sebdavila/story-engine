@@ -22,7 +22,7 @@ Fichas: las 55 están hechas con Gemini (`../destilado/fichas-gemini/`).
 1. ~~Fidelidad~~ hecha.
 2. Revisión de Sebastián: `knowledge/frameworks/structure.md` y `knowledge/business.md`.
 3. Revisión final del plan (code reviewer sobre ambos repos) y cerrar el ledger.
-4. Antes de escalar a 55 libros, arreglar dos minors del ledger: regex de capítulo en `indice.py` (las fichas Hydrogen citan "(Part …)") y regex de comillas en `verificar.py` (falsos positivos, Ruling 12).
+4. ~~Minors antes de escalar~~ hechos 2026-11-17 (destilado 33ae8e7): `indice.py` quita "(Part …)", `verificar.py` empareja comillas por tramo. Falsos positivos del piloto: 6 a 3, todos ejemplos originales.
 5. Escalar: correr tareas 1–5 con las 55 fichas y crear `brand.md`, `personal.md`, `craft.md`, `data.md`, `science.md`.
 6. Plan 2: skills, agentes de QA, evals y publicación (repo público `sebdavila/story-engine`, pedir ok antes de publicar).
 
