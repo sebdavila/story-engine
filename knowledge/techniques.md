@@ -1,0 +1,133 @@
+# Techniques
+
+## Structure
+
+- **T001 · Draft from the turning point outward** — Write the turn or present decision first, add only the before it needs, write the ending last. Use it when a draft starts too early. (Guptara; Hall)
+- **T002 · Open on time and place** — Make the first sentence say when and where; give an exact date or hour only for life-changing events. Use it in any oral story. (Dolan)
+- **T003 · Zoom into one moment** — Swap a summary for one incident, flag it with a phrase like "I remember the morning", and slow the instant of change with posture and surroundings; two or three first-hand sentences can lift a strategy story (Callahan). Use it when a story stays abstract. (Hall; Callahan)
+- **T004 · Pulse-point sequencing** — Keep only the emotional peaks, link them with explicit transitions, and end by asking listeners about a mentor or challenge of their own. Use it to shorten long personal stories. (Forman)
+- **T005 · Callbacks** — Repeat an opening phrase or story at the close so the last line completes or flips the first; in a 20–30 minute talk, place one anchor story early and refer back to it (Dolan). Use it in talks. (Hall; Dolan)
+- **T006 · State the point, then tell the story** — Open with one sentence naming what the story is about, without revealing the twist. Use it when listeners might wonder why they are hearing it. (Callahan; Guptara)
+- **T007 · One core point** — Reduce the story or talk to one sentence of core truth and delete what does not serve it. Use it before drafting and cutting. (Guptara; Maxwell)
+- **T008 · Landing the point after the story** — Stop when the action ends; add at most one bridge sentence and a short "we" link to the business, never an explanation of the meaning. Bridges are required after non-work stories (Dolan); frame the meaning around the audience's reaction (Simmons); order the facts so listeners reach the conclusion themselves (Guptara). Use it on every ending. (Callahan; Dolan; Maxwell; Simmons; Guptara)
+- **T009 · When to reveal the conclusion** — Put the conclusion first by default; build up to it when it is contested or extreme. Use it when ordering any argument. (Edwards; Parikh; McKinsey)
+- **T010 · Interleave problems and solutions** — Solve each problem before raising the next. Use it in multi-part proposals. (Edwards)
+- **T011 · Suspense before the reveal** — Just before the climax, insert a brief tangent or silent pause so listeners guess the outcome. Use it for stories with a real payoff. (Simmons; Parikh)
+- **T012 · Subvert the expected** — Set up a stock character or familiar phrase, then flip it at the end. Use it to refresh a stale message. (Forman; Maxwell)
+- **T013 · End on an emotional spike** — After the main tension resolves, add one more jolt or uplift near the close. Use it in long talks. (Maxwell)
+- **T014 · Two-part tension-resolution sentence** — At turning points, say a sentence whose first half raises a risk and second half settles it. Use it at two or three key moments only. (Edwards)
+- **T015 · Adapt one story across audiences** — Write the full version once, then cut and swap details or emphasis per audience, never inventing facts; an external story's image can become an internal metaphor (Guptara). Use it when one story serves many rooms. (Forman; Dolan; Hall; Guptara)
+- **T016 · Three-sentence triage summary** — Open with three sentences: hardest challenge, best action, best result. Use it for award entries. (Edwards)
+
+## Finding
+
+- **T017 · Interview prompts that unlock specific stories** — Ask about a specific time, place, object or sensation, not why or how; ask reserved people what friends said, ask about odd desk objects, interview leaders in their hometown (Forman). Use it when mining stories from others. (Callahan; Hall; Forman)
+- **T018 · Story fishing in conversation** — Ask an open question with real curiosity, then stay silent until a story arrives; a sigh after "how's your day?" is the cue (Edwards). Use it to learn what matters to someone. (Edwards; Guptara)
+- **T019 · Story bank: capture, title, tag** — Record a story at once by voice memo or note, title it "The one where…", tag it, store it searchably. Use it as a standing habit. (Guptara; Hall; Callahan)
+- **T020 · Retell to remember** — Tell a new story aloud three times at spaced intervals, starting in low-stakes chats. Use it before a story must perform. (Guptara; Callahan)
+- **T021 · Find the core need** — Keep asking "because?", or picture what keeps the person awake, until you reach the need under the want; build on it. On your own goals, it keeps a why story from sounding selfish (Guptara). Use it before any persuasive story. (Simmons; Guptara; Hall)
+
+## Selection
+
+- **T022 · Write the audience outcome first** — Write one or two sentences on the state the audience should be in afterwards, not on what you will do. Use it at the start of every brief. (Parikh)
+- **T023 · Cast the teller who lived it** — Choose the needed stories first, then have the people who lived them tell them in their own words. Use it instead of spokespeople. (Hall; Forman)
+- **T024 · Keep the product in a supporting role** — Put the product in the background as catalyst, or draft without naming it; drop a prestigious client's name in passing inside a learning story (Guptara). Use it in sales and marketing stories. (Hall; Guptara)
+- **T025 · Drop the old-company label** — Tell old stories without naming the former employer. Use it in a new job. (Callahan)
+- **T026 · Turn small talk into story openings** — Answer greetings with an unexpected line, several facets of yourself or a small noticed thing, giving a thread to pull. Use it at first meetings. (Guptara)
+- **T027 · Prove the trait with a story** — Replace a claimed quality with a short story of where it formed; when hiring, ask for the example behind each claim. Use it in bios, pitches and interviews. (Livesay; Maxwell)
+- **T028 · Detail relevance filter** — Question every measurement, time and background fact; delete those that do not serve the point, but keep one odd detail for texture (F28). Use it when editing. (Dolan)
+
+## Data
+
+- **T029 · Full-sentence takeaway titles** — Title every slide with a full-sentence takeaway so titles alone tell the story; defend 8–12 word headlines (Edwards); never repeat a title, bridge two-slide arguments with ellipses, make the deck title specific and time-bound (McKinsey). Per deck, pick headline takeaway with neutral chart label (Edwards; McKinsey) or takeaway as chart title (Parikh). Use it on every deck. (Edwards; Parikh; McKinsey)
+- **T030 · Question-answer slide flow** — Make each slide raise one question the next title answers; say it or note it at the bottom if unclear, or use a bottom takeaway bar (Parikh). Use it to sequence a deck. (Edwards; McKinsey; Parikh)
+- **T031 · Agenda and progress signposting** — Show a short agenda mirroring the acts and mark the current section; choose a plain header with up to five mode-setting verbs (McKinsey) or a value-framed title (Parikh); colour-coded progress bars help (Edwards). Use it in talks over ten minutes. (Edwards; McKinsey; Parikh)
+- **T032 · Appendix and backup slides** — Move full tables, ruled-out options and detailed proof to an appendix or hidden slides; put the bullet summary at the end of a live deck (McKinsey). Use it when detail threatens the main line. (Edwards; McKinsey; Parikh)
+- **T033 · Replace the chart with the number** — If the headline or one figure proves the point, delete the chart. Use it as the first test on chart slides. (Edwards)
+- **T034 · Chart type by data shape** — Pick the simplest chart for the data's shape, defaulting to labelled bars with one highlighted; Edwards bans pies and 3D, McKinsey allows two-to-five-slice pies. Use it when building charts. (Edwards; McKinsey)
+- **T035 · Clean, accessible charts** — Remove gridlines, extra axes, decimals and legends, label directly, avoid red-green pairs. Use it before review. (McKinsey; Parikh)
+- **T036 · Highlight what proves the point** — Put contrast colour, a callout or numbered notes on the data behind the title; mute the rest. Use it on takeaway charts. (McKinsey; Parikh)
+- **T037 · Tables for precision** — Use a table only when exact values or mixed content matter, aligned and ordered by priority. Use it for lookup material. (McKinsey)
+- **T038 · Text chunking** — Turn three or more parallel points into labelled side-by-side blocks. Use it on text-heavy slides. (McKinsey)
+- **T039 · One representative quote** — Show one real quote reflecting the majority view. Use it for interview findings. (McKinsey)
+- **T040 · Slide density by audience** — Denser slides for small technical meetings, sparser as rooms grow, down to full-bleed images with legible text. Use it when one deck serves several settings. (McKinsey)
+- **T041 · Animation restraint** — Animate only a causal sequence or a point you will discuss for a minute or more, with quick plain transitions. Use it when tempted to animate. (McKinsey; Parikh)
+- **T042 · Story-friendly slides** — Behind a told story show one product image, a neutral placeholder or people in action, never bullets; avoid literal photos of the story's people (Hall); action photos cue the teller (Callahan). Use it when telling stories with slides. (Forman; Hall; Callahan)
+- **T043 · Narrative memo instead of slides** — Replace the deck with a prose memo read silently at the meeting's start. Use it for complex decisions. (Guptara)
+- **T044 · Emotional adjectives for data** — Introduce a figure with an honest feeling word like worrying or encouraging. Use it with analytical audiences. (Edwards)
+- **T045 · One person makes the number real** — Translate a statistic or strategy into one named person's experience, then link back to scale. Use it when numbers feel distant. (Edwards; Parikh)
+- **T046 · Bookend dramatic forecasts** — Follow an extreme projection at once with its assumptions, upsides and risks. Use it for bold forecasts. (McKinsey)
+- **T047 · Legal disclaimers on external decks** — Add confidentiality and "information, not advice" notices to external decks only. Use it before sending outside. (McKinsey)
+
+## Delivery
+
+- **T048 · Open with a story** — Start with a short story before credentials or agenda; say why you care instead of a joke, or mention a local landmark you visited with unfamiliar audiences (Maxwell). Use it in the first minute. (Hall; Dolan; Maxwell)
+- **T049 · Credibility introductions** — Have someone vouch for you or brief the host with exact credentials; with colleagues, reveal the one relevant experience they do not know; in team pitches each member endorses the next (Livesay). Use it whenever you are introduced. (Livesay; Parikh)
+- **T050 · Invisible storytelling** — Never announce a story or change voice; go from the point straight into a time or place marker. Use it with skeptical audiences. (Guptara; Callahan)
+- **T051 · Relive, don't perform** — Picture the scene while telling it so voice and gesture follow. Use it when delivery feels flat. (Callahan; Dolan; Simmons)
+- **T052 · Embody characters** — Shift voice, posture or face to play characters and show reactions instead of narrating them. Use it in stories with several people. (Dolan; Simmons)
+- **T053 · Deliberate pauses** — Hold one or two seconds of silence at the peak, between sections, before a reveal, after the final point and after asking for the sale; after a closing question, silently count three times instead of discounting (Livesay). Use it in every live delivery. (Dolan; Simmons; Parikh; Livesay)
+- **T054 · Voice and presence** — Speak slower and with more energy than feels natural; raise authority cues if junior, lower them if senior; if rushing, pause or ask a question. Use it in rehearsal and live. (Livesay; McKinsey; Parikh)
+- **T055 · Purposeful stage movement** — Open and close front-centre and map positions to time: forward for future (Maxwell), or right-centre-left for beginning-middle-end (Simmons); shift against the screen to reset attention (Edwards). Use it on stage. (Parikh; Maxwell; Simmons; Edwards)
+- **T056 · Eye contact** — Hold one person's gaze for a sentence or two; on video, look at the lens. Use it in every talk. (Parikh)
+- **T057 · Physical props** — Bring an object from the story and reveal it where it pays off; an everyday object can stand for the firm's competence (Forman). Use it when one object carries the story. (Hall; Simmons; Forman)
+- **T058 · Read it aloud** — Rehearse aloud several times, once to a colleague, cutting phrases you trip on. Use it before any spoken delivery. (Edwards; Dolan; Maxwell)
+- **T059 · Rehearse beats, not a script** — Prepare key beats and the core message, not memorized words. Use it to stay natural. (Hall; Callahan)
+- **T060 · Nerves and composure** — Settle with open posture, slow breathing and a recalled success; admit nerves mid-talk; before reacting to rejection, ask if it will matter in five years, and treat it as impersonal (Livesay). Use it before high stakes. (Livesay; Parikh; Simmons)
+- **T061 · Read the room and adapt** — Watch faces and cut, reorder or restart at confusion or boredom; when the room wants to skip ahead, cover prerequisites in a minute (Parikh). Use it in any live talk. (Forman; Simmons; Parikh)
+- **T062 · Engage early and by name** — Invite input in the first minutes, call on people by name, redirect questions to experts; in large rooms ask how they would react, then pause. Use it in meetings and workshops. (Edwards; McKinsey; Parikh)
+- **T063 · Remote presenting** — Say where to look on screen, warn people by name before asking them, frame head and shoulders at eye level. Use it on video calls. (Edwards; McKinsey; Parikh)
+- **T064 · Time discipline** — Use two-thirds of the slot, at most three minutes per slide, one or two minutes per oral story. Use it when planning a talk. (Livesay; McKinsey; Dolan)
+- **T065 · Q&A handling** — Restate each question, then answer, defer, take offline, log or redirect it; batch questions when interruptions threaten flow; replace "good question" with specific validation (Livesay). Use it in every Q&A. (Livesay; Parikh)
+- **T066 · Close on a summary** — End with the client's problems, why you fit and an invitation to proceed, never "any more questions?". Use it in sales meetings. (Livesay)
+- **T067 · Target emotional carriers** — Aim your most intense lines at one or two responsive people. Use it with large or reserved rooms. (Maxwell)
+- **T068 · Bold physical action** — Do something physically daring that embodies the theme, stopping before it discomforts. Use it rarely, in keynotes. (Maxwell)
+- **T069 · Level status to disarm a group** — Step out of formal authority, agree with the group's doubts, or invite a small shared silly act. Use it with resistant groups. (Maxwell; Simmons)
+- **T070 · Speaker memory aids** — Turn names and sequences into bizarre images along a familiar route. Use it to speak without notes. (Callahan; Maxwell)
+- **T071 · Curiosity teaser** — Drop a puzzling one-liner and wait for someone to ask. Use it in informal settings. (Simmons)
+
+## Persuasion
+
+- **T072 · Common ground and agreement checkpoints** — Open with facts the audience accepts and secure agreement step by step. Use it with skeptical decision-makers. (Edwards; McKinsey; Parikh)
+- **T073 · Voice the flaws in your own proposal** — Name your recommendation's weaknesses or side effects first, with the workaround, calmly; present easier actions before harder ones (McKinsey). Use it when objections are predictable. (Edwards; McKinsey; Maxwell)
+- **T074 · Towards and away-from framing** — Pair the gain with explicit safety reassurance. Use it with mixed risk appetites. (Edwards)
+- **T075 · Reminder framing** — Present a new insight as one the audience would have seen with the same data. Use it with senior experts. (Edwards)
+- **T076 · Leave room for co-creation** — Leave one element unfinished or hand over a prop, then stop talking. Use it when buy-in beats polish. (Edwards; Guptara)
+- **T077 · Future pacing and what-if** — Describe the buyer's life after purchase, or open with "what if…", and ask if that is where they want to go. Use it late in a sale. (Livesay)
+- **T078 · Lateral third option** — When rivals own the obvious move, create an indirect third option. Use it in crowded pitches. (Livesay)
+- **T079 · Mirror the prospect's values** — Quote the prospect's stated values and show your culture shares them. Use it in proposals. (Livesay)
+- **T080 · Executive co-presenter** — Bring a senior executive to reach the client's top level and approve custom terms on the spot. Use it for large deals. (Livesay)
+- **T081 · Value beyond ROI** — Justify a premium with three returns: investment, attention earned, insight into the client's customers. Use it when price is the objection. (Livesay)
+- **T082 · Reading the listener nonverbally** — Read posture, hands, vocal melody, facial tension and gaze while softening your own eyes; practise in low-stakes meetings and adapt gaze to culture. Use it in discovery calls. (Maxwell)
+- **T083 · Pushback and conflict** — Acknowledge the objector and add your view; park entrenched disputes; refocus clashing parties on the shared goal; adopt a detractor's label until it becomes a joke (Simmons). Use it when meetings stall. (Livesay; Parikh; Simmons)
+- **T084 · Indirect correction through a story** — Tell a brief story, fable or attributed saying whose lesson lets someone change course without losing face. Use it with peers or seniors. (Guptara; Forman; Simmons)
+- **T085 · Point-of-view reversal** — Retell a familiar conflict from the other side. Use it to break tunnel vision. (Simmons)
+- **T086 · Mere-exposure story series** — Win a skeptic with several small stories across casual encounters. Use it for slow internal persuasion. (Callahan)
+- **T087 · Controlled urgency** — State a concrete deadline or threat, sparingly. Use it on complacent rooms. (Parikh)
+- **T088 · Heritage-aligned change** — Frame disruptive change as the next step of the workforce's proudest tradition. Use it against change resistance. (Maxwell)
+- **T089 · Archetype-targeted product cues** — Match imagery to the drive served: speed for performance goods, safety for family goods. Use it in product creative. (Maxwell)
+- **T090 · Self-deprecation and admitted imperfection** — Add a light joke at your expense or admit a flaw, never sexist, racist, political or insider jokes (Dolan). Use it in success stories or cold rooms. (Livesay; Dolan; Parikh; Simmons)
+- **T091 · Audience-centered wording** — Follow each feature with what it means for the listener; rewrite "we" and neutral articles as "you", "your", "our". Use it in sales drafts. (Livesay; Parikh)
+- **T092 · Memorable message devices** — Use an acronym spelling the intended feeling or a short repeated rhyme. Use it for messages people must recall. (Maxwell)
+
+## Brand
+
+- **T093 · Remarkable acts others retell** — Do something visible and unexpected that embodies the principle: a leader's act (Callahan) or a built-in customer perk (Livesay). Use it to spread values by word of mouth. (Callahan; Livesay)
+- **T094 · Let people experience the operation firsthand** — Bring journalists, customers or designers where the real work happens. Use it for brand credibility. (Forman; Maxwell)
+- **T095 · Objects that carry stories** — Place objects or images at work that prompt people to ask for the story behind them. Use it to keep culture stories alive. (Callahan; Maxwell; Simmons)
+- **T096 · Put stories where attention waits** — Publish stories in idle spaces such as package inserts, autoresponders or hold messages. Use it to reach customers cheaply. (Hall)
+- **T097 · Pair written stories with a real photo** — Run a personal blog or newsletter story beside a genuine personal photo. Use it for written leadership stories. (Dolan)
+- **T098 · Turn inconveniences into word of mouth** — Use warm, unscripted service and referrals to recast a drawback as a charming perk. Use it when a flaw cannot be fixed soon. (Maxwell)
+
+## Review
+
+- **T099 · Vividness ladder: describe, see, feel** — Grade the draft as describing, showing or making listeners feel; climb by asking follow-up questions and re-enacting the key moment. Use it on flat stories. (Callahan)
+- **T100 · Show emotion through action** — Replace emotion words and stated conclusions with actions, reactions and dialogue. Use it on lines that tell listeners what to feel. (Guptara; Callahan)
+- **T101 · Five-sense details** — Add early what could be heard, smelled, touched or tasted, as if for someone who cannot see; imitate sounds aloud (Simmons). Use it on thin scenes. (Forman; Parikh; Simmons)
+- **T102 · One precise detail** — Swap stacked adjectives or stated traits for one exact word or small behaviour. Use it on character descriptions. (Guptara; Forman)
+- **T103 · Audience-familiar details** — Include objects and quirks listeners know from their own lives. Use it when their world differs from the teller's. (Hall; Simmons)
+- **T104 · Plain everyday words** — Replace jargon and euphemisms with home words, including plain feelings like scared. Use it in the final edit. (Guptara; Dolan)
+- **T105 · Naming characters** — Name only central characters, use pseudonyms for privacy, admit unknown names; Dolan changes names silently, Callahan declares the pseudonym in case studies. Use it when real people appear. (Dolan; Callahan)
+- **T106 · Direct dialogue** — Quote what characters said instead of summarizing. Use it at the turn. (Parikh)
+- **T107 · Ethics and authenticity check** — Ask whether listeners would resent how the story was used and whether its subjects would feel misrepresented, ideally by reading it to them. Use it before external use. (Callahan; Forman)
+- **T108 · One author owns the draft** — After group brainstorming, give one person sole control of the document. Use it when several people write a pitch. (Edwards)
