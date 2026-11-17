@@ -43,8 +43,37 @@ def check_skills():
     pass
 
 
+AUDITOR_LABELS = [
+    "Auditor verdict:",
+    "1. IDs exist:",
+    "2. Framework steps present:",
+    "3. Techniques placed:",
+    "4. Framework fits Goal map:",
+    "Ungrounded advice:",
+    "no knowledge trace",
+]
+
+
 def check_agents():
-    pass
+    for stem in ("knowledge-auditor", "story-reviewer"):
+        path = ROOT / "agents" / f"{stem}.md"
+        meta = frontmatter(path)
+        assert meta.get("name") == stem, path
+        assert meta.get("description"), path
+    auditor = ROOT / "agents/knowledge-auditor.md"
+    meta = frontmatter(auditor)
+    assert meta.get("model") == "sonnet"
+    assert meta.get("tools") == "Read, Grep, Glob"
+    body = auditor.read_text()
+    for label in AUDITOR_LABELS:
+        assert label in body, f"auditor lacks {label!r}"
+    reviewer = ROOT / "agents/story-reviewer.md"
+    meta = frontmatter(reviewer)
+    assert "model" not in meta
+    assert meta.get("tools") == "Read"
+    body = reviewer.read_text()
+    for needle in ("Reviewer score:", "rubric.md", "only `rubric.md`"):
+        assert needle in body, f"reviewer lacks {needle!r}"
 
 
 def check_ids():
