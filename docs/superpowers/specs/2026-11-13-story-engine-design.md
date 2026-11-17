@@ -42,7 +42,7 @@ story-engine/
 | Skill | Triggers on | Does | Hands off to |
 |---|---|---|---|
 | story-coach | vague storytelling requests | builds the brief; asks only what is missing; routes | the skill that fits the brief |
-| story-mining | "I don't have a story", raw material, no story yet | mining questions from `questions.md`; lists candidate stories; picks with the brief | story-structure |
+| story-mining | "I don't have a story", raw material, no story yet | mining questions from `questions/`; lists candidate stories; picks with the brief | story-structure |
 | story-structure | material without shape | picks story type and framework by objective and format; maps beats | QA gate 1, then story-draft |
 | story-draft | structure ready, or "write/tell this story" | writes the text or the oral version, applying techniques | QA gate 2 |
 | story-review | an existing text or talk to evaluate | scores with `rubric.md`; top fixes | story-draft, if asked |
