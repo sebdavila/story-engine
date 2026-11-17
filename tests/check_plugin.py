@@ -127,8 +127,30 @@ def check_ids():
             assert f"**{found}**" in questions, f"{path}: unknown {found}"
 
 
+PRIVATE = re.compile(r"/Users/|destilado|fichas-gemini|[\w.+-]+@[\w-]+\.[\w.]+")
+
+
 def check_docs():
-    pass
+    sources = (ROOT / "SOURCES.md").read_text()
+    rows = [l for l in sources.splitlines() if l.startswith("| ") and not l.startswith("| Title")]
+    assert len(rows) == 55, f"SOURCES.md has {len(rows)} rows"
+    license_text = (ROOT / "LICENSE").read_text()
+    assert license_text.startswith("MIT License") and "sebdavila" in license_text
+    readme = (ROOT / "README.md").read_text()
+    for needle in ("story-coach", "story-mining", "story-structure", "story-draft", "story-review",
+                   "knowledge-auditor", "story-reviewer", "no QA",
+                   "/plugin marketplace add sebdavila/story-engine",
+                   "/plugin install story-engine@story-engine"):
+        assert needle in readme, f"README lacks {needle!r}"
+    import subprocess
+    tracked = subprocess.run(["git", "ls-files"], cwd=ROOT, capture_output=True, text=True).stdout.split()
+    for name in tracked + ["README.md", "SOURCES.md", "LICENSE"]:
+        if name.startswith("docs/superpowers/") or name == "tests/check_plugin.py":
+            continue
+        path = ROOT / name
+        if path.exists():
+            found = PRIVATE.search(path.read_text(errors="ignore"))
+            assert not found, f"{name}: private text {found.group(0)!r}"
 
 
 if __name__ == "__main__":
