@@ -29,8 +29,10 @@ story-engine/
     knowledge-auditor.md
     story-reviewer.md
   knowledge/
-    frameworks.md  techniques.md  story-types.md  questions.md  rubric.md
-    business.md  brand.md  personal.md  craft.md  data.md  science.md
+    rubric.md
+    frameworks/<family>.md  story-types/<family>.md  techniques/<family>.md
+    questions/<group>.md
+    domains/  business sales leadership marketing brand personal oral craft data science (.md)
   evals/
   README.md  SOURCES.md  LICENSE (MIT)
 ```
@@ -49,7 +51,7 @@ Each skill can also be triggered directly when the request is explicit.
 
 **Brief** (kept in the conversation, not in files): audience; what they should think, feel, know or do; format; length; available material; domain.
 
-**Knowledge loading:** each skill reads only the `knowledge/` files the brief calls for (for example, a sales pitch reads `business.md` and `frameworks.md`). Skills reference these files by path relative to the skill's base directory (`../../knowledge/...`); verify during implementation that this resolves when the plugin is installed.
+**Knowledge loading:** each skill reads only the `knowledge/` files the brief calls for (for example, a sales pitch reads `domains/sales.md` and the `frameworks/` family files it cites). Skills reference these files by path relative to the skill's base directory (`../../knowledge/...`); verify during implementation that this resolves when the plugin is installed.
 
 ### Knowledge enforcement
 
@@ -65,7 +67,7 @@ Each skill can also be triggered directly when the request is explicit.
 
 | Agent | Input | Checks | Returns |
 |---|---|---|---|
-| knowledge-auditor | brief, output, trace | opens the cited files; every framework step is present in the output; every cited technique sits where the trace says; the framework choice fits the brief per the selection rules; flags generic advice not grounded in `knowledge/` | pass/fail per check, with location |
+| knowledge-auditor | brief, output, trace | opens the cited files; every framework step is present in the output; every cited technique sits where the trace says; the framework choice fits the brief per the domain guide's Goal map; flags generic advice not grounded in `knowledge/` | pass/fail per check, with location |
 | story-reviewer | brief and story only | scores with `rubric.md` (character, emotion, moment, detail, tension, ending, brief objective) | score, top 3 problems, fix for each |
 
 **Gates**
@@ -81,17 +83,17 @@ Lives in `../destilado/` next to the repo. Books and cards never enter the repo.
 
 1. **Book cards:** Gemini (Antigravity CLI, `gemini-4-argon-high`) runs `prompt-ficha.md` on each book through `run-gemini.sh` (5 at a time). One card per book in `fichas-gemini/`: frameworks, techniques, story types, questions, principles, mistakes, exercises, distinct contribution, quotes, each with a chapter reference. Pilot validated on 2 books against Claude-made cards: same fidelity, richer detail.
 2. **Step A — index** (Python script, no model): frontmatter and framework headings into `indice.md`.
-3. **Step B — clusters** (1 Claude agent): reads only the Frameworks, Story types and Techniques sections from all cards; merges duplicates under canonical names with stable IDs (F01…, T01…), sources, and differences worth keeping, into `clusters.md`.
-4. **Step C — knowledge files** (1 Claude agent per file, in parallel): domain files from the cards tagged with that domain plus `clusters.md`; shared files from clusters, questions, principles and mistakes.
+3. **Step B — clusters** (map-reduce): one agent per lot of 11 cards writes candidate clusters from the Frameworks, Story types and Techniques sections (`prompts/lote.md`); then one merge agent per kind assigns final IDs F001/S001/T001 (`prompts/fusion.md`) into `clusters.md`, with canonical names, sources and differences worth keeping. `fuentes.py` then bundles the card text behind each cluster.
+4. **Step C — knowledge files** (1 Claude agent per file): writers work from those bundles, never from cluster summaries alone; domain guides from the Principles and Mistakes of the cards tagged with that domain plus `clusters.md`. `verificar.py` requires every cluster ID to have exactly one home.
 5. **Step D — verification** (agent): every entry traces to at least one card; every card framework is merged or listed in `drop-log.md` with a reason; copyright rules hold.
 
 **Knowledge entry format:** ID, canonical name, also known as, sources, use when, avoid when, steps, common mistakes, short original example.
 
-**Budget:** about 5K tokens per knowledge file. Split `frameworks.md` by family if it grows past that.
+**Budget:** about 5K tokens per knowledge file. Split every shared file by family (questions by group); a writer that cannot fit its clusters stops and the controller splits the file further.
 
 **Copyright:** own words only, attribution as "(Hall; Davis)", no copied examples, no quotes in the repo. `SOURCES.md` lists all 55 books.
 
-**Rollout:** run steps A–D on the 11 business books first (`business.md` plus a first `frameworks.md`). Review, then extend to all 55.
+**Rollout:** run steps A–D on the 11 business books first (`business.md` plus a first `frameworks.md`). Review, then extend to all 55. Pilot done 2026-11-17; pre-scale fixes in `plans/2026-11-17-pre-scale-fixes.md`.
 
 ## Testing
 

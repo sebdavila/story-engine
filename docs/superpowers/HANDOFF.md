@@ -21,16 +21,8 @@ Fichas: las 55 están hechas con Gemini (`../destilado/fichas-gemini/`).
 
 Piloto cerrado 2026-11-17: Sebastián aprobó structure.md y business.md; revisión final "con arreglos" (los arreglos bloquean el escalado, no el piloto).
 
-1. Antes de escalar a 55 fichas (de la revisión final; 614 encabezados de framework vs 101 del piloto):
-   - IDs de 3 dígitos para F y S (`F001`): hoy `ID_RE` en `verificar.py` es `F\d\d` y F100+ pasaría sin verificar. Cambiar regex, prompt de clusters y test.
-   - Chequeo inverso en `ids()`: cada ID de clusters definido exactamente una vez en knowledge/ (hoy un cluster recortado por presupuesto pasa en silencio).
-   - Partir techniques, story-types y questions por familia, como frameworks (Ruling 8); ya están al límite de 5K tokens.
-   - Clustering por lotes (secciones.md sería ~230k palabras) y `coverage()` también para Story types y Techniques.
-   - `--allow FILE` para falsos positivos aceptados de comillas, y `--books` obligatorio con `--knowledge`.
-   - Regla en el prompt de redactores: cada paso debe salir de una ficha. Muestra de fidelidad por archivo, no 20 en total.
-   - Parametrizar prompts (hoy dicen `piloto/` y "11 books").
-   - Decidir dónde van oral, leadership, marketing y sales (22–31 fichas cada uno).
-2. Escalar: tareas 1–5 con las 55 fichas; crear `brand.md`, `personal.md`, `craft.md`, `data.md`, `science.md` (ojo: nombres chocan con `frameworks/data.md` y `frameworks/brand.md` en la salida del verificador).
+1. ~~Antes de escalar~~ hecho 2026-11-17: plan `plans/2026-11-17-pre-scale-fixes.md`, destilado f4c763d..ae6e814. IDs de 3 dígitos, un hogar por ID, cobertura de los tres tipos (incluye sub-ítems en cursiva), `--allow`, `--books` obligatorio, `fuentes.py`, prompts map-reduce (`lote.md`, `fusion.md`), redactores desde fuentes, fidelidad por archivo. Guías de dominio: una por dominio en `knowledge/domains/` (10).
+2. Escalar (siguiente plan): `indice.py` por lote (5 × 11 fichas, orden alfabético) y en total; `lote.md` ×5; `fusion.md` ×3 (F, S, T); concatenar en `escala/clusters.md` y `escala/drop-log.md`; `fuentes.py`; redactores (Sonnet, máximo 4 en paralelo); `verificar.py` con `--books ../md` y `--allow escala/allow.md`; fidelidad por archivo. Los archivos del piloto en `knowledge/` se reemplazan.
 3. Después del escalado: `knowledge/index.md` (ID → archivo) generado por script, y congelar IDs (solo agregar).
 4. Plan 2: skills, agentes de QA, evals y publicación (repo público `sebdavila/story-engine`, pedir ok antes de publicar). Antes de publicar: excluir o limpiar `docs/superpowers/` (rutas privadas y prompts de destilado) y reescribir los ejemplos F21 y F10 (repiten ejemplos de Hall y Parikh).
 
