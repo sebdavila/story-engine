@@ -54,3 +54,12 @@ La revisión final (Opus) no encontró críticos. Corregidos los 3 importantes (
 - README:41 dice que los agentes "never see how it was made"; falso para el auditor.
 - Caso 15 se saltó story-structure; la eval no lo exige.
 - `check.py` sin argumento falla con IndexError.
+
+## Plan 3: publicado 2026-11-17
+
+- Repo público: https://github.com/sebdavila/story-engine (rama `main`).
+- Se publica desde la rama local `public`: un commit limpio sin `docs/superpowers/` ni historial privado, autor `sebdavila` con email noreply de GitHub. `main` local conserva el historial completo y no se empuja.
+- Para publicar cambios: reconstruir `public` desde `main` sin `docs/superpowers/` (mismo método: índice temporal, `git rm --cached docs/superpowers`, `commit-tree` con padre `public`) y `git push origin public:main`. Nunca `git push origin main`.
+- F100 Common mistakes: parafrasea el ejemplo de Parikh con atribución; se dejó así (knowledge/ congelado).
+- LICENSE: MIT, "Copyright (c) 2026 sebdavila".
+- Instalación desde GitHub probada: el caché trae `knowledge/` junto a `skills/`, sin `docs/`.
