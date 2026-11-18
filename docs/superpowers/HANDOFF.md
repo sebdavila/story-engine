@@ -40,3 +40,17 @@ Piloto cerrado 2026-11-17: Sebastián aprobó structure.md y business.md; revisi
 
 - Cupo: 7 agentes Opus en paralelo agotaron el límite de 5 horas. Para escalar, usar Sonnet en redactores o menos en paralelo.
 - `../destilado/` y `../md/` nunca van al repo público.
+
+## Menores pendientes (revisión final del Plan 2)
+
+La revisión final (Opus) no encontró críticos. Corregidos los 3 importantes (commit 7c62a47): patrón del índice sin escapar, lecturas mal contadas en `evals/check.py`, ruta "ninguna fila del Goal map" sin salida (corregida en texto, sin eval que la ejercite). Quedan, sin arreglar:
+
+- Etiquetas fuera del trace (`## QA pending`, `Auditor verdict`, `Reviewer score`, `[ask: ...]`) no fijadas en inglés; el modelo a veces las traduce y `check.py` no las ve.
+- story-draft cambia la pieza después de la última ronda de QA; el veredicto mostrado describe otra versión.
+- `check.py` solo verifica IDs dentro del trace (no los de mining, review o QA pending).
+- Plan 3: probar la instalación desde git después del push.
+- Evals: desinstalar el plugin de usuario antes de correrlas (se carga doble con `--plugin-dir`); los plugins personales de la máquina influyen en el enrutamiento.
+- story-review: el bloque de brief contradice "No preamble"; poner el brief después de la línea del puntaje.
+- README:41 dice que los agentes "never see how it was made"; falso para el auditor.
+- Caso 15 se saltó story-structure; la eval no lo exige.
+- `check.py` sin argumento falla con IndexError.
