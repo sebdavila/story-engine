@@ -1,0 +1,16 @@
+{
+  "name": "story-engine",
+  "owner": {
+    "name": "sebdavila"
+  },
+  "metadata": {
+    "description": "Storytelling plugin grounded in 55 books."
+  },
+  "plugins": [
+    {
+      "name": "story-engine",
+      "source": "./",
+      "description": "Storytelling process skills grounded in 55 books, with QA agents."
+    }
+  ]
+}

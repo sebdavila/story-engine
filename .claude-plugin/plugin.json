@@ -1,0 +1,8 @@
+{
+  "name": "story-engine",
+  "version": "0.1.0",
+  "description": "Find, structure, write, deliver and review stories for business, brand, personal and data contexts, grounded in a knowledge base distilled from 55 storytelling books and checked by QA agents.",
+  "author": { "name": "sebdavila" },
+  "license": "MIT",
+  "keywords": ["storytelling", "writing", "pitch", "brand", "presentation"]
+}

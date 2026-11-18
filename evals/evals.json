@@ -1,0 +1,230 @@
+{
+  "skill_name": "story-engine",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Necesito contar una historia en la reunión del lunes, ¿me ayudas?",
+      "expected_output": "story-coach triggers, asks for the missing brief fields one question at a time, names no framework.",
+      "files": [],
+      "expectations": [
+        "story-coach is triggered",
+        "The reply asks at most one question in this turn (three in total allowed across turns)",
+        "The reply names no framework, story type or technique ID",
+        "The answer to the user is in Spanish",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Review this LinkedIn post before I publish it, is it working? It's in brand-post-draft.md.",
+      "expected_output": "story-review scores R01-R10 and gives 3 grounded fixes.",
+      "files": [
+        "brand-post-draft.md"
+      ],
+      "expectations": [
+        "story-review is triggered",
+        "The reply starts with a Reviewer score out of 20 and all ten R scores",
+        "There are 3 fixes and each cites a Q ID, a domain Mistakes line, or an opened F/S/T ID",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Here are my notes for Friday's investor pitch, make it a story: we're Tidewell, we make sensors that tell oyster farmers when water temperature will kill their stock; 40 farms in Maine use us; last August one farm, Hollis Point, moved 80,000 oysters to deeper water 2 days before a heat spike and lost none, while the farm next door lost a third; we want $2M to reach the Gulf Coast.",
+      "expected_output": "Ambiguous between structure and draft: a structure (with trace) must exist before any draft text.",
+      "files": [],
+      "expectations": [
+        "story-structure is triggered (directly or via story-coach) before any draft text is written",
+        "If a draft is produced, the structure's knowledge trace appears before it or the draft has its own trace",
+        "A knowledge trace is present in the final output",
+        "No cited ID is missing from index.md (missing_ids empty)",
+        "Every cited ID's file was read in the main thread (unread_ids empty)",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "Mi hermano se casa en junio y me pidieron dar unas palabras en la boda, pero no tengo ninguna historia. Crecimos en Valparaíso, él es cuatro años menor, de chicos compartíamos pieza y una vez se perdió en el cerro Alegre.",
+      "expected_output": "story-mining asks mining questions or lists 3-5 candidate stories from the given material.",
+      "files": [],
+      "expectations": [
+        "story-mining is triggered",
+        "The reply lists 3 to 5 candidate stories, or asks at most 5 mining questions",
+        "Any Q ID or S ID named exists in knowledge/",
+        "The answer to the user is in Spanish",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 5,
+      "prompt": "I'm pitching our logistics SaaS to a CFO next week and I don't have a customer story yet. We cut freight invoice errors for mid-size distributors; our biggest client is a lumber distributor in Ohio.",
+      "expected_output": "story-mining mines for a customer proof story tied to the sales Goal map row.",
+      "files": [],
+      "expectations": [
+        "story-mining is triggered",
+        "Candidates or questions aim at a specific customer incident, not opinions",
+        "The chosen story type comes from the sales Goal map row (S120, S121 or S164) or the reply says why not",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 6,
+      "prompt": "Estruture a história de origem da nossa marca de café: minha avó Zilda torrava café numa panela de ferro em Minas; em 2019 eu perdi o emprego e comecei a vender o café dela na feira de Pinheiros; hoje são três lojas em São Paulo.",
+      "expected_output": "story-structure builds a beat map from the brand Goal map, trace and auditor verdict.",
+      "files": [],
+      "expectations": [
+        "story-structure is triggered",
+        "The framework is in the matching brand.md Goal map row, or the trace's Deviation line justifies it",
+        "An auditor verdict block is present (gate 1 ran)",
+        "A knowledge trace is present in the final output",
+        "No cited ID is missing from index.md (missing_ids empty)",
+        "Every cited ID's file was read in the main thread (unread_ids empty)",
+        "The answer to the user is in Portuguese",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 7,
+      "prompt": "I teach statistics to 12-year-olds. Structure a short story I can tell in class so they finally understand what a median is and why it beats the average when one number is huge.",
+      "expected_output": "story-structure: the framework comes from one domain guide's Goal map row (e.g. science, 'Make a message stick in memory'), or, if no row fits, the trace says so and at most 2 index candidates were opened.",
+      "files": [],
+      "expectations": [
+        "story-structure is triggered",
+        "The framework is in one domain guide's Goal map row whose Goal matches teaching a concept to children, or the Deviation line says no row fit and names the keywords searched",
+        "If no Goal map row was used, at most 2 candidate frameworks from index.md were considered; if a row was used, only that row's frameworks were considered",
+        "A knowledge trace is present in the final output",
+        "No cited ID is missing from index.md (missing_ids empty)",
+        "Every cited ID's file was read in the main thread (unread_ids empty)",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 8,
+      "prompt": "Write the pitch from this structure: pitch-structure.md. I'll say it out loud in her office.",
+      "expected_output": "story-draft writes the spoken pitch with delivery notes, trace, and gate 2.",
+      "files": [
+        "pitch-structure.md"
+      ],
+      "expectations": [
+        "story-draft is triggered",
+        "The pitch keeps all 6 F224 steps",
+        "Both an Auditor verdict and a Reviewer score are present (gate 2 ran)",
+        "A knowledge trace is present in the final output",
+        "No cited ID is missing from index.md (missing_ids empty)",
+        "Every cited ID's file was read in the main thread (unread_ids empty)",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 9,
+      "prompt": "Help me tell this story out loud at our team offsite: on my first day as a nurse, 19 years ago, I froze during a code blue and an older nurse, Agnes, put my hands on the patient's chest and counted with me. I want the new hires to know freezing is normal and that they should ask for help.",
+      "expected_output": "story-structure then story-draft produce an oral version with delivery notes.",
+      "files": [],
+      "expectations": [
+        "story-structure runs before story-draft",
+        "The output includes delivery notes",
+        "The trace cites at least one technique from a techniques/delivery-a.md or delivery-b.md file",
+        "A knowledge trace is present in the final output",
+        "No cited ID is missing from index.md (missing_ids empty)",
+        "Every cited ID's file was read in the main thread (unread_ids empty)",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 10,
+      "prompt": "Score this data talk before my monthly review: data-talk-draft.md",
+      "expected_output": "story-review scores the data talk and gives grounded fixes (expected weak R01, R02, R06).",
+      "files": [
+        "data-talk-draft.md"
+      ],
+      "expectations": [
+        "story-review is triggered",
+        "The reply starts with a Reviewer score out of 20 and all ten R scores",
+        "There are 3 fixes and each cites a Q ID, a domain Mistakes line, or an opened F/S/T ID",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 11,
+      "prompt": "Is this founder story good enough for our About page? generic-story.md",
+      "expected_output": "story-review scores the generic story low.",
+      "files": [
+        "generic-story.md"
+      ],
+      "expectations": [
+        "story-review is triggered",
+        "The Reviewer score is below 14/20",
+        "R01, R02 and R03 each score 0 or 1",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 12,
+      "prompt": "Finalize this draft for my all-hands: untraced-draft.md",
+      "expected_output": "The supplied draft has no trace; the plugin must add one (via story-structure) before delivering.",
+      "files": [
+        "untraced-draft.md"
+      ],
+      "expectations": [
+        "story-draft is triggered",
+        "story-structure runs (or a structure with trace is built) before delivery",
+        "A knowledge trace is present in the final output",
+        "No cited ID is missing from index.md (missing_ids empty)",
+        "Every cited ID's file was read in the main thread (unread_ids empty)",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 13,
+      "prompt": "Check and finalize this structure for my renewal call: misapplied-structure.md",
+      "expected_output": "Seeded errors: F224 is not in the 'Defuse an unspoken objection' row (F237, F233, F232) and the beats skip F224 step 4. The auditor must FAIL on check 2 or 4; a fix round runs or QA pending lists it.",
+      "files": [
+        "misapplied-structure.md"
+      ],
+      "expectations": [
+        "story-structure is triggered",
+        "The first auditor verdict is FAIL (auditor_verdicts[0] == FAIL)",
+        "The failure names the row mismatch or the missing F224 step 4",
+        "The final output either fixes it (framework from the row or a justified deviation) or lists it under ## QA pending",
+        "A knowledge trace is present in the final output",
+        "No cited ID is missing from index.md (missing_ids empty)",
+        "Every cited ID's file was read in the main thread (unread_ids empty)",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 14,
+      "prompt": "Finalize this founder story for our About page: generic-story.md",
+      "expected_output": "The reviewer scores the generic text below 14; a fix round runs; the final has a score of 14 or more or a QA pending section.",
+      "files": [
+        "generic-story.md"
+      ],
+      "expectations": [
+        "story-draft is triggered",
+        "The first reviewer score is below 14 (reviewer_scores[0] < 14)",
+        "A fix round runs (more than one reviewer score)",
+        "The final output has a Reviewer score of at least 14 or a ## QA pending section",
+        "Facts not in the original are marked [ask: ...], not invented",
+        "A knowledge trace is present in the final output",
+        "No cited ID is missing from index.md (missing_ids empty)",
+        "Every cited ID's file was read in the main thread (unread_ids empty)",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    },
+    {
+      "id": 15,
+      "prompt": "Escríbeme un post corto de LinkedIn para nuestra panadería, Pan de Lucía, sobre el día que se cortó la luz a las 4 a.m. y horneamos igual con el horno a leña viejo. Sin QA, es algo rápido.",
+      "expected_output": "'Sin QA' skips both gates; the trace is still written.",
+      "files": [],
+      "expectations": [
+        "story-draft is triggered",
+        "No knowledge-auditor or story-reviewer agent is called (agents list empty)",
+        "A knowledge trace is present in the final output",
+        "No cited ID is missing from index.md (missing_ids empty)",
+        "Every cited ID's file was read in the main thread (unread_ids empty)",
+        "The answer to the user is in Spanish",
+        "knowledge/index.md is never read whole (facts.index_read_whole is false)"
+      ]
+    }
+  ]
+}
