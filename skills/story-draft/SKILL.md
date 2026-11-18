@@ -15,11 +15,11 @@ Write the piece from a beat map and a knowledge trace. Answer in the user's lang
 
 ## 1. Hard gate: read before output
 
-Never name a technique or framework you have not opened in this conversation. In the output and the trace, name only IDs you opened; call unopened IDs "the row's other options" instead of naming them. Never read `../../knowledge/index.md` whole: Grep `| <ID> |` in it, open the file in the third column, read only that ID's section (`## <ID> · Name`, or the `- **<ID> · Name**` line for techniques).
+Never name a technique or framework you have not opened in this conversation. In the output and the trace, name only IDs you opened; call unopened IDs "the row's other options" instead of naming them. Never read `../../knowledge/index.md` whole: Grep `\| <ID> \|` (pipes escaped) in it, open the file in the third column, read only that ID's section (`## <ID> · Name`, or the `- **<ID> · Name**` line for techniques).
 
 Read:
 1. The framework and story type in the structure's trace (re-open them if they are not in this conversation).
-2. The technique IDs in the brief's Goal map row (`../../knowledge/domains/<domain>.md`, `## Goal map`). Pick 2–4 that fit the beats.
+2. The technique IDs in the brief's Goal map row (`../../knowledge/domains/<domain>.md`, `## Goal map`). Pick 2–4 that fit the beats. If the row is `none: <keywords>`, use the row the structure's `Deviation:` names; if it names none, Grep the English keywords in index lines starting `\| T` and open at most 2.
 3. If the piece is told live (talk, toast, pitch, meeting, video): also the `## Goal map` of `../../knowledge/domains/oral.md`; open the technique IDs of the row that fits and use the ones that live in `techniques/delivery-` files (`../../knowledge/techniques/delivery-a.md`, `../../knowledge/techniques/delivery-b.md`).
 
 ## 2. Write

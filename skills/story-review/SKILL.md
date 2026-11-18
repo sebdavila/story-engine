@@ -19,7 +19,7 @@ Never cite an ID you have not opened in this conversation.
 2. `../../knowledge/questions/diagnose-draft.md`.
 3. The `## Mistakes` section of `../../knowledge/domains/<domain>.md` (read only that section).
 
-To open a fix ID the rubric points to (F, S, T), Grep `| <ID> |` in `../../knowledge/index.md` (never read the index whole), open the file in the third column, read only that ID's section.
+To open a fix ID the rubric points to (F, S, T), Grep `\| <ID> \|` (pipes escaped) in `../../knowledge/index.md` (never read the index whole), open the file in the third column, read only that ID's section.
 
 ## 2. Score
 

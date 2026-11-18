@@ -15,7 +15,7 @@ Use the brief from story-coach or story-mining if it is in the conversation. If 
 
 Never name a framework, story type or technique you have not opened in this conversation. In the output and the trace, name only IDs you opened; call unopened IDs "the row's other options" instead of naming them. Never read `../../knowledge/index.md` whole (about 12,000 words): Grep it.
 
-To open an entry: Grep `| <ID> |` in `../../knowledge/index.md`, open the file in the third column, read only the `## <ID> · Name` section (down to the next `## `).
+To open an entry: Grep `\| <ID> \|` (pipes escaped) in `../../knowledge/index.md`, open the file in the third column, read only the `## <ID> · Name` section (down to the next `## `).
 
 ## 2. Route A: from the Goal map to one framework
 
@@ -26,7 +26,7 @@ To open an entry: Grep `| <ID> |` in `../../knowledge/index.md`, open the file i
 
 A row fits only if its Goal names the same job as the objective. Pick rows only from the brief's one domain; never borrow a row or a Formats entry from another domain guide to justify a framework.
 
-No row fits (brief says `none: <keywords>`, or nothing matches): Grep the keywords in the Name column of `../../knowledge/index.md` (lines starting `| F` and `| S`), keep at most 2 candidates, open both, pick one, and say in the trace's `Deviation:` line that no Goal map row fit and which keywords you searched.
+No row fits (brief says `none: <keywords>`, or nothing matches): Grep English keywords in the Name column of `../../knowledge/index.md` (lines starting `| F` and `| S`), keep at most 2 candidates, open both, pick one, and say in the trace's `Deviation:` line that no Goal map row fit and which keywords you searched. If the search finds no framework, broaden the keywords once; if still nothing, use the closest row in the brief's domain and say so in `Deviation:`.
 
 ## 3. Beat map
 

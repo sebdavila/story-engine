@@ -32,7 +32,7 @@ Do not read the domain guides whole. Grep `^## When to use` with about 8 lines o
 
 ## 3. Pick the Goal map row
 
-Open `../../knowledge/domains/<domain>.md` and read only its `## Goal map` table. Copy the Goal cell that best matches the objective into `Goal map row`. If no row fits, write `none: ` plus 2–4 keywords that describe the objective; the next skill searches the index with them.
+Open `../../knowledge/domains/<domain>.md` and read only its `## Goal map` table. Copy the Goal cell that best matches the objective into `Goal map row`. If no row fits, write `none: ` plus 2–4 English keywords that describe the objective (the index names are in English); the next skill searches the index with them.
 
 ## 4. Route
 

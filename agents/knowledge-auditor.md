@@ -20,7 +20,7 @@ If the output has no `Knowledge trace` block, stop: reply with `Auditor verdict:
 ## How to open an entry
 
 Never read `index.md` whole (about 12,000 words). For each ID:
-- F, S or T ID: Grep `| <ID> |` in `<knowledge>/index.md`. The third column is the file. Open that file and read only the section for that ID: a `## <ID> · Name` heading down to the next `## `, or a `- **<ID> · Name**` line.
+- F, S or T ID: Grep `\| <ID> \|` (pipes escaped) in `<knowledge>/index.md`. The third column is the file. Open that file and read only the section for that ID: a `## <ID> · Name` heading down to the next `## `, or a `- **<ID> · Name**` line.
 - Q ID: Grep `**<ID>**` in `<knowledge>/questions/`.
 - R ID: `<knowledge>/rubric.md`.
 
@@ -29,7 +29,7 @@ Never read `index.md` whole (about 12,000 words). For each ID:
 1. **IDs exist.** Every ID in the trace (and any ID in the output) is found by the lookup above.
 2. **Framework steps present.** Every numbered step of the cited framework appears in the output, in a form a reader could point to. Name the first missing step.
 3. **Techniques placed.** Each technique sits where the trace says it does, and the output does what the technique's line describes.
-4. **Framework fits Goal map.** Open `<knowledge>/domains/<domain>.md`, find the brief's Goal map row. The cited framework is in that row's Framework cell, or the trace's `Deviation:` line gives a reason that holds. If the brief says `none: <keywords>`, check that the framework's Name matches those keywords.
+4. **Framework fits Goal map.** Open `<knowledge>/domains/<domain>.md`, find the brief's Goal map row. The cited framework is in that row's Framework cell, or the trace's `Deviation:` line gives a reason that holds. If the brief says `none: <keywords>`, check that the `Deviation:` line names the keywords searched and that the framework's Name, or the closest row it names, relates to the objective.
 
 Also list advice in the output that is not grounded in any opened entry (generic tips such as "be authentic", "use vivid language" with no ID behind them).
 

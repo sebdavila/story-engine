@@ -41,26 +41,37 @@ def tool_results_text(lines, main_only=False):
     return "\n".join(out)
 
 
+INDEX_LINES = len((KNOWLEDGE / "index.md").read_text().splitlines())
+
+
+def reads_index_whole(b):
+    inp = b["input"]
+    path = inp.get("file_path") or inp.get("path") or ""
+    if not path.endswith("knowledge/index.md"):
+        return False
+    if b["name"] == "Read":
+        return not inp.get("limit") or inp["limit"] >= INDEX_LINES
+    if b["name"] == "Grep":
+        try:
+            return re.search(inp.get("pattern", ""), "") is not None
+        except re.error:
+            return False
+    return False
+
+
 def facts(lines):
     files = index_files()
     final = next((l.get("result", "") for l in reversed(lines) if l.get("type") == "result"), "")
     uses = list(tool_uses(lines))
-    main_reads = [(b["input"].get("file_path") or b["input"].get("path") or "", b["input"].get("pattern", ""))
-                  for parent, b in uses if parent is None and b["name"] in ("Read", "Grep")]
+    main_reads = [b["input"].get("file_path", "") for parent, b in uses if parent is None and b["name"] == "Read"]
 
     main_results = tool_results_text(lines, main_only=True)
 
     def was_read(i):
         if re.search(rf"(## |\*\*){i} ·", main_results):
             return True
-        target = "knowledge/" + files[i]
-        for path, pattern in main_reads:
-            if path.endswith(target):
-                return True
-            rel = path.split("knowledge", 1)[1].strip("/") if "knowledge" in path else None
-            if rel is not None and files[i].startswith(rel) and re.search(rf"\b{i}\b", pattern):
-                return True
-        return False
+        # A Grep counts only through the heading check above; a Read counts by its path.
+        return any(path.endswith("knowledge/" + files[i]) for path in main_reads)
     trace = final.rsplit("Knowledge trace", 1)[1] if "Knowledge trace" in final else ""
     trace = re.split(r"Auditor verdict|Reviewer score|## QA pending", trace)[0]
     cited = sorted(set(ID.findall(trace)))
@@ -76,18 +87,13 @@ def facts(lines):
         "cited_ids": cited,
         "missing_ids": [i for i in cited if i not in files],
         "unread_ids": [i for i in cited if i in files and not was_read(i)],
-        "index_read_whole": any(b["name"] == "Read" and b["input"].get("file_path", "").endswith("knowledge/index.md")
-                                and not b["input"].get("limit") for _, b in uses),
+        "index_read_whole": any(reads_index_whole(b) for _, b in uses),
         "auditor_verdicts": verdicts,
         "reviewer_scores": scores,
         "auditor_verdict": final_verdict[-1] if final_verdict else (verdicts[-1] if verdicts else None),
         "reviewer_score": int(final_score[-1]) if final_score else (scores[-1] if scores else None),
         "final_text": final,
     }
-
-
-def out_unread(lines):
-    return facts(lines)["unread_ids"]
 
 
 def demo():
@@ -112,28 +118,27 @@ def demo():
     assert out["trace_present"] is True
     assert out["auditor_verdict"] == "FAIL"
     assert out["reviewer_score"] == 12
-    # A Grep on the entry's file counts as reading it; the contract text "PASS|FAIL" is not a verdict.
+    # A Grep counts only when its result shows the entry heading; "PASS|FAIL" is not a verdict.
     lines[1]["message"]["content"][0] = {"type": "tool_use", "id": "b", "name": "Grep",
-                                         "input": {"pattern": "^## F224", "path": f"/x/knowledge/{files[real]}"}}
+                                         "input": {"pattern": "^## F224", "path": "/x/knowledge"}}
     lines.insert(0, {"type": "user", "message": {"content": [
         {"type": "tool_result", "content": "Auditor verdict: PASS|FAIL"}]}})
     out = facts(lines)
-    assert out["unread_ids"] == [], out["unread_ids"]
+    assert out["unread_ids"] == ["F224"], out["unread_ids"]
     assert out["auditor_verdicts"] == ["FAIL"], out["auditor_verdicts"]
-    # A Grep for the ID over a parent directory also counts; verdicts keep transcript order.
-    lines[2]["message"]["content"][0]["input"] = {"pattern": "^## (F100|F224) ", "path": "/x/knowledge"}
     lines.insert(0, {"type": "user", "message": {"content": [
-        {"type": "tool_result", "content": "Auditor verdict: PASS"}]}})
+        {"type": "tool_result", "content": "frameworks/x.md:65:## F224 · Something\nAuditor verdict: PASS"}]}})
     out = facts(lines)
     assert out["unread_ids"] == [], out["unread_ids"]
     assert out["auditor_verdicts"] == ["PASS", "FAIL"], out["auditor_verdicts"]
-    # An entry heading returned by a main-thread tool counts, whatever the pattern looked like.
-    lines[3]["message"]["content"][0]["input"] = {"pattern": "^## F22[4]", "path": "/x/knowledge"}
-    assert out_unread(lines) == ["F224"]
-    lines.insert(0, {"type": "user", "message": {"content": [
-        {"type": "tool_result", "content": "frameworks/x.md:65:## F224 · Something"}]}})
-    assert out_unread(lines) == []
-    lines[5]["message"]["content"][0]["input"].pop("limit")
+    # Whole index: a Read without a small limit, or a Grep whose pattern matches every line.
+    index_read = lines[4]["message"]["content"][0]
+    index_read["input"]["limit"] = 2000
+    assert facts(lines)["index_read_whole"] is True
+    lines[4]["message"]["content"][0] = {"type": "tool_use", "id": "c", "name": "Grep",
+                                         "input": {"pattern": r"\| F224 \|", "path": "/x/knowledge/index.md"}}
+    assert facts(lines)["index_read_whole"] is False
+    lines[4]["message"]["content"][0]["input"]["pattern"] = "| F224 |"
     assert facts(lines)["index_read_whole"] is True
     print("selftest OK")
 

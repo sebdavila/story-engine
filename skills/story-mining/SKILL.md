@@ -17,7 +17,7 @@ Use the brief from story-coach if it is in the conversation. If not, build a min
 
 Hard gate: read these before your first mining question. Never name an ID you have not opened.
 
-1. The story type IDs in the brief's Goal map row. For each, Grep `| <ID> |` in `../../knowledge/index.md` (never read the index whole), open the file in the third column, and read only that `## <ID> · Name` section. It tells you what kind of incident to look for.
+1. The story type IDs in the brief's Goal map row. For each, Grep `\| <ID> \|` (pipes escaped) in `../../knowledge/index.md` (never read the index whole), open the file in the third column, and read only that `## <ID> · Name` section. It tells you what kind of incident to look for.
 2. One or two question groups from `../../knowledge/questions/`, chosen by the brief:
 
 | Brief points to | Group |
@@ -33,7 +33,7 @@ Hard gate: read these before your first mining question. Never name an ID you ha
 
 Questions are lines `- **Q123** ...`. Pick the ones that aim at a lived scene, not an opinion.
 
-If the Goal map row is `none: <keywords>`, Grep the keywords in the Name column of `../../knowledge/index.md` (lines starting `| S`), keep at most 2 candidate story types, open them, and say so to the user.
+If the Goal map row is `none: <keywords>`, Grep the English keywords in the Name column of `../../knowledge/index.md` (lines starting `| S`), keep at most 2 candidate story types, open them, and say so to the user.
 
 ## 2. Mine
 

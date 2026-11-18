@@ -46,19 +46,19 @@ TRACE_LABELS = ["Knowledge trace", "- Read:", "- Framework:", "- Techniques:", "
 # Text each skill must contain. Tasks 3-7 add their skill here.
 SKILL_NEEDLES = {
     "story-coach": BRIEF_LABELS + ["story-mining", "story-structure", "story-draft",
-                                   "story-review", "When to use", "Goal map", "exactly one question"],
+                                   "story-review", "When to use", "Goal map", "exactly one question", "English keywords"],
     "story-mining": ["../../knowledge/questions/", "founder-and-origin", "customer-and-buyer",
                      "personal-memory", "story-structure", "index.md"],
     "story-structure": TRACE_LABELS + ["story-engine:knowledge-auditor", "## QA pending",
                                        "no QA", "Goal map", "index.md", "at most 2 candidates",
                                        "## Formats", "story-draft", "Deliver in your reply",
                                        "make it a story", "fresh Agent call", "name only IDs you opened", "before changing anything",
-                                       "never borrow"],
+                                       "never borrow", "English keywords", "closest row"],
     "story-draft": TRACE_LABELS + ["story-engine:knowledge-auditor", "story-engine:story-reviewer",
                                    "14/20", "## QA pending", "no QA", "techniques/delivery-",
                                    "story-structure", "index.md", "Deliver in your reply",
                                    "Never stop without a draft", "LinkedIn post", "escríbeme un post", "short or quick",
-                                   "fresh Agent call"],
+                                   "fresh Agent call", "`\\| T`"],
     "story-review": ["../../knowledge/rubric.md", "../../knowledge/questions/diagnose-draft.md",
                      "## Mistakes", "story-draft", "Reviewer score:", "No preamble"],
 }
@@ -75,6 +75,7 @@ def check_skills():
         assert len(text.splitlines()) < 500, f"{path}: too long"
         for needle in needles:
             assert needle in text, f"{name} lacks {needle!r}"
+        assert "`| <ID> |`" not in text, f"{name}: unescaped index pattern matches every line"
         for ref in KNOWLEDGE_REF.findall(text):
             ref = ref.rstrip(".")
             if "<" in ref or "*" in ref:
@@ -104,6 +105,8 @@ def check_agents():
     assert meta.get("model") == "sonnet"
     assert meta.get("tools") == "Read, Grep, Glob"
     body = auditor.read_text()
+    assert "`| <ID> |`" not in body, "auditor: unescaped index pattern"
+    assert "keywords searched" in body, "auditor: no-row check"
     for label in AUDITOR_LABELS:
         assert label in body, f"auditor lacks {label!r}"
     reviewer = ROOT / "agents/story-reviewer.md"
