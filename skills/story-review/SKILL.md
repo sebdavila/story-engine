@@ -27,7 +27,7 @@ Score R01 to R10, 0, 1 or 2 each, as the named audience would receive the piece.
 
 ## 3. Reply
 
-Start with:
+No preamble: the first line of your reply is the `Reviewer score:` line. Start with:
 
 ```
 Reviewer score: <n>/20

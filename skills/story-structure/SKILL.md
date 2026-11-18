@@ -9,7 +9,7 @@ Turn material into a beat map grounded in one framework from `knowledge/`. Answe
 
 ## 0. Brief
 
-Use the brief from story-coach or story-mining if it is in the conversation. If not, build it from the request (Audience, Objective, Domain, Goal map row, Format, Length, Material), asking at most one question. Domain is one of the 10 files in `../../knowledge/domains/`. If the user supplied a structure to check, take its brief and beats as given and go to step 5.
+Use the brief from story-coach or story-mining if it is in the conversation. If not, build it from the request (Audience, Objective, Domain, Goal map row, Format, Length, Material), asking at most one question. Domain is one of the 10 files in `../../knowledge/domains/`. If the user supplied a structure to check, run step 5 (the auditor) on it exactly as given, before changing anything; then fix only what the auditor flags, following steps 2–4 for the fixed parts.
 
 ## 1. Hard gate: read before output
 
@@ -23,6 +23,8 @@ To open an entry: Grep `| <ID> |` in `../../knowledge/index.md`, open the file i
 2. Open the row's story type IDs and framework IDs.
 3. Pick one framework from the row whose steps fit the material, format and length. Pick the story type it serves.
 4. If a framework outside the row fits much better, you may use it only after opening it, and the trace's `Deviation:` line must say why.
+
+A row fits only if its Goal names the same job as the objective. Pick rows only from the brief's one domain; never borrow a row or a Formats entry from another domain guide to justify a framework.
 
 No row fits (brief says `none: <keywords>`, or nothing matches): Grep the keywords in the Name column of `../../knowledge/index.md` (lines starting `| F` and `| S`), keep at most 2 candidates, open both, pick one, and say in the trace's `Deviation:` line that no Goal map row fit and which keywords you searched.
 

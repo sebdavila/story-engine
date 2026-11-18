@@ -1,6 +1,6 @@
 ---
 name: story-coach
-description: Entry point for storytelling help. Builds a short brief (audience, objective, domain, format, length, material) and routes to the right story-engine skill. Use when a storytelling request is vague or mixed, e.g. "help me tell a story", "I need a story for my presentation", "make this more of a story", "ayúdame con una historia", "necesito contar una historia", "cómo cuento esto", "me ajuda a contar uma história", "preciso de uma história para minha apresentação". For an explicit request (find a story, structure, write, review) the specific skill can trigger directly.
+description: Entry point for storytelling help, including short or quick pieces. Builds a short brief (audience, objective, domain, format, length, material) and routes to the right story-engine skill. Use when a storytelling request is vague or mixed, e.g. "help me tell a story", "I need a story for my presentation", "make this more of a story", "ayúdame con una historia", "necesito contar una historia", "cómo cuento esto", "me ajuda a contar uma história", "preciso de uma história para minha apresentação". For an explicit request (find a story, structure, write, review) the specific skill can trigger directly.
 ---
 
 # story-coach
@@ -11,7 +11,7 @@ Answer in the user's language. Keep the brief labels in English.
 
 ## 1. Build the brief
 
-Fill this block from what the user already said. Ask only for what is missing, one question per message, at most 3 questions in total. If the user does not know, state the default you will use and move on.
+Fill this block from what the user already said. Ask only for what is missing: each message holds exactly one question (one question mark, one topic; do not bundle "and who is the audience?"), at most 3 questions in total. If the user does not know, state the default you will use and move on.
 
 ```
 Brief

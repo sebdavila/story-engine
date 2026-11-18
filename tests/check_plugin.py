@@ -46,20 +46,21 @@ TRACE_LABELS = ["Knowledge trace", "- Read:", "- Framework:", "- Techniques:", "
 # Text each skill must contain. Tasks 3-7 add their skill here.
 SKILL_NEEDLES = {
     "story-coach": BRIEF_LABELS + ["story-mining", "story-structure", "story-draft",
-                                   "story-review", "When to use", "Goal map"],
+                                   "story-review", "When to use", "Goal map", "exactly one question"],
     "story-mining": ["../../knowledge/questions/", "founder-and-origin", "customer-and-buyer",
                      "personal-memory", "story-structure", "index.md"],
     "story-structure": TRACE_LABELS + ["story-engine:knowledge-auditor", "## QA pending",
                                        "no QA", "Goal map", "index.md", "at most 2 candidates",
                                        "## Formats", "story-draft", "Deliver in your reply",
-                                       "make it a story", "fresh Agent call", "name only IDs you opened"],
+                                       "make it a story", "fresh Agent call", "name only IDs you opened", "before changing anything",
+                                       "never borrow"],
     "story-draft": TRACE_LABELS + ["story-engine:knowledge-auditor", "story-engine:story-reviewer",
                                    "14/20", "## QA pending", "no QA", "techniques/delivery-",
                                    "story-structure", "index.md", "Deliver in your reply",
-                                   "Never stop without a draft", "LinkedIn post", "escríbeme un post",
+                                   "Never stop without a draft", "LinkedIn post", "escríbeme un post", "short or quick",
                                    "fresh Agent call"],
     "story-review": ["../../knowledge/rubric.md", "../../knowledge/questions/diagnose-draft.md",
-                     "## Mistakes", "story-draft", "Reviewer score:"],
+                     "## Mistakes", "story-draft", "Reviewer score:", "No preamble"],
 }
 KNOWLEDGE_REF = re.compile(r"\.\./\.\./knowledge/([\w./*<>-]*)")
 

@@ -1,6 +1,6 @@
 ---
 name: story-draft
-description: Writes the story, or prepares it to be told out loud, from a structure, applying techniques from the story-engine knowledge base, then runs QA (knowledge audit and blind rubric review). Use when a structure is ready or the user asks to write, tell or finalize a story or a story-based piece (LinkedIn post, social post, script, speech, pitch), e.g. "write this story", "draft the pitch", "write a LinkedIn post about the day...", "make it a story and write it", "escríbeme un post sobre", "escribe un guion", "help me tell this out loud", "finalize this draft", "escribe la historia", "redacta el post", "cuéntala en voz alta", "escreva a história", "me ajuda a contar em voz alta".
+description: Use even for short or quick pieces ("es algo rápido", "post corto"). Writes the story, or prepares it to be told out loud, from a structure, applying techniques from the story-engine knowledge base, then runs QA (knowledge audit and blind rubric review). Use when a structure is ready or the user asks to write, tell or finalize a story or a story-based piece (LinkedIn post, social post, script, speech, pitch), e.g. "write this story", "draft the pitch", "write a LinkedIn post about the day...", "make it a story and write it", "escríbeme un post sobre", "escribe un guion", "help me tell this out loud", "finalize this draft", "escribe la historia", "redacta el post", "cuéntala en voz alta", "escreva a história", "me ajuda a contar em voz alta".
 ---
 
 # story-draft
