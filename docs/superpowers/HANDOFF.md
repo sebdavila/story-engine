@@ -1,4 +1,4 @@
-# Handoff — story-engine (Plan escala cerrado 2026-11-17)
+# Handoff — story-engine (Plan 2 cerrado 2026-11-17)
 
 Para retomar: abrir Claude Code en `/Users/sdavila/Desktop/Storytelling/story-engine` y decir "retoma story-engine desde el HANDOFF".
 
@@ -24,7 +24,17 @@ Piloto cerrado 2026-11-17: Sebastián aprobó structure.md y business.md; revisi
 1. ~~Antes de escalar~~ hecho 2026-11-17: plan `plans/2026-11-17-pre-scale-fixes.md`, destilado f4c763d..ae6e814. IDs de 3 dígitos, un hogar por ID, cobertura de los tres tipos (incluye sub-ítems en cursiva), `--allow`, `--books` obligatorio, `fuentes.py`, prompts map-reduce (`lote.md`, `fusion.md`), redactores desde fuentes, fidelidad por archivo. Guías de dominio: una por dominio en `knowledge/domains/` (10).
 2. ~~Escalar~~ hecho 2026-11-17: plan `plans/2026-11-17-scale-run.md`, ledger `.superpowers/sdd/2026-11-17-scale-run/progress.md`. 83 archivos en `knowledge/`: F 381, S 191, T 656, Q 635, R 10. Fidelidad 209/213 (98%, mínimo 90%) en `../destilado/escala/fidelidad.md`. Pasada estricta de ejemplos (no recontar el ejemplo de la ficha) en los 37 archivos de frameworks (~176 reescritos) y los 10 de techniques (~139). Sebastián revisó index, frameworks y dominios: ok; mantener plantilla delgada en story types y frases-instrucción cortas entre comillas. Commits finales: destilado (ver `git log`), story-engine (ver `git log`). Plan original: `indice.py` por lote (5 × 11 fichas, orden alfabético) y en total; `lote.md` ×5; `fusion.md` ×3 (F, S, T); concatenar en `escala/clusters.md` y `escala/drop-log.md`; `fuentes.py`; redactores (Sonnet, máximo 4 en paralelo); `verificar.py` con `--books ../md` y `--allow escala/allow.md`; fidelidad por archivo. Los archivos del piloto en `knowledge/` se reemplazan.
 3. ~~Índice y congelar IDs~~ hecho: `knowledge/index.md` lo regenera `verificar.py --index`; IDs solo se agregan (regla en el spec, Knowledge entry format).
-4. Plan 2: skills, agentes de QA, evals y publicación (repo público `sebdavila/story-engine`, pedir ok antes de publicar). Antes de publicar: excluir o limpiar `docs/superpowers/` (rutas privadas y prompts de destilado) y revisar la línea Common mistakes de F100 (cita el deck de Parikh).
+4. ~~Plan 2: plugin local~~ hecho 2026-11-17: plan `plans/2026-11-17-plugin.md`, ledger `.superpowers/sdd/2026-11-17-plugin/progress.md`. 5 skills, 2 agentes de QA (knowledge-auditor, story-reviewer), 15 evals (`evals/run.sh`, `evals/check.py`), README, SOURCES, LICENSE.
+   - Evals: ronda 1 con fallos de enrutamiento, entrega y checker; ronda 2 10/15 mecánico, calidad aprobada por Sebastián 8/8 (caso 8 "aburrido" pero con buena estructura); ronda 3 15/15 mecánico y 15/15 calificado, tras corregir un falso negativo del checker (caso 15) y la expectativa del caso 7 (aceptar una fila de Goal map de science; ok de Sebastián). Resultados en `../story-engine-workspace/round-N/`.
+   - Umbral gate 2: 14/20 se mantiene (textos genéricos 2–11, borradores buenos 14–18).
+   - Instalado en local: `claude plugin marketplace add <repo>` + `claude plugin install story-engine@story-engine`; prueba con el caso 6 ok.
+   - Funciona completo en Claude Code y Cowork. En el chat de claude.ai cargan las skills pero no los agentes (sin gates).
+5. Plan 3: publicación (repo público `sebdavila/story-engine`). Pedir ok explícito antes de crear el repo o hacer push. Checklist:
+   - excluir o limpiar `docs/superpowers/` (rutas privadas y prompts de destilado);
+   - revisar la línea Common mistakes de F100 (cita el deck de Parikh);
+   - historial de git: tiene rutas privadas; publicar desde historial limpio;
+   - confirmar titular de LICENSE ("sebdavila");
+   - simulacro 2026-11-17: 105 archivos públicos, sin texto privado.
 
 ## A tener en cuenta
 
