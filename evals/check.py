@@ -26,10 +26,10 @@ def tool_uses(lines):
                 yield line.get("parent_tool_use_id"), block
 
 
-def tool_results_text(lines):
+def tool_results_text(lines, main_only=False):
     out = []
     for line in lines:
-        if line.get("type") != "user":
+        if line.get("type") != "user" or (main_only and line.get("parent_tool_use_id")):
             continue
         content = line.get("message", {}).get("content", [])
         for block in content if isinstance(content, list) else []:
@@ -48,7 +48,11 @@ def facts(lines):
     main_reads = [(b["input"].get("file_path") or b["input"].get("path") or "", b["input"].get("pattern", ""))
                   for parent, b in uses if parent is None and b["name"] in ("Read", "Grep")]
 
+    main_results = tool_results_text(lines, main_only=True)
+
     def was_read(i):
+        if re.search(rf"(## |\*\*){i} ·", main_results):
+            return True
         target = "knowledge/" + files[i]
         for path, pattern in main_reads:
             if path.endswith(target):
@@ -80,6 +84,10 @@ def facts(lines):
         "reviewer_score": int(final_score[-1]) if final_score else (scores[-1] if scores else None),
         "final_text": final,
     }
+
+
+def out_unread(lines):
+    return facts(lines)["unread_ids"]
 
 
 def demo():
@@ -119,7 +127,13 @@ def demo():
     out = facts(lines)
     assert out["unread_ids"] == [], out["unread_ids"]
     assert out["auditor_verdicts"] == ["PASS", "FAIL"], out["auditor_verdicts"]
-    lines[4]["message"]["content"][0]["input"].pop("limit")
+    # An entry heading returned by a main-thread tool counts, whatever the pattern looked like.
+    lines[3]["message"]["content"][0]["input"] = {"pattern": "^## F22[4]", "path": "/x/knowledge"}
+    assert out_unread(lines) == ["F224"]
+    lines.insert(0, {"type": "user", "message": {"content": [
+        {"type": "tool_result", "content": "frameworks/x.md:65:## F224 · Something"}]}})
+    assert out_unread(lines) == []
+    lines[5]["message"]["content"][0]["input"].pop("limit")
     assert facts(lines)["index_read_whole"] is True
     print("selftest OK")
 
