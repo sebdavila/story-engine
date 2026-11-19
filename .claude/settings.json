@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "story-engine": {
+      "source": {
+        "source": "github",
+        "repo": "sebdavila/story-engine"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "story-engine@story-engine": true
+  }
+}
